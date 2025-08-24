@@ -1,0 +1,1451 @@
+{
+  "cadadadb": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui fait sourire",
+          "de": "Nenne etwas, das zum Lächeln bringt",
+          "en": "Something that makes you smile",
+          "es": "Algo que hace sonreír",
+          "it": "Qualcosa che fa sorridere",
+          "ja": "笑顔にしてくれるもの",
+          "ko": "미소 짓게 하는 것",
+          "nl": "Iets wat doet glimlachen",
+          "pl": "Coś, co wywołuje uśmiech",
+          "pt": "Algo que faz sorrir",
+          "ru": "Что-то, что заставляет улыбаться",
+          "tr": "Gülümseten bir şey"
+        }
+      }
+    ]
+  },
+  "fdf0d89b": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose que tu aimes dans ta vie",
+          "de": "Nenne etwas, das du in deinem Leben liebst",
+          "en": "Something you love in your life",
+          "es": "Algo que amas en tu vida",
+          "it": "Qualcosa che ami nella tua vita",
+          "ja": "自分の人生で好きなもの",
+          "ko": "네 삶에서 좋아하는 것",
+          "nl": "Iets dat je leuk vindt in je leven",
+          "pl": "Coś, co kochasz w swoim życiu",
+          "pt": "Algo que você ama na sua vida",
+          "ru": "Что-то, что ты любишь в своей жизни",
+          "tr": "Hayatında sevdiğin bir şey"
+        }
+      }
+    ]
+  },
+  "b9580965": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans une chambre",
+          "de": "Nenne etwas, das man in einem Schlafzimmer findet",
+          "en": "Something you find in a bedroom",
+          "es": "Algo que se encuentra en un dormitorio",
+          "it": "Qualcosa che si trova in una camera da letto",
+          "ja": "寝室にあるもの",
+          "ko": "방에서 찾을 수 있는 것",
+          "nl": "Iets dat je in een slaapkamer vindt",
+          "pl": "Coś, co można znaleźć w sypialni",
+          "pt": "Algo que se encontra em um quarto",
+          "ru": "Что-то, что можно найти в комнате",
+          "tr": "Yatak odasında bulunan bir şey"
+        }
+      }
+    ]
+  },
+  "61505e4f": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui fait peur",
+          "de": "Nenne etwas, das Angst macht",
+          "en": "Something that is scary",
+          "es": "Algo que da miedo",
+          "it": "Qualcosa che fa paura",
+          "ja": "怖いもの",
+          "ko": "무섭게 하는 것",
+          "nl": "Iets dat angst aanjaagt",
+          "pl": "Coś, co przeraża",
+          "pt": "Algo que dá medo",
+          "ru": "Что-то, что пугает",
+          "tr": "Korkutan bir şey"
+        }
+      }
+    ]
+  },
+  "8000669b": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une chose qui est meilleure quand c’est partagé",
+          "de": "Nenne etwas, das besser ist, wenn man es teilt",
+          "en": "Name one thing that’s better when shared",
+          "es": "Nombra algo que es mejor cuando se comparte",
+          "it": "Cita qualcosa che è migliore quando è condivisa",
+          "ja": "分け合うとさらに良いものを一つ挙げて",
+          "ko": "함께 나누면 더 좋은 것 하나 말하기",
+          "nl": "Noem iets dat beter is wanneer het gedeeld wordt",
+          "pl": "Coś lepszego, gdy jest dzielone",
+          "pt": "Algo que é melhor quando compartilhado",
+          "ru": "Назови вещь, которая лучше, когда ею делятся",
+          "tr": "Paylaşınca daha güzel olan bir şey"
+        }
+      }
+    ]
+  },
+  "f6d8182f": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une chose qui est meilleure quand c’est trempé dans du chocolat",
+          "de": "Nenne etwas, das besser ist, wenn man es in Schokolade taucht",
+          "en": "Name one thing that’s better dipped in chocolate",
+          "es": "Nombra algo que es mejor cuando se baña en chocolate",
+          "it": "Cita qualcosa che è migliore quando è immersa nel cioccolato",
+          "ja": "チョコに浸すとさらに美味しいものを一つ挙げて",
+          "ko": "초콜릿에 담그면 더 맛있는 것 하나 말하기",
+          "nl": "Noem iets dat beter is als het in chocolade gedoopt wordt",
+          "pl": "Coś lepszego, gdy jest zanurzone w czekoladzie",
+          "pt": "Algo que é melhor mergulhado em chocolate",
+          "ru": "Назови вещь, которая становится лучше, когда её окунают в шоколад",
+          "tr": "Çikolataya batınca daha lezzetli olan bir şey"
+        }
+      }
+    ]
+  },
+  "e7e57167": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui fait mal",
+          "de": "Nenne etwas, das weh tut",
+          "en": "Something that hurts",
+          "es": "Algo que duele",
+          "it": "Qualcosa che fa male",
+          "ja": "痛いもの",
+          "ko": "아픈 것",
+          "nl": "Iets dat pijn doet",
+          "pl": "Coś, co boli",
+          "pt": "Algo que dói",
+          "ru": "Что-то, что причиняет боль",
+          "tr": "Acı veren bir şey"
+        }
+      }
+    ]
+  },
+  "b1e142a8": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "La personne en face de moi est ….. ?",
+          "de": "Die Person mir gegenüber ist ….. ?",
+          "en": "The person opposite me is … ?",
+          "es": "La persona frente a mí es ….. ?",
+          "it": "La persona di fronte a me è ….. ?",
+          "ja": "目の前の人は……？",
+          "ko": "내 앞에 있는 사람은 ……?",
+          "nl": "De persoon tegenover mij is ….. ?",
+          "pl": "Osoba naprzeciwko mnie jest ….. ?",
+          "pt": "A pessoa na minha frente é ….. ?",
+          "ru": "Человек напротив меня — … ?",
+          "tr": "Karşımda duran kişi kim?"
+        }
+      }
+    ]
+  },
+  "0d098dbf": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on aime tous faire",
+          "de": "Nenne etwas, das wir alle gerne tun",
+          "en": "Something everyone loves to do",
+          "es": "Algo que todos amamos hacer",
+          "it": "Qualcosa che tutti amiamo fare",
+          "ja": "みんなが好きなこと",
+          "ko": "모두가 좋아하는 일",
+          "nl": "Iets dat we allemaal graag doen",
+          "pl": "Coś, co wszyscy lubimy robić",
+          "pt": "Algo que todos gostamos de fazer",
+          "ru": "То, что мы все любим делать",
+          "tr": "Hepimizin yapmaktan hoşlandığı bir şey"
+        }
+      }
+    ]
+  },
+  "4452e508": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on aimerait tous avoir",
+          "de": "Nenne etwas, das wir alle gerne hätten",
+          "en": "Something everyone wishes they had",
+          "es": "Algo que todos quisiéramos tener",
+          "it": "Qualcosa che tutti vorremmo avere",
+          "ja": "みんなが欲しいもの",
+          "ko": "모두가 갖고 싶어 하는 것",
+          "nl": "Iets dat we allemaal graag zouden willen hebben",
+          "pl": "Coś, co wszyscy chcielibyśmy mieć",
+          "pt": "Algo que todos gostaríamos de ter",
+          "ru": "То, что мы все хотели бы иметь",
+          "tr": "Hepimizin sahip olmak istediği bir şey"
+        }
+      }
+    ]
+  },
+  "d11ba1b6": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’un des joueurs déteste",
+          "de": "Nenne etwas, das einer der Spieler hasst",
+          "en": "Something one of the players hates",
+          "es": "Algo que uno de los jugadores odia",
+          "it": "Qualcosa che uno dei giocatori detesta",
+          "ja": "プレイヤーの一人が嫌いなもの",
+          "ko": "플레이어 중 한 명이 싫어하는 것",
+          "nl": "Iets dat één van de spelers haat",
+          "pl": "Coś, czego jeden z graczy nienawidzi",
+          "pt": "Algo que um dos jogadores detesta",
+          "ru": "То, что один из игроков ненавидит",
+          "tr": "Oyunculardan birinin nefret ettiği bir şey"
+        }
+      }
+    ]
+  },
+  "3d88ab65": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quand je te vois, je …... ?",
+          "de": "Wenn ich dich sehe, …... ?",
+          "en": "When I see you, I … ?",
+          "es": "Cuando te veo, yo …... ?",
+          "it": "Quando ti vedo, io …... ?",
+          "ja": "君を見ると、私は……？",
+          "ko": "너를 보면 나는 ……?",
+          "nl": "Als ik je zie, dan …... ?",
+          "pl": "Kiedy cię widzę, …",
+          "pt": "Quando eu te vejo, eu …... ?",
+          "ru": "Когда я тебя вижу, я … ?",
+          "tr": "Seni görünce…"
+        }
+      }
+    ]
+  },
+  "73c3ce68": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "La pire excuse pour esquiver un 'date'",
+          "de": "Die schlimmste Ausrede, um ein Date zu meiden",
+          "en": "The worst excuse to dodge a date",
+          "es": "La peor excusa para esquivar una cita",
+          "it": "La peggior scusa per evitare un appuntamento",
+          "ja": "デートを避ける最悪の言い訳",
+          "ko": "‘데이트’를 피하기 위한 최악의 변명",
+          "nl": "Het slechtste excuus om een date af te zeggen",
+          "pl": "Najgorsza wymówka, by uniknąć randki",
+          "pt": "A pior desculpa para fugir de um encontro",
+          "ru": "Худшая отговорка, чтобы избежать свидания",
+          "tr": "Bir randevudan kaçmak için en kötü bahane"
+        }
+      }
+    ]
+  },
+  "4fe2206a": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un cadeau à ne pas faire à la saint valentin",
+          "de": "Ein Geschenk, das man zum Valentinstag nicht machen sollte",
+          "en": "A gift not to give on Valentine’s Day",
+          "es": "Un regalo que no hay que dar en San Valentín",
+          "it": "Un regalo da non fare a San Valentino",
+          "ja": "バレンタインに贈ってはいけないプレゼント",
+          "ko": "발렌타인데이에 하면 안 되는 선물",
+          "nl": "Een cadeau dat je niet moet geven met Valentijn",
+          "pl": "Prezent, którego nie dawać na Walentynki",
+          "pt": "Um presente para não dar no Dia dos Namorados",
+          "ru": "Подарок, который не стоит дарить на День святого Валентина",
+          "tr": "Sevgililer Günü’nde verilmemesi gereken bir hediye"
+        }
+      }
+    ]
+  },
+  "a5dfaeaf": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un lieu pour un premier rendez-vous",
+          "de": "Ein Ort für ein erstes Date",
+          "en": "A place for a first date",
+          "es": "Un lugar para una primera cita",
+          "it": "Un luogo per un primo appuntamento",
+          "ja": "初デートの場所",
+          "ko": "첫 데이트 장소",
+          "nl": "Een plek voor een eerste afspraakje",
+          "pl": "Miejsce na pierwszą randkę",
+          "pt": "Um lugar para um primeiro encontro",
+          "ru": "Место для первого свидания",
+          "tr": "İlk buluşma için bir yer"
+        }
+      }
+    ]
+  },
+  "4805c419": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un dessert qu’on se partage à la cuillère",
+          "de": "Ein Dessert, das man mit dem Löffel teilt",
+          "en": "A dessert you share with one spoon",
+          "es": "Un postre que se comparte con una cuchara",
+          "it": "Un dessert da condividere con il cucchiaio",
+          "ja": "スプーンで分け合うデザート",
+          "ko": "숟가락으로 함께 먹는 디저트",
+          "nl": "Een dessert dat je samen met een lepel deelt",
+          "pl": "Deser, którym dzielimy się łyżką",
+          "pt": "Uma sobremesa para dividir na colher",
+          "ru": "Десерт, который едят вместе ложкой",
+          "tr": "Kaşıkla paylaşılan bir tatlı"
+        }
+      }
+    ]
+  },
+  "68542b80": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un lieu pour une demande en mariage",
+          "de": "Ein Ort für einen Heiratsantrag",
+          "en": "A place for a marriage proposal",
+          "es": "Un lugar para pedir matrimonio",
+          "it": "Un luogo per fare una proposta di matrimonio",
+          "ja": "プロポーズの場所",
+          "ko": "프러포즈 장소",
+          "nl": "Een plek voor een huwelijksaanzoek",
+          "pl": "Miejsce na oświadczyny",
+          "pt": "Um lugar para pedir em casamento",
+          "ru": "Место для предложения руки и сердца",
+          "tr": "Evlilik teklifi için bir mekân"
+        }
+      }
+    ]
+  },
+  "14c57836": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une qualité chez ton partenaire",
+          "de": "Eine positive Eigenschaft deines Partners",
+          "en": "A quality in your partner",
+          "es": "Una cualidad de tu pareja",
+          "it": "Una qualità del tuo partner",
+          "ja": "パートナーの長所",
+          "ko": "파트너의 장점",
+          "nl": "Een kwaliteit van je partner",
+          "pl": "Zaleta twojego partnera",
+          "pt": "Uma qualidade do seu parceiro",
+          "ru": "Хорошее качество твоего партнёра",
+          "tr": "Partnerindeki bir iyi özellik"
+        }
+      }
+    ]
+  },
+  "ed2f24c7": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un défaut chez ton partenaire",
+          "de": "Ein Makel deines Partners",
+          "en": "A flaw in your partner",
+          "es": "Un defecto de tu pareja",
+          "it": "Un difetto del tuo partner",
+          "ja": "パートナーの短所",
+          "ko": "파트너의 단점",
+          "nl": "Een tekortkoming van je partner",
+          "pl": "Wada twojego partnera",
+          "pt": "Um defeito do seu parceiro",
+          "ru": "Недостаток твоего партнёра",
+          "tr": "Partnerindeki bir kusur"
+        }
+      }
+    ]
+  },
+  "298887af": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une émotion où un sentiment",
+          "de": "Nenne eine Emotion oder ein Gefühl",
+          "en": "Name an emotion or feeling",
+          "es": "Nombra una emoción o sentimiento",
+          "it": "Cita un’emozione o un sentimento",
+          "ja": "感情を一つ挙げて",
+          "ko": "감정 또는 느낌 하나 말하기",
+          "nl": "Noem een emotie of een gevoel",
+          "pl": "Nazwij emocję lub uczucie",
+          "pt": "Cite uma emoção ou sentimento",
+          "ru": "Назови эмоцию или чувство",
+          "tr": "Bir duygu belirt"
+        }
+      }
+    ]
+  },
+  "b42e7f1a": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "J'adore être avec toi car tu es …...... ?",
+          "de": "Ich liebe es, mit dir zu sein, weil du …...... ?",
+          "en": "I love being with you because you are … ?",
+          "es": "Me encanta estar contigo porque eres …...... ?",
+          "it": "Adoro stare con te perché sei …...... ?",
+          "ja": "私が君と一緒にいるのが好きなのは、君が……だから？",
+          "ko": "네가 ……이기 때문에 너와 함께 있는 게 좋아",
+          "nl": "Ik ben graag bij jou omdat je …...... bent ?",
+          "pl": "Uwielbiam być z tobą, ponieważ jesteś …",
+          "pt": "Adoro estar com você porque você é …...... ?",
+          "ru": "Мне нравится быть с тобой, потому что ты … ?",
+          "tr": "Seninle olmayı seviyorum çünkü sen…"
+        }
+      }
+    ]
+  },
+  "41e65bcf": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un lieu pas super pour la saint valentin",
+          "de": "Ein nicht so toller Ort für den Valentinstag",
+          "en": "A not‑so‑great place for Valentine’s Day",
+          "es": "Un lugar poco ideal para San Valentín",
+          "it": "Un luogo non ideale per San Valentino",
+          "ja": "バレンタインに不向きな場所",
+          "ko": "발렌타인 데이에 별로인 장소",
+          "nl": "Een niet zo geslaagde plek voor Valentijn",
+          "pl": "Słabe miejsce na Walentynki",
+          "pt": "Um lugar nada romântico para o Dia dos Namorados",
+          "ru": "Неудачное место для Дня святого Валентина",
+          "tr": "Sevgililer Günü için pek uygun olmayan bir yer"
+        }
+      }
+    ]
+  },
+  "608c8913": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot en rapport avec \"Amour\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Liebe\"",
+          "en": "Name a word related to \"love\"",
+          "es": "Nombra una palabra relacionada con \"Amor\"",
+          "it": "Cita una parola legata all’\"Amore\"",
+          "ja": "「愛」に関係する言葉を一つ挙げて",
+          "ko": "“사랑”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord dat bij \"Liefde\" hoort",
+          "pl": "Słowo związane z „Miłością\"",
+          "pt": "Uma palavra ligada a “Amor\"",
+          "ru": "Назови слово, связанное с \"любовью\"",
+          "tr": "“Aşk\" ile ilgili bir kelime"
+        }
+      }
+    ]
+  },
+  "5af76813": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot en rapport avec \"Couple\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Paar\"",
+          "en": "Name a word related to \"couple\"",
+          "es": "Nombra una palabra relacionada con \"Pareja\"",
+          "it": "Cita una parola legata alla \"Coppia\"",
+          "ja": "「カップル」に関係する言葉を一つ挙げて",
+          "ko": "“커플”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord dat bij \"Koppel\" hoort",
+          "pl": "Słowo związane z „Parą\"",
+          "pt": "Uma palavra ligada a “Casal\"",
+          "ru": "Назови слово, связанное с \"парой\"",
+          "tr": "“Çift\" ile ilgili bir kelime"
+        }
+      }
+    ]
+  },
+  "90128442": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot en rapport avec \"Bonheur\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Glück\"",
+          "en": "Name a word related to \"happiness\"",
+          "es": "Nombra una palabra relacionada con \"Felicidad\"",
+          "it": "Cita una parola legata alla \"Felicità\"",
+          "ja": "「幸せ」に関係する言葉を一つ挙げて",
+          "ko": "“행복”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord dat bij \"Geluk\" hoort",
+          "pl": "Słowo związane ze „Szczęściem\"",
+          "pt": "Uma palavra ligada a “Felicidade\"",
+          "ru": "Назови слово, связанное с \"счастьем\"",
+          "tr": "“Mutluluk\" ile ilgili bir kelime"
+        }
+      }
+    ]
+  },
+  "7bb8b372": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot en rapport avec \"Tendresse\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Zärtlichkeit\"",
+          "en": "Name a word related to \"tenderness\"",
+          "es": "Nombra una palabra relacionada con \"Ternura\"",
+          "it": "Cita una parola legata alla \"Tenerezza\"",
+          "ja": "「優しさ」に関係する言葉を一つ挙げて",
+          "ko": "“다정함”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord dat bij \"Tederheid\" hoort",
+          "pl": "Słowo związane z „Czułością\"",
+          "pt": "Uma palavra ligada a “Carinho\"",
+          "ru": "Назови слово, связанное с \"нежностью\"",
+          "tr": "“Şefkat\" ile ilgili bir kelime"
+        }
+      }
+    ]
+  },
+  "ec2279a5": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose qui est un \"tue-l'amour\"",
+          "de": "Nenne etwas, das ein Liebestöter ist",
+          "en": "A total romance killer",
+          "es": "Algo que es un \"mata‑pasiones\"",
+          "it": "Qualcosa che è un \"ammazza-amore\"",
+          "ja": "恋を冷ますもの",
+          "ko": "사랑을 식게 하는 것",
+          "nl": "Iets dat een \"afknapper\" is",
+          "pl": "Rzecz będąca „zabójcą miłości\"",
+          "pt": "Algo que acaba com o clima",
+          "ru": "То, что убивает любовь",
+          "tr": "Aşkı söndüren bir şey"
+        }
+      }
+    ]
+  },
+  "2a3c3f18": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quels sont nos points communs ?",
+          "de": "Was haben wir gemeinsam ?",
+          "en": "What do we have in common?",
+          "es": "¿Cuáles son nuestros puntos en común?",
+          "it": "Quali sono i nostri punti in comune ?",
+          "ja": "私たちの共通点は？",
+          "ko": "우리의 공통점은 무엇?",
+          "nl": "Wat zijn onze overeenkomsten?",
+          "pl": "Jakie mamy wspólne cechy?",
+          "pt": "Quais são nossos pontos em comum?",
+          "ru": "Какие у нас общие черты?",
+          "tr": "Ortak noktalarımız neler?"
+        }
+      }
+    ]
+  },
+  "079069e9": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Fait lui un compliment en disant l'inverse",
+          "de": "Mach ihm/ihr ein Kompliment, indem du das Gegenteil sagst",
+          "en": "Give them a compliment by saying the opposite",
+          "es": "Hazle un cumplido diciendo lo contrario",
+          "it": "Fagli un complimento dicendo il contrario",
+          "ja": "逆のことを言って褒めてあげて",
+          "ko": "반대로 말해서 칭찬해 주기",
+          "nl": "Geef hem/haar een compliment door het tegenovergestelde te zeggen",
+          "pl": "Powiedz mu komplement na odwrót",
+          "pt": "Faça-lhe um elogio dizendo o contrário",
+          "ru": "Сделай ему комплимент, сказав противоположное",
+          "tr": "Tersini söyleyerek ona iltifat et"
+        }
+      }
+    ]
+  },
+  "4bf70730": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un lieu romantique pour se retrouver",
+          "de": "Ein romantischer Ort zum Wiedersehen",
+          "en": "A romantic spot to meet up",
+          "es": "Un lugar romántico para encontrarse",
+          "it": "Un luogo romantico per ritrovarsi",
+          "ja": "再会するロマンチックな場所",
+          "ko": "다시 만날 로맨틱한 장소",
+          "nl": "Een romantische plek om elkaar te ontmoeten",
+          "pl": "Romantyczne miejsce na spotkanie",
+          "pt": "Um lugar romântico para se reencontrar",
+          "ru": "Романтическое место для встречи",
+          "tr": "Buluşmak için romantik bir yer"
+        }
+      }
+    ]
+  },
+  "22d4d8f5": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une excuse ridicule pour ne pas faire l'amour",
+          "de": "Eine lächerliche Ausrede, um keinen Sex zu haben",
+          "en": "A ridiculous excuse not to have sex",
+          "es": "Una excusa ridícula para no tener sexo",
+          "it": "Una scusa ridicola per non fare l’amore",
+          "ja": "セックスを断るときのばかげた言い訳",
+          "ko": "섹스를 피하는 웃긴 변명",
+          "nl": "Een belachelijk excuus om geen seks te hebben",
+          "pl": "Absurdalna wymówka, by nie uprawiać seksu",
+          "pt": "Uma desculpa ridícula para não fazer amor",
+          "ru": "Смешная отговорка, чтобы не заниматься любовью",
+          "tr": "Sevişmemek için saçma bir bahane"
+        }
+      }
+    ]
+  },
+  "abfc5b02": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose gênante à acheter au supermarché",
+          "de": "Ein peinlicher Einkaufsartikel im Supermarkt",
+          "en": "An awkward item to buy at the supermarket",
+          "es": "Algo embarazoso de comprar en el supermercado",
+          "it": "Qualcosa di imbarazzante da comprare al supermercato",
+          "ja": "スーパーで買うと恥ずかしいもの",
+          "ko": "마트에서 사기 민망한 것",
+          "nl": "Iets gênants om in de supermarkt te kopen",
+          "pl": "Krępujący zakup w supermarkecie",
+          "pt": "Algo constrangedor de comprar no supermercado",
+          "ru": "Неловкая вещь для покупки в супермаркете",
+          "tr": "Süpermarkette satın almak utanç verici bir şey"
+        }
+      }
+    ]
+  },
+  "e2915537": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une excuse pour ne pas embrasser quelqu’un",
+          "de": "Eine Ausrede, um jemanden nicht zu küssen",
+          "en": "An excuse not to kiss someone",
+          "es": "Una excusa para no besar a alguien",
+          "it": "Una scusa per non baciare qualcuno",
+          "ja": "キスを断る言い訳",
+          "ko": "키스하지 않을 핑계",
+          "nl": "Een excuus om iemand niet te kussen",
+          "pl": "Wymówka, by nie pocałować kogoś",
+          "pt": "Uma desculpa para não beijar alguém",
+          "ru": "Отговорка, чтобы не целовать кого-то",
+          "tr": "Birini öpmemek için bir bahane"
+        }
+      }
+    ]
+  },
+  "859925c0": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui gâche instantanément l'ambiance romantique",
+          "de": "Ein Wort, das sofort die romantische Stimmung zerstört",
+          "en": "A word that instantly ruins the romantic mood",
+          "es": "Una palabra que arruina al instante el ambiente romántico",
+          "it": "Una parola che rovina istantaneamente l’atmosfera romantica",
+          "ja": "一瞬でロマンチックな雰囲気を壊す言葉",
+          "ko": "즉시 로맨틱 분위기를 깨는 단어",
+          "nl": "Een woord dat onmiddellijk de romantische sfeer verpest",
+          "pl": "Słowo, które natychmiast psuje romantyczny nastrój",
+          "pt": "Uma palavra que estraga instantaneamente o clima romântico",
+          "ru": "Слово, мгновенно портящее романтическую атмосферу",
+          "tr": "Romantik havayı anında bozan bir kelime"
+        }
+      }
+    ]
+  },
+  "8e11c57a": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une phrase maladroite après un premier baiser",
+          "de": "Ein unbeholfener Satz nach dem ersten Kuss",
+          "en": "An awkward line after a first kiss",
+          "es": "Una frase torpe después de un primer beso",
+          "it": "Una frase goffa dopo un primo bacio",
+          "ja": "初めてのキスの後の気まずい一言",
+          "ko": "첫 키스 후 어색한 한마디",
+          "nl": "Een onhandige zin na een eerste kus",
+          "pl": "Niezręczne zdanie po pierwszym pocałunku",
+          "pt": "Uma frase desajeitada após o primeiro beijo",
+          "ru": "Неловкая фраза после первого поцелуя",
+          "tr": "İlk öpücükten sonra beceriksizce söylenen bir cümle"
+        }
+      }
+    ]
+  },
+  "857ae164": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui représente notre relation",
+          "de": "Ein Wort, das unsere Beziehung beschreibt",
+          "en": "A word that represents our relationship",
+          "es": "Una palabra que representa nuestra relación",
+          "it": "Una parola che rappresenta la nostra relazione",
+          "ja": "私たちの関係を表す言葉",
+          "ko": "우리 관계를 나타내는 단어",
+          "nl": "Een woord dat onze relatie beschrijft",
+          "pl": "Słowo opisujące naszą relację",
+          "pt": "Uma palavra que representa nossa relação",
+          "ru": "Слово, которое описывает наши отношения",
+          "tr": "İlişkimizi tanımlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "83c523de": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une partie du corps sous-estimée pour l’intimité",
+          "de": "Ein unterschätzter Körperteil für Intimität",
+          "en": "An underrated body part for intimacy",
+          "es": "Una parte del cuerpo subestimada para la intimidad",
+          "it": "Una parte del corpo sottovalutata per l’intimità",
+          "ja": "親密さで過小評価されがちな体の部位",
+          "ko": "친밀감에서 과소평가되는 신체 부위",
+          "nl": "Een onderschat lichaamsdeel voor intimiteit",
+          "pl": "Niedoceniana część ciała w intymności",
+          "pt": "Uma parte do corpo subestimada na intimidade",
+          "ru": "Недооценённая для близости часть тела",
+          "tr": "Göz ardı edilen bir erojen bölge"
+        }
+      }
+    ]
+  },
+  "3672f98f": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "La pire raison de tromper son / sa partenaire",
+          "de": "Der schlimmste Grund, den Partner zu betrügen",
+          "en": "The worst reason to cheat on your partner",
+          "es": "La peor razón para engañar a tu pareja",
+          "it": "Il peggior motivo per tradire il partner",
+          "ja": "浮気する最悪の理由",
+          "ko": "최악의 바람 피우는 이유",
+          "nl": "De slechtste reden om je partner te bedriegen",
+          "pl": "Najgorszy powód, by zdradzić partnera",
+          "pt": "A pior razão para trair o parceiro",
+          "ru": "Худшая причина изменить своему партнёру",
+          "tr": "Partnerini aldatmak için en kötü sebep"
+        }
+      }
+    ]
+  },
+  "e2dc9f92": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mauvais moment pour avoir un fou rire",
+          "de": "Ein schlechter Moment für einen Lachanfall",
+          "en": "A bad time to burst into laughter",
+          "es": "Un mal momento para un ataque de risa",
+          "it": "Un momento sbagliato per una risata incontrollabile",
+          "ja": "爆笑してはいけないタイミング",
+          "ko": "웃음이 터지면 안 되는 순간",
+          "nl": "Een slecht moment om de slappe lach te krijgen",
+          "pl": "Zły moment na napad śmiechu",
+          "pt": "Um péssimo momento para uma crise de riso",
+          "ru": "Неподходящее время для безудержного смеха",
+          "tr": "Kahkaha krizine girmek için en kötü an"
+        }
+      }
+    ]
+  },
+  "e01fb047": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un nom que tu donnerai pas à ton enfant",
+          "de": "Ein Name, den du deinem Kind nicht geben würdest",
+          "en": "A name you wouldn’t give your child",
+          "es": "Un nombre que no le pondrías a tu hijo",
+          "it": "Un nome che non daresti a tuo figlio",
+          "ja": "子どもに付けたくない名前",
+          "ko": "자녀에게 절대 짓지 않을 이름",
+          "nl": "Een naam die je je kind niet zou geven",
+          "pl": "Imię, którego nie dasz dziecku",
+          "pt": "Um nome que você não daria ao seu filho",
+          "ru": "Имя, которое ты не дашь своему ребёнку",
+          "tr": "Çocuğuna asla vermeyeceğin bir isim"
+        }
+      }
+    ]
+  },
+  "dc6c1d40": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une façon de garder l’amour \"frais\"",
+          "de": "Eine Art, die Liebe \"frisch\" zu halten",
+          "en": "A way to keep love \"fresh\"",
+          "es": "Una forma de mantener el amor \"fresco\"",
+          "it": "Un modo per mantenere l’amore \"fresco\"",
+          "ja": "恋愛を新鮮に保つ方法",
+          "ko": "사랑을 신선하게 유지하는 방법",
+          "nl": "Een manier om de liefde \"vers\" te houden",
+          "pl": "Sposób, by zachować „świeżą\" miłość",
+          "pt": "Uma maneira de manter o amor “fresco\"",
+          "ru": "Способ сохранить любовь \"свежей\"",
+          "tr": "Aşkı taze tutmanın bir yolu"
+        }
+      }
+    ]
+  },
+  "6307a699": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose à ne pas faire en couple",
+          "de": "Etwas, das man in einer Beziehung nicht tun sollte",
+          "en": "Something not to do in a couple",
+          "es": "Algo que no se debe hacer en pareja",
+          "it": "Qualcosa da non fare in coppia",
+          "ja": "カップルでやってはいけないこと",
+          "ko": "커플이 하면 안 되는 일",
+          "nl": "Iets dat je niet moet doen als stel",
+          "pl": "Czego nie robić w związku",
+          "pt": "Algo que não se deve fazer em casal",
+          "ru": "То, чего не стоит делать в паре",
+          "tr": "Çift olarak yapılmaması gereken bir şey"
+        }
+      }
+    ]
+  },
+  "6e1c424d": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une mauvaise façon de rompre une relation",
+          "de": "Eine schlechte Art, eine Beziehung zu beenden",
+          "en": "A bad way to break up",
+          "es": "Una mala manera de romper una relación",
+          "it": "Un modo sbagliato di rompere una relazione",
+          "ja": "最悪な別れ方",
+          "ko": "최악의 이별 방법",
+          "nl": "Een slechte manier om een relatie te beëindigen",
+          "pl": "Zły sposób na zerwanie",
+          "pt": "Uma maneira ruim de terminar um relacionamento",
+          "ru": "Плохой способ разорвать отношения",
+          "tr": "Bir ilişkiyi bitirmenin kötü bir yolu"
+        }
+      }
+    ]
+  },
+  "a6197d60": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une mauvaise raison de rompre une relation",
+          "de": "Ein schlechter Grund, eine Beziehung zu beenden",
+          "en": "A bad reason to break up",
+          "es": "Una mala razón para romper una relación",
+          "it": "Un cattivo motivo per rompere una relazione",
+          "ja": "別れるには不適切な理由",
+          "ko": "헤어질 부적절한 이유",
+          "nl": "Een slecht motief om een relatie uit te maken",
+          "pl": "Zły powód do zerwania",
+          "pt": "Um mau motivo para terminar um relacionamento",
+          "ru": "Плохая причина прекратить отношения",
+          "tr": "Bir ilişkiyi bitirmek için kötü bir sebep"
+        }
+      }
+    ]
+  },
+  "722d73c7": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un endroit confortable",
+          "de": "Nenne einen bequemen Ort",
+          "en": "Name a comfortable place",
+          "es": "Nombra un lugar cómodo",
+          "it": "Cita un posto comodo",
+          "ja": "快適な場所を一つ挙げて",
+          "ko": "편안한 장소 하나 말하기",
+          "nl": "Noem een comfortabele plek",
+          "pl": "Podaj wygodne miejsce",
+          "pt": "Cite um lugar confortável",
+          "ru": "Назови уютное место",
+          "tr": "Rahat bir yer"
+        }
+      }
+    ]
+  },
+  "cecf54cc": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet que tu aimerais/rêverais d'avoir ?",
+          "de": "Ein Objekt, das du gerne hättest",
+          "en": "An object you’d like to own",
+          "es": "Un objeto que te gustaría tener",
+          "it": "Un oggetto che ti piacerebbe / sogni di avere",
+          "ja": "いつか手に入れたい物",
+          "ko": "가지고 싶거나 꿈꾸는 물건",
+          "nl": "Een voorwerp dat je graag zou hebben?",
+          "pl": "Przedmiot, który chciałbyś mieć",
+          "pt": "Um objeto que você gostaria de ter",
+          "ru": "Предмет, который ты хотел бы иметь?",
+          "tr": "Sahip olmayı hayal ettiğin bir nesne"
+        }
+      }
+    ]
+  },
+  "86e8db13": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite Quelque chose qui fait toujours plaisir",
+          "de": "Nenne etwas, das immer Freude macht",
+          "en": "Name something that always feels good",
+          "es": "Nombra algo que siempre da gusto",
+          "it": "Cita qualcosa che fa sempre piacere",
+          "ja": "いつでも嬉しいものを一つ挙げて",
+          "ko": "항상 기분 좋게 하는 것 하나 말하기",
+          "nl": "Noem iets dat altijd plezier doet",
+          "pl": "Coś, co zawsze sprawia przyjemność",
+          "pt": "Cite algo que sempre agrada",
+          "ru": "Назови что-нибудь, что всегда радует",
+          "tr": "Her zaman mutlu eden bir şey"
+        }
+      }
+    ]
+  },
+  "b51a48dd": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une activité plus sympa à faire seul qu'en couple",
+          "de": "Eine Aktivität, die allein mehr Spaß macht als zu zweit",
+          "en": "An activity better done solo than as a couple",
+          "es": "Una actividad más divertida a solas que en pareja",
+          "it": "Un’attività più divertente da fare da soli che in coppia",
+          "ja": "一人の方が楽しいアクティビティ",
+          "ko": "혼자 하는 게 더 재밌는 활동",
+          "nl": "Een activiteit die leuker is om alleen te doen dan als stel",
+          "pl": "Aktywność fajniejsza solo niż w parze",
+          "pt": "Uma atividade mais legal de fazer sozinho do que em casal",
+          "ru": "Занятие, которое веселее делать одному, чем в паре",
+          "tr": "Tek başına yapmak çift olarak yapmaktan daha eğlenceli bir etkinlik"
+        }
+      }
+    ]
+  },
+  "f703ba6a": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une addiction",
+          "de": "Nenne eine Sucht",
+          "en": "Name an addiction",
+          "es": "Nombra una adicción",
+          "it": "Cita una dipendenza",
+          "ja": "依存症を一つ挙げて",
+          "ko": "중독 하나 말하기",
+          "nl": "Noem een verslaving",
+          "pl": "Wymień uzależnienie",
+          "pt": "Cite um vício",
+          "ru": "Назови зависимость",
+          "tr": "Bir bağımlılık"
+        }
+      }
+    ]
+  },
+  "c7bc9ece": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une partie du corps qu'on peux masser",
+          "de": "Ein Körperteil, das man massieren kann",
+          "en": "A body part you can massage",
+          "es": "Una parte del cuerpo que se puede masajear",
+          "it": "Una parte del corpo che si può massaggiare",
+          "ja": "マッサージできる体の部位",
+          "ko": "마사지할 수 있는 신체 부위",
+          "nl": "Een lichaamsdeel dat je kunt masseren",
+          "pl": "Część ciała, którą można masować",
+          "pt": "Uma parte do corpo que pode ser massageada",
+          "ru": "Часть тела, которую можно массировать",
+          "tr": "Masaj yapılabilecek bir vücut bölgesi"
+        }
+      }
+    ]
+  },
+  "0947d412": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Le meilleur moyen d'oublier son ex",
+          "de": "Die beste Methode, den Ex zu vergessen",
+          "en": "The best way to forget an ex",
+          "es": "La mejor manera de olvidar a tu ex",
+          "it": "Il modo migliore per dimenticare l’ex",
+          "ja": "元恋人を忘れる最良の方法",
+          "ko": "전 애인을 잊는 최고의 방법",
+          "nl": "De beste manier om je ex te vergeten",
+          "pl": "Najlepszy sposób, by zapomnieć o ex",
+          "pt": "A melhor maneira de esquecer o ex",
+          "ru": "Лучший способ забыть бывшего",
+          "tr": "Eski sevgiliyi unutmanın en iyi yolu"
+        }
+      }
+    ]
+  },
+  "ff15acb6": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une destination romantique",
+          "de": "Ein romantisches Reiseziel",
+          "en": "A romantic destination",
+          "es": "Un destino romántico",
+          "it": "Una destinazione romantica",
+          "ja": "ロマンチックな旅行先",
+          "ko": "로맨틱한 여행지",
+          "nl": "Een romantische bestemming",
+          "pl": "Romantyczny cel podróży",
+          "pt": "Um destino romântico",
+          "ru": "Романтическое направление путешествия",
+          "tr": "Romantik bir destinasyon"
+        }
+      }
+    ]
+  },
+  "40a6240e": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un signe du véritable amour",
+          "de": "Ein Zeichen wahrer Liebe",
+          "en": "A sign of true love",
+          "es": "Una señal de amor verdadero",
+          "it": "Un segno del vero amore",
+          "ja": "真実の愛のサイン",
+          "ko": "진정한 사랑의 징후",
+          "nl": "Een teken van ware liefde",
+          "pl": "Znak prawdziwej miłości",
+          "pt": "Um sinal do amor verdadeiro",
+          "ru": "Признак истинной любви",
+          "tr": "Gerçek aşkın bir işareti"
+        }
+      }
+    ]
+  },
+  "289c6cab": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un cadeau romantique",
+          "de": "Ein romantisches Geschenk",
+          "en": "A romantic gift",
+          "es": "Un regalo romántico",
+          "it": "Un regalo romantico",
+          "ja": "ロマンチックなプレゼント",
+          "ko": "로맨틱한 선물",
+          "nl": "Een romantisch cadeau",
+          "pl": "Romantyczny prezent",
+          "pt": "Um presente romântico",
+          "ru": "Романтический подарок",
+          "tr": "Romantik bir hediye"
+        }
+      }
+    ]
+  },
+  "35b28d37": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une chanson d'amour",
+          "de": "Nenne ein Liebeslied",
+          "en": "Name a love song",
+          "es": "Nombra una canción de amor",
+          "it": "Nomina una canzone d’amore",
+          "ja": "ラブソングを一曲挙げて",
+          "ko": "러브송 하나 말하기",
+          "nl": "Noem een liefdeslied",
+          "pl": "Podaj piosenkę o miłości",
+          "pt": "Nomeie uma música de amor",
+          "ru": "Назови любовную песню",
+          "tr": "Bir aşk şarkısı"
+        }
+      }
+    ]
+  },
+  "57938475": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une mauvaise façon de montrer son affection en publique",
+          "de": "Eine schlechte Art, Zuneigung öffentlich zu zeigen",
+          "en": "A bad way to show affection in public",
+          "es": "Una mala forma de mostrar afecto en público",
+          "it": "Un modo sbagliato di mostrare affetto in pubblico",
+          "ja": "公共の場での不適切な愛情表現",
+          "ko": "공공장소에서 애정을 표현하는 나쁜 방법",
+          "nl": "Een slechte manier om je affectie in het openbaar te tonen",
+          "pl": "Zły sposób okazywania uczuć publicznie",
+          "pt": "Uma maneira ruim de demonstrar afeição em público",
+          "ru": "Плохой способ проявлять чувства на публике",
+          "tr": "Toplum içinde sevgiyi kötü gösterme yolu"
+        }
+      }
+    ]
+  },
+  "d1a9a33f": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une choses interdites dans les contes romantiques",
+          "de": "Eine verbotene Sache in romantischen Märchen",
+          "en": "Something forbidden in fairy‑tale romances",
+          "es": "Algo prohibido en los cuentos románticos",
+          "it": "Qualcosa di vietato nelle fiabe romantiche",
+          "ja": "ロマンチックなおとぎ話で禁じられていること",
+          "ko": "로맨틱 동화에서 금지된 것",
+          "nl": "Iets dat verboden is in romantische sprookjes",
+          "pl": "Rzecz zakazana w romantycznych baśniach",
+          "pt": "Algo proibido nos contos românticos",
+          "ru": "То, что запрещено в романтических сказках",
+          "tr": "Romantik masallarda yasak olan bir şey"
+        }
+      }
+    ]
+  },
+  "124b44c9": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un moment ou tu aimerais ralentir le temps",
+          "de": "Nenne einen Moment, in dem du die Zeit verlangsamen möchtest",
+          "en": "Name a moment you’d like to slow down",
+          "es": "Nombra un momento en el que quisieras ralentizar el tiempo",
+          "it": "Cita un momento in cui vorresti rallentare il tempo",
+          "ja": "時間をゆっくりにしたい瞬間を一つ挙げて",
+          "ko": "시간을 늦추고 싶은 순간 하나 말하기",
+          "nl": "Noem een moment waarop je de tijd zou willen vertragen",
+          "pl": "Moment, gdy chciałbyś spowolnić czas",
+          "pt": "Cite um momento em que você gostaria de desacelerar o tempo",
+          "ru": "Назови момент, когда тебе хотелось бы замедлить время",
+          "tr": "Zamanı yavaşlatmak isteyeceğin bir an"
+        }
+      }
+    ]
+  },
+  "88b5c12e": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une destination de rêve pour une lune de miel",
+          "de": "Ein Traumziel für die Flitterwochen",
+          "en": "A dream honeymoon destination",
+          "es": "Un destino de ensueño para la luna de miel",
+          "it": "Una meta da sogno per la luna di miele",
+          "ja": "夢のハネムーン先",
+          "ko": "허니문 꿈의 여행지",
+          "nl": "Een droombestemming voor een huwelijksreis",
+          "pl": "Wymarzony kierunek na miesiąc miodowy",
+          "pt": "Um destino dos sonhos para lua de mel",
+          "ru": "Место мечты для медового месяца",
+          "tr": "Balayı için rüya gibi bir yer"
+        }
+      }
+    ]
+  },
+  "c6a091ea": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une façon d'impressionner NAZE à un premier rendez-vous",
+          "de": "Eine miese Art, beim ersten Date zu beeindrucken",
+          "en": "A lame way to impress on a first date",
+          "es": "Una forma PATÉTICA de impresionar en la primera cita",
+          "it": "Un modo PESSIMO per impressionare al primo appuntamento",
+          "ja": "初デートでのイケてないアピール方法",
+          "ko": "첫 데이트에서 형편없이 어필하는 방법",
+          "nl": "Een waardeloze manier om indruk te maken bij een eerste date",
+          "pl": "Beznadziejny sposób, by zaimponować na pierwszej randce",
+          "pt": "Um jeito fraco de impressionar no primeiro encontro",
+          "ru": "Дурацкий способ произвести впечатление на первом свидании",
+          "tr": "İlk buluşmada berbat bir etkileme yöntemi"
+        }
+      }
+    ]
+  },
+  "ac0e7727": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un signe que vous tombez amoureux",
+          "de": "Ein Zeichen, dass man sich verliebt",
+          "en": "A sign you’re falling in love",
+          "es": "Una señal de que te estás enamorando",
+          "it": "Un segno che ci si sta innamorando",
+          "ja": "恋に落ちたサイン",
+          "ko": "사랑에 빠지는 징후",
+          "nl": "Een teken dat men verliefd wordt",
+          "pl": "Znak, że się zakochujesz",
+          "pt": "Um sinal de que estamos nos apaixonando",
+          "ru": "Признак того, что влюбляешься",
+          "tr": "Aşık olduğunun bir işareti"
+        }
+      }
+    ]
+  },
+  "5df96ced": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un tatouage très kitch",
+          "de": "Ein sehr kitschiges Tattoo",
+          "en": "A very cheesy tattoo",
+          "es": "Un tatuaje muy cursi",
+          "it": "Un tatuaggio molto kitsch",
+          "ja": "すごくダサいタトゥー",
+          "ko": "매우 촌스러운 타투",
+          "nl": "Een erg kitscherige tatoeage",
+          "pl": "Bardzo kiczowaty tatuaż",
+          "pt": "Uma tatuagem muito brega",
+          "ru": "Очень китчевое тату",
+          "tr": "Aşırı klişe bir dövme"
+        }
+      }
+    ]
+  },
+  "11620ab5": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une façon de surprendre son partenaire",
+          "de": "Nenne eine Art, den Partner zu überraschen",
+          "en": "Name a way to surprise your partner",
+          "es": "Nombra una manera de sorprender a tu pareja",
+          "it": "Nomina un modo per sorprendere il partner",
+          "ja": "パートナーを驚かせる方法を一つ挙げて",
+          "ko": "파트너를 놀라게 하는 방법 하나 말하기",
+          "nl": "Noem een manier om je partner te verrassen",
+          "pl": "Sposób, by zaskoczyć partnera",
+          "pt": "Nomeie uma forma de surpreender seu parceiro",
+          "ru": "Назови способ удивить партнёра",
+          "tr": "Partnerini şaşırtmanın bir yolu"
+        }
+      }
+    ]
+  },
+  "1299b5d1": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sujet de dispute commun chez les couples",
+          "de": "Ein häufiges Streitthema bei Paaren",
+          "en": "A common topic couples argue about",
+          "es": "Un tema de discusión común en las parejas",
+          "it": "Un argomento di litigio comune tra le coppie",
+          "ja": "カップルでよく揉める話題",
+          "ko": "커플이 자주 다투는 주제",
+          "nl": "Een veelvoorkomend ruzieonderwerp bij koppels",
+          "pl": "Typowy temat kłótni par",
+          "pt": "Um tema de briga comum entre casais",
+          "ru": "Тема ссор, распространённая среди пар",
+          "tr": "Çiftlerin sık tartıştığı bir konu"
+        }
+      }
+    ]
+  },
+  "85e31929": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un slogan à ne pas imprimer sur son pijama",
+          "de": "Ein Slogan, den man nicht auf den Pyjama drucken sollte",
+          "en": "A slogan not to print on your pajamas",
+          "es": "Un eslogan que no imprimirías en tu pijama",
+          "it": "Uno slogan da non stampare sul pigiama",
+          "ja": "パジャマに印刷しない方がいいスローガン",
+          "ko": "잠옷에 인쇄하면 안 되는 슬로건",
+          "nl": "Een slogan die je niet op je pyjama moet drukken",
+          "pl": "Hasło, którego nie drukować na piżamie",
+          "pt": "Um slogan para não estampar no pijama",
+          "ru": "Слоган, который не стоит печатать на пижаме",
+          "tr": "Pijamaya basılmaması gereken bir slogan"
+        }
+      }
+    ]
+  },
+  "d92b47a8": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Une mauvaise raison de dire non à un mariage",
+          "de": "Ein schlechter Grund, eine Hochzeit abzulehnen",
+          "en": "A bad reason to say no to a wedding",
+          "es": "Una mala razón para decir \"no\" a una boda",
+          "it": "Un pessimo motivo per dire no a un matrimonio",
+          "ja": "結婚を断るひどい理由",
+          "ko": "결혼을 거절하는 나쁜 이유",
+          "nl": "Een slechte reden om nee te zeggen tegen een huwelijk",
+          "pl": "Zły powód, by odmówić małżeństwa",
+          "pt": "Um mau motivo para dizer não a um casamento",
+          "ru": "Плохая причина отказать в браке",
+          "tr": "Evliliğe “hayır\" demek için kötü bir sebep"
+        }
+      }
+    ]
+  },
+  "9d87837f": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet qu'on ne prête pas",
+          "de": "Ein Gegenstand, den man nicht verleiht",
+          "en": "An object you never lend",
+          "es": "Un objeto que no se presta",
+          "it": "Un oggetto che non si presta",
+          "ja": "貸したくない物",
+          "ko": "빌려주지 않는 물건",
+          "nl": "Een voorwerp dat men niet uitleent",
+          "pl": "Przedmiot, którego się nie pożycza",
+          "pt": "Um objeto que não se empresta",
+          "ru": "Предмет, который не дают в долг",
+          "tr": "Kimsenin ödünç vermediği bir nesne"
+        }
+      }
+    ]
+  },
+  "897424fb": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose dont  tu es fier",
+          "de": "Nenne etwas, worauf du stolz bist",
+          "en": "Something you are proud of",
+          "es": "Algo de lo que estás orgulloso",
+          "it": "Qualcosa di cui sei orgoglioso",
+          "ja": "自分が誇りに思うこと",
+          "ko": "자랑스러운 것",
+          "nl": "Iets waar je trots op bent",
+          "pl": "Coś, z czego jesteś dumny",
+          "pt": "Algo de que você se orgulha",
+          "ru": "То, чем ты гордишься",
+          "tr": "Gurur duyduğun bir şey"
+        }
+      }
+    ]
+  },
+  "a4a0ebd7": {
+    "category": "couple",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de réconfortant",
+          "de": "Nenne etwas Tröstliches",
+          "en": "Something comforting",
+          "es": "Algo reconfortante",
+          "it": "Qualcosa di confortante",
+          "ja": "心が落ち着くもの",
+          "ko": "위로가 되는 것",
+          "nl": "Iets troostends",
+          "pl": "Coś kojącego",
+          "pt": "Algo reconfortante",
+          "ru": "Что-то утешительное",
+          "tr": "İç ısıtan bir şey"
+        }
+      }
+    ]
+  }
+}

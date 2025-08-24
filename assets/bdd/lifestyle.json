@@ -1,0 +1,4917 @@
+{
+  "a564ba08": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un ustensile qu'on trouve dans la cuisine",
+          "de": "Nenne ein Küchenutensil",
+          "en": "A kitchen utensil",
+          "es": "Un utensilio que se encuentra en la cocina",
+          "it": "Un utensile che si trova in cucina",
+          "ja": "キッチンにある調理器具",
+          "ko": "주방에서 찾을 수 있는 조리 도구",
+          "nl": "Een keukengerei",
+          "pl": "Przyrząd kuchenny",
+          "pt": "Um utensílio encontrado na cozinha",
+          "ru": "Предмет, который можно найти на кухне",
+          "tr": "Mutfakta bulunan bir mutfak gereci"
+        }
+      }
+    ]
+  },
+  "e2cac9a8": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un appareil électroménager de cuisine",
+          "de": "Nenne ein elektrisches Küchengerät",
+          "en": "A kitchen appliance",
+          "es": "Un electrodoméstico de cocina",
+          "it": "Un elettrodomestico da cucina",
+          "ja": "キッチン家電",
+          "ko": "주방 전자 기기",
+          "nl": "Een elektrisch keukenapparaat",
+          "pl": "Urządzenie elektryczne do kuchni",
+          "pt": "Um eletrodoméstico de cozinha",
+          "ru": "Кухонный электроприбор",
+          "tr": "Mutfak tipi elektrikli alet"
+        }
+      }
+    ]
+  },
+  "967665ff": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un plat qu’on met au four",
+          "de": "Nenne ein Gericht, das man im Ofen zubereitet",
+          "en": "A dish you bake in the oven",
+          "es": "Un plato que se mete al horno",
+          "it": "Un piatto che si mette in forno",
+          "ja": "オーブンに入れる料理",
+          "ko": "오븐에 넣는 요리",
+          "nl": "Een ovengerecht",
+          "pl": "Danie wkładane do piekarnika",
+          "pt": "Um prato que vai ao forno",
+          "ru": "Блюдо, которое ставят в духовку",
+          "tr": "Fırına konulan bir yemek"
+        }
+      }
+    ]
+  },
+  "1b008c0a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un fruit",
+          "de": "Nenne eine Frucht",
+          "en": "Name a fruit",
+          "es": "Cita una fruta",
+          "it": "Cita un frutto",
+          "ja": "果物を一つ挙げて",
+          "ko": "과일 하나 말하기",
+          "nl": "Noem een vrucht",
+          "pl": "Podaj owoc",
+          "pt": "Uma fruta",
+          "ru": "Назови фрукт",
+          "tr": "Bir meyve söyle"
+        }
+      }
+    ]
+  },
+  "01be0371": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une épice ou un condiment",
+          "de": "Nenne ein Gewürz oder Gewürzmittel",
+          "en": "A spice or seasoning",
+          "es": "Una especia o condimento",
+          "it": "Una spezia o un condimento",
+          "ja": "スパイスまたは調味料",
+          "ko": "향신료 또는 양념",
+          "nl": "Een kruid of specerij",
+          "pl": "Przyprawa lub condiment",
+          "pt": "Um tempero ou condimento",
+          "ru": "Пряность или приправу",
+          "tr": "Bir baharat ya da çeşni"
+        }
+      }
+    ]
+  },
+  "975a2dd1": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Les fromages qui réveillent les morts",
+          "de": "Nenne Käse, die Tote wecken",
+          "en": "Cheeses that could wake the dead",
+          "es": "Quesos que despiertan a los muertos",
+          "it": "I formaggi che risvegliano i morti",
+          "ja": "死者を起こすチーズ",
+          "ko": "죽은 자도 깨운다는 치즈들",
+          "nl": "Kazen die de doden wekken",
+          "pl": "Sery, które wskrzeszają zmarłych",
+          "pt": "Os queijos que despertam os mortos",
+          "ru": "Сыры, которые поднимают мёртвых",
+          "tr": "Ölüleri dirilten peynirler"
+        }
+      }
+    ]
+  },
+  "8aeb065a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un légume",
+          "de": "Nenne ein Gemüse",
+          "en": "Name a vegetable",
+          "es": "Nombra una verdura",
+          "it": "Nomina una verdura",
+          "ja": "野菜を一つ挙げて",
+          "ko": "채소 하나 말하기",
+          "nl": "Noem een groente",
+          "pl": "Nazwij warzywo",
+          "pt": "Um legume",
+          "ru": "Назови овощ",
+          "tr": "Bir sebze söyle"
+        }
+      }
+    ]
+  },
+  "c15471b1": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une boisson du matin",
+          "de": "Nenne ein Morgengetränk",
+          "en": "A morning beverage",
+          "es": "Una bebida matutina",
+          "it": "Una bevanda del mattino",
+          "ja": "朝の飲み物",
+          "ko": "아침에 마시는 음료",
+          "nl": "Een ochtenddrankje",
+          "pl": "Poranny napój",
+          "pt": "Uma bebida matinal",
+          "ru": "Утренний напиток",
+          "tr": "Sabah içeceği"
+        }
+      }
+    ]
+  },
+  "f9c95bb5": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un dessert",
+          "de": "Nenne ein Dessert",
+          "en": "Name a dessert",
+          "es": "Cita un postre",
+          "it": "Cita un dessert",
+          "ja": "デザートを一つ挙げて",
+          "ko": "디저트 하나 말하기",
+          "nl": "Noem een toetje",
+          "pl": "Podaj deser",
+          "pt": "Uma sobremesa",
+          "ru": "Назови десерт",
+          "tr": "Bir tatlı söyle"
+        }
+      }
+    ]
+  },
+  "cde83c70": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une odeur de cuisine détestée",
+          "de": "Nenne einen verhassten Küchengeruch",
+          "en": "A cooking smell everyone hates",
+          "es": "Un olor de cocina que se odia",
+          "it": "Un odore di cucina odiato",
+          "ja": "嫌われる料理の匂い",
+          "ko": "싫어하는 요리 냄새",
+          "nl": "Een gehate keukenlucht",
+          "pl": "Znienawidzony zapach kuchenny",
+          "pt": "Um cheiro de cozinha detestável",
+          "ru": "Ненавистный кухонный запах",
+          "tr": "Nefret edilen bir mutfak kokusu"
+        }
+      }
+    ]
+  },
+  "9f6a1829": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Les marques de céréales du petit-déj",
+          "de": "Nenne Frühstücksflocken‑Marken",
+          "en": "Breakfast cereal brands",
+          "es": "Marcas de cereales de desayuno",
+          "it": "Le marche di cereali per la colazione",
+          "ja": "朝食シリアルのブランド",
+          "ko": "아침 시리얼 브랜드들",
+          "nl": "Ontbijtgranenmerken",
+          "pl": "Marki płatków śniadaniowych",
+          "pt": "As marcas de cereal do café da manhã",
+          "ru": "Марки завтраковых хлопьев",
+          "tr": "Kahvaltılık gevrek markaları"
+        }
+      }
+    ]
+  },
+  "2ebd5e87": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un plat qu’on mange froid",
+          "de": "Nenne ein Gericht, das kalt gegessen wird",
+          "en": "A dish eaten cold",
+          "es": "Un plato que se come frío",
+          "it": "Un piatto che si mangia freddo",
+          "ja": "冷たいまま食べる料理",
+          "ko": "차게 먹는 요리",
+          "nl": "Een gerecht dat je koud eet",
+          "pl": "Danie jedzone na zimno",
+          "pt": "Um prato que se come frio",
+          "ru": "Блюдо, которое едят холодным",
+          "tr": "Soğuk yenen bir yemek"
+        }
+      }
+    ]
+  },
+  "8d8b2def": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une marque de boisson",
+          "de": "Nenne eine Getränkemarke",
+          "en": "A beverage brand",
+          "es": "Una marca de bebida",
+          "it": "Una marca di bevande",
+          "ja": "飲料ブランド",
+          "ko": "음료 브랜드",
+          "nl": "Een drankmerk",
+          "pl": "Marka napoju",
+          "pt": "Uma marca de bebida",
+          "ru": "Марка напитка",
+          "tr": "Bir içecek markası"
+        }
+      }
+    ]
+  },
+  "899724b2": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un métier qu’on rêve de faire enfant",
+          "de": "Nenne einen Traumberuf als Kind",
+          "en": "A dream job for kids",
+          "es": "Un trabajo soñado de la infancia",
+          "it": "Un mestiere che da bambini sogniamo di fare",
+          "ja": "子どもの頃に夢見る職業",
+          "ko": "어릴 적 꿈꾸던 직업",
+          "nl": "Een droombaan als kind",
+          "pl": "Zawód, o którym marzy się w dzieciństwie",
+          "pt": "Uma profissão que sonhamos em ter na infância",
+          "ru": "Профессия, о которой мечтают в детстве",
+          "tr": "Çocukken hayali kurulan meslek"
+        }
+      }
+    ]
+  },
+  "d1e68331": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un métier stressant",
+          "de": "Nenne einen stressigen Beruf",
+          "en": "A stressful job",
+          "es": "Un trabajo estresante",
+          "it": "Un mestiere stressante",
+          "ja": "ストレスが多い仕事",
+          "ko": "스트레스가 많은 직업",
+          "nl": "Een stressvol beroep",
+          "pl": "Stresujący zawód",
+          "pt": "Uma profissão estressante",
+          "ru": "Стрессовая профессия",
+          "tr": "Stresli bir meslek"
+        }
+      }
+    ]
+  },
+  "54570092": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un métier qui salit les mains",
+          "de": "Nenne einen Beruf, bei dem man sich die Hände schmutzig macht",
+          "en": "A job that gets your hands dirty",
+          "es": "Un trabajo que ensucia las manos",
+          "it": "Un mestiere che sporca le mani",
+          "ja": "手が汚れる仕事",
+          "ko": "손이 더러워지는 직업",
+          "nl": "Een baan waarbij je vuile handen krijgt",
+          "pl": "Zawód brudzący ręce",
+          "pt": "Uma profissão que suja as mãos",
+          "ru": "Профессия, от которой пачкаются руки",
+          "tr": "Elleri kirleten bir iş"
+        }
+      }
+    ]
+  },
+  "a39b02dc": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un métier de la nuit",
+          "de": "Nenne einen Nachtberuf",
+          "en": "A night‑shift job",
+          "es": "Un trabajo nocturno",
+          "it": "Un mestiere notturno",
+          "ja": "夜の仕事",
+          "ko": "야간 직업",
+          "nl": "Een nachtbaan",
+          "pl": "Praca nocna",
+          "pt": "Um trabalho noturno",
+          "ru": "Ночная профессия",
+          "tr": "Gece mesleği"
+        }
+      }
+    ]
+  },
+  "e1d83b79": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un métier en uniforme",
+          "de": "Nenne einen Beruf mit Uniform",
+          "en": "A job with a uniform",
+          "es": "Un trabajo con uniforme",
+          "it": "Un mestiere con la divisa",
+          "ja": "制服のある仕事",
+          "ko": "유니폼을 입는 직업",
+          "nl": "Een uniformberoep",
+          "pl": "Zawód w mundurze",
+          "pt": "Uma profissão com uniforme",
+          "ru": "Профессия в форме",
+          "tr": "Üniformalı meslek"
+        }
+      }
+    ]
+  },
+  "c1ac8149": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un métier impossible à automatiser",
+          "de": "Nenne einen Beruf, den man nicht automatisieren kann",
+          "en": "A job impossible to automate",
+          "es": "Un trabajo imposible de automatizar",
+          "it": "Un mestiere impossibile da automatizzare",
+          "ja": "自動化できない仕事",
+          "ko": "자동화가 불가능한 직업",
+          "nl": "Een beroep dat niet te automatiseren is",
+          "pl": "Zawód niemożliwy do zautomatyzowania",
+          "pt": "Uma profissão impossível de automatizar",
+          "ru": "Профессия, которую невозможно автоматизировать",
+          "tr": "Otomasyonu imkânsız meslek"
+        }
+      }
+    ]
+  },
+  "f99696d2": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un job d’été classique",
+          "de": "Nenne einen typischen Sommerjob",
+          "en": "A classic summer job",
+          "es": "Un trabajo típico de verano",
+          "it": "Un classico lavoro estivo",
+          "ja": "定番の夏バイト",
+          "ko": "대표적인 여름 아르바이트",
+          "nl": "Een klassieke zomerbaan",
+          "pl": "Klasyczna praca wakacyjna",
+          "pt": "Um emprego clássico de verão",
+          "ru": "Классическая летняя подработка",
+          "tr": "Klasik bir yaz işi"
+        }
+      }
+    ]
+  },
+  "3256ef8b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un jeu vidéo compétitif",
+          "de": "Nenne ein kompetitives Videospiel",
+          "en": "A competitive video game",
+          "es": "Un videojuego competitivo",
+          "it": "Un videogioco competitivo",
+          "ja": "競技性のあるビデオゲーム",
+          "ko": "경쟁적인 비디오게임",
+          "nl": "Een competitief videospel",
+          "pl": "Rywalizacyjna gra wideo",
+          "pt": "Um videogame competitivo",
+          "ru": "Соревновательная видеоигра",
+          "tr": "Rekabetçi bir video oyunu"
+        }
+      }
+    ]
+  },
+  "9503ce5a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sport d’hiver",
+          "de": "Nenne einen Wintersport",
+          "en": "A winter sport",
+          "es": "Un deporte de invierno",
+          "it": "Uno sport invernale",
+          "ja": "冬のスポーツ",
+          "ko": "겨울 스포츠",
+          "nl": "Een wintersport",
+          "pl": "Sport zimowy",
+          "pt": "Um esporte de inverno",
+          "ru": "Зимний вид спорта",
+          "tr": "Kış sporu"
+        }
+      }
+    ]
+  },
+  "4c38bbee": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sport d’équipe",
+          "de": "Nenne einen Mannschaftssport",
+          "en": "A team sport",
+          "es": "Un deporte de equipo",
+          "it": "Uno sport di squadra",
+          "ja": "チームスポーツ",
+          "ko": "팀 스포츠",
+          "nl": "Een teamsport",
+          "pl": "Sport drużynowy",
+          "pt": "Um esporte coletivo",
+          "ru": "Командный вид спорта",
+          "tr": "Takım sporu"
+        }
+      }
+    ]
+  },
+  "5334b1d1": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un métier qui fait voyager",
+          "de": "Nenne einen Beruf, bei dem man viel reist",
+          "en": "A job that makes you travel",
+          "es": "Un trabajo que hace viajar",
+          "it": "Un mestiere che fa viaggiare",
+          "ja": "旅行が多い仕事",
+          "ko": "여행이 많은 직업",
+          "nl": "Een baan waarbij je veel reist",
+          "pl": "Zawód, który pozwala podróżować",
+          "pt": "Uma profissão que faz viajar",
+          "ru": "Профессия, заставляющая путешествовать",
+          "tr": "Seyahat ettiren meslek"
+        }
+      }
+    ]
+  },
+  "9d60dd75": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un job bizarre",
+          "de": "Nenne einen seltsamen Job",
+          "en": "An odd job",
+          "es": "Un trabajo raro",
+          "it": "Un lavoro strano",
+          "ja": "変わった仕事",
+          "ko": "이상한 직업",
+          "nl": "Een vreemd baantje",
+          "pl": "Dziwna praca",
+          "pt": "Um trabalho esquisito",
+          "ru": "Странная работа",
+          "tr": "Garip bir iş"
+        }
+      }
+    ]
+  },
+  "3f91904a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un métier extérieur",
+          "de": "Nenne einen Outdoor‑Beruf",
+          "en": "An outdoor job",
+          "es": "Un trabajo al aire libre",
+          "it": "Un mestiere all’aperto",
+          "ja": "屋外の仕事",
+          "ko": "야외에서 하는 직업",
+          "nl": "Een buitenberoep",
+          "pl": "Praca na świeżym powietrzu",
+          "pt": "Uma profissão ao ar livre",
+          "ru": "Работа на открытом воздухе",
+          "tr": "Açık havada yapılan meslek"
+        }
+      }
+    ]
+  },
+  "222d501b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un métier à la télé",
+          "de": "Nenne einen Beruf im Fernsehen",
+          "en": "A job on television",
+          "es": "Un trabajo en la televisión",
+          "it": "Un mestiere in televisione",
+          "ja": "テレビの仕事",
+          "ko": "텔레비전 직업",
+          "nl": "Een beroep op tv",
+          "pl": "Zawód telewizyjny",
+          "pt": "Uma profissão na televisão",
+          "ru": "Профессия на телевидении",
+          "tr": "Televizyonda görülen meslek"
+        }
+      }
+    ]
+  },
+  "52e8d425": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un loisir créatif",
+          "de": "Nenne ein kreatives Hobby",
+          "en": "A creative hobby",
+          "es": "Un pasatiempo creativo",
+          "it": "Un hobby creativo",
+          "ja": "クリエイティブな趣味",
+          "ko": "창의적인 취미",
+          "nl": "Een creatieve hobby",
+          "pl": "Twórcze hobby",
+          "pt": "Um hobby criativo",
+          "ru": "Творческое хобби",
+          "tr": "Yaratıcı bir hobi"
+        }
+      }
+    ]
+  },
+  "9e14a6cd": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sport aquatique",
+          "de": "Nenne einen Wassersport",
+          "en": "An aquatic sport",
+          "es": "Un deporte acuático",
+          "it": "Uno sport acquatico",
+          "ja": "水上スポーツ",
+          "ko": "수상 스포츠",
+          "nl": "Een watersport",
+          "pl": "Sport wodny",
+          "pt": "Um esporte aquático",
+          "ru": "Водный вид спорта",
+          "tr": "Su sporu"
+        }
+      }
+    ]
+  },
+  "bbfbe940": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal de la ferme",
+          "de": "Nenne ein Bauernhoftier",
+          "en": "A farm animal",
+          "es": "Un animal de granja",
+          "it": "Un animale da fattoria",
+          "ja": "牧場の動物",
+          "ko": "농장 동물",
+          "nl": "Een boerderijdier",
+          "pl": "Zwierzę gospodarskie",
+          "pt": "Um animal de fazenda",
+          "ru": "Сельскохозяйственное животное",
+          "tr": "Çiftlik hayvanı"
+        }
+      }
+    ]
+  },
+  "b3d88177": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal sauvage d’Afrique",
+          "de": "Nenne ein wildes Tier Afrikas",
+          "en": "A wild African animal",
+          "es": "Un animal salvaje de África",
+          "it": "Un animale selvatico africano",
+          "ja": "アフリカの野生動物",
+          "ko": "아프리카 야생 동물",
+          "nl": "Een wild Afrikaans dier",
+          "pl": "Dzikie zwierzę z Afryki",
+          "pt": "Um animal selvagem da África",
+          "ru": "Дикое животное Африки",
+          "tr": "Afrika vahşi hayvanı"
+        }
+      }
+    ]
+  },
+  "ec6efbf1": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un insecte",
+          "de": "Nenne ein Insekt",
+          "en": "Name an insect",
+          "es": "Nombra un insecto",
+          "it": "Nomina un insetto",
+          "ja": "昆虫を一つ挙げて",
+          "ko": "곤충 하나 말하기",
+          "nl": "Noem een insect",
+          "pl": "Nazwij owada",
+          "pt": "Um inseto",
+          "ru": "Назови насекомое",
+          "tr": "Bir böcek söyle"
+        }
+      }
+    ]
+  },
+  "e3219313": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal marin",
+          "de": "Nenne ein Meerestier",
+          "en": "A sea animal",
+          "es": "Un animal marino",
+          "it": "Un animale marino",
+          "ja": "海の動物",
+          "ko": "해양 동물",
+          "nl": "Een zeedier",
+          "pl": "Zwierzę morskie",
+          "pt": "Um animal marinho",
+          "ru": "Морское животное",
+          "tr": "Deniz hayvanı"
+        }
+      }
+    ]
+  },
+  "48dbe27e": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal qui vole",
+          "de": "Nenne ein fliegendes Tier",
+          "en": "A flying animal",
+          "es": "Un animal que vuela",
+          "it": "Un animale che vola",
+          "ja": "飛ぶ動物",
+          "ko": "날아다니는 동물",
+          "nl": "Een vliegend dier",
+          "pl": "Zwierzę latające",
+          "pt": "Um animal que voa",
+          "ru": "Летающее животное",
+          "tr": "Uçan bir hayvan"
+        }
+      }
+    ]
+  },
+  "a01724fa": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal nocturne",
+          "de": "Nenne ein nachtaktives Tier",
+          "en": "A nocturnal animal",
+          "es": "Un animal nocturno",
+          "it": "Un animale notturno",
+          "ja": "夜行性の動物",
+          "ko": "야행성 동물",
+          "nl": "Een nachtelijk dier",
+          "pl": "Zwierzę nocne",
+          "pt": "Um animal noturno",
+          "ru": "Ночное животное",
+          "tr": "Gececi bir hayvan"
+        }
+      }
+    ]
+  },
+  "d1627831": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal qui commence par C",
+          "de": "Nenne ein Tier, das mit C beginnt",
+          "en": "An animal that starts with C",
+          "es": "Un animal que empieza por C",
+          "it": "Un animale che inizia per C",
+          "ja": "Cで始まる動物",
+          "ko": "C로 시작하는 동물",
+          "nl": "Een dier dat met een C begint",
+          "pl": "Zwierzę na literę C",
+          "pt": "Um animal que começa com C",
+          "ru": "Животное, начинающееся на C",
+          "tr": "C harfiyle başlayan bir hayvan"
+        }
+      }
+    ]
+  },
+  "6b5821aa": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal très lent",
+          "de": "Nenne ein sehr langsames Tier",
+          "en": "A very slow animal",
+          "es": "Un animal muy lento",
+          "it": "Un animale molto lento",
+          "ja": "とても遅い動物",
+          "ko": "매우 느린 동물",
+          "nl": "Een erg traag dier",
+          "pl": "Bardzo powolne zwierzę",
+          "pt": "Um animal muito lento",
+          "ru": "Очень медленное животное",
+          "tr": "Çok yavaş bir hayvan"
+        }
+      }
+    ]
+  },
+  "8c22dc92": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal qui pique",
+          "de": "Nenne ein Tier, das sticht",
+          "en": "An animal that stings",
+          "es": "Un animal que pica",
+          "it": "Un animale che punge",
+          "ja": "刺す動物",
+          "ko": "침을 쏘는 동물",
+          "nl": "Een stekend dier",
+          "pl": "Zwierzę, które kłuje",
+          "pt": "Um animal que pica",
+          "ru": "Животное, которое жалит",
+          "tr": "Sokucu bir hayvan"
+        }
+      }
+    ]
+  },
+  "5cc09e84": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal carnivore",
+          "de": "Nenne ein fleischfressendes Tier",
+          "en": "A carnivorous animal",
+          "es": "Un animal carnívoro",
+          "it": "Un animale carnivoro",
+          "ja": "肉食動物",
+          "ko": "육식 동물",
+          "nl": "Een vleesetend dier",
+          "pl": "Mięsożerne zwierzę",
+          "pt": "Um animal carnívoro",
+          "ru": "Плотоядное животное",
+          "tr": "Etobur bir hayvan"
+        }
+      }
+    ]
+  },
+  "57df9f2f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal qui vit dans le désert",
+          "de": "Nenne ein Tier, das in der Wüste lebt",
+          "en": "An animal that lives in the desert",
+          "es": "Un animal que vive en el desierto",
+          "it": "Un animale che vive nel deserto",
+          "ja": "砂漠に住む動物",
+          "ko": "사막에 사는 동물",
+          "nl": "Een dier dat in de woestijn leeft",
+          "pl": "Zwierzę żyjące na pustyni",
+          "pt": "Um animal que vive no deserto",
+          "ru": "Животное, живущее в пустыне",
+          "tr": "Çölde yaşayan hayvan"
+        }
+      }
+    ]
+  },
+  "65fe476b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal avec des cornes",
+          "de": "Nenne ein Tier mit Hörnern",
+          "en": "An animal with horns",
+          "es": "Un animal con cuernos",
+          "it": "Un animale con le corna",
+          "ja": "角のある動物",
+          "ko": "뿔이 있는 동물",
+          "nl": "Een dier met hoorns",
+          "pl": "Zwierzę z rogami",
+          "pt": "Um animal com chifres",
+          "ru": "Животное с рогами",
+          "tr": "Boynuzlu bir hayvan"
+        }
+      }
+    ]
+  },
+  "19858469": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal de la jungle",
+          "de": "Nenne ein Dschungeltier",
+          "en": "A jungle animal",
+          "es": "Un animal de la jungla",
+          "it": "Un animale della giungla",
+          "ja": "ジャングルの動物",
+          "ko": "정글 동물",
+          "nl": "Een jungledier",
+          "pl": "Zwierzę dżungli",
+          "pt": "Um animal da selva",
+          "ru": "Животное джунглей",
+          "tr": "Orman hayvanı"
+        }
+      }
+    ]
+  },
+  "aa79e571": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une couleur qu’on ne porte pas à un enterrement",
+          "de": "Nenne eine Farbe, die man bei einer Beerdigung nicht trägt",
+          "en": "A colour you wouldn’t wear to a funeral",
+          "es": "Un color que no se lleva a un funeral",
+          "it": "Un colore che non si indossa a un funerale",
+          "ja": "葬式で着ない色",
+          "ko": "장례식에 입지 않는 색",
+          "nl": "Een kleur die je niet op een begrafenis draagt",
+          "pl": "Kolor, którego nie nosi się na pogrzeb",
+          "pt": "Uma cor que não se usa em velório",
+          "ru": "Цвет, который не надевают на похороны",
+          "tr": "Cenazede giyilmeyen bir renk"
+        }
+      }
+    ]
+  },
+  "5b29f4b5": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une marque de vêtements de luxe",
+          "de": "Nenne eine Luxus‑Modemarke",
+          "en": "A luxury clothing brand",
+          "es": "Una marca de ropa de lujo",
+          "it": "Una marca di abbigliamento di lusso",
+          "ja": "高級ファッションブランド",
+          "ko": "명품 의류 브랜드",
+          "nl": "Een luxekledingmerk",
+          "pl": "Luksusowa marka odzieżowa",
+          "pt": "Uma marca de roupa de luxo",
+          "ru": "Марка роскошной одежды",
+          "tr": "Lüks giyim markası"
+        }
+      }
+    ]
+  },
+  "a11da438": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une marque de vêtements de sport",
+          "de": "Nenne eine Sportbekleidungsmarke",
+          "en": "A sportswear brand",
+          "es": "Una marca de ropa deportiva",
+          "it": "Una marca di abbigliamento sportivo",
+          "ja": "スポーツウェアブランド",
+          "ko": "스포츠 의류 브랜드",
+          "nl": "Een sportkledingmerk",
+          "pl": "Marka odzieży sportowej",
+          "pt": "Uma marca de roupa esportiva",
+          "ru": "Спортивный бренд одежды",
+          "tr": "Spor giyim markası"
+        }
+      }
+    ]
+  },
+  "c5bca329": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une marque qu’on porte au ski",
+          "de": "Nenne eine Marke, die man beim Skifahren trägt",
+          "en": "A brand you wear for skiing",
+          "es": "Una marca que se lleva para esquiar",
+          "it": "Una marca che si indossa per sciare",
+          "ja": "スキーで着るブランド",
+          "ko": "스키장에서 입는 브랜드",
+          "nl": "Een merk dat je op de piste draagt",
+          "pl": "Marka noszona na nartach",
+          "pt": "Uma marca usada para esquiar",
+          "ru": "Бренд, который носят на лыжах",
+          "tr": "Kayakta giyilen marka"
+        }
+      }
+    ]
+  },
+  "9d2421b1": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une marque de voiture",
+          "de": "Nenne eine Automarke",
+          "en": "A car brand",
+          "es": "Una marca de coche",
+          "it": "Una marca di automobili",
+          "ja": "自動車ブランド",
+          "ko": "자동차 브랜드",
+          "nl": "Een automerk",
+          "pl": "Marka samochodu",
+          "pt": "Uma marca de carro",
+          "ru": "Автомобильный бренд",
+          "tr": "Bir otomobil markası"
+        }
+      }
+    ]
+  },
+  "bc85937b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une marque de chaussure",
+          "de": "Nenne eine Schuhmarke",
+          "en": "A shoe brand",
+          "es": "Una marca de zapatos",
+          "it": "Una marca di scarpe",
+          "ja": "靴ブランド",
+          "ko": "신발 브랜드",
+          "nl": "Een schoenenmerk",
+          "pl": "Marka butów",
+          "pt": "Uma marca de sapato",
+          "ru": "Обувной бренд",
+          "tr": "Bir ayakkabı markası"
+        }
+      }
+    ]
+  },
+  "fdfe72f6": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une marque de téléphone",
+          "de": "Nenne eine Telefonmarke",
+          "en": "A phone brand",
+          "es": "Una marca de teléfono",
+          "it": "Una marca di telefoni",
+          "ja": "スマホブランド",
+          "ko": "휴대폰 브랜드",
+          "nl": "Een telefoonmerk",
+          "pl": "Marka telefonu",
+          "pt": "Uma marca de telefone",
+          "ru": "Бренд смартфонов",
+          "tr": "Bir telefon markası"
+        }
+      }
+    ]
+  },
+  "237d0119": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une marque de montre",
+          "de": "Nenne eine Uhrenmarke",
+          "en": "A watch brand",
+          "es": "Una marca de reloj",
+          "it": "Una marca di orologi",
+          "ja": "腕時計ブランド",
+          "ko": "시계 브랜드",
+          "nl": "Een horlogemerk",
+          "pl": "Marka zegarków",
+          "pt": "Uma marca de relógio",
+          "ru": "Бренд часов",
+          "tr": "Bir saat markası"
+        }
+      }
+    ]
+  },
+  "620ab71d": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une marque de parfum",
+          "de": "Nenne eine Parfümmarke",
+          "en": "A perfume brand",
+          "es": "Una marca de perfume",
+          "it": "Una marca di profumi",
+          "ja": "香水ブランド",
+          "ko": "향수 브랜드",
+          "nl": "Een parfummerk",
+          "pl": "Marka perfum",
+          "pt": "Uma marca de perfume",
+          "ru": "Бренд парфюмерии",
+          "tr": "Bir parfüm markası"
+        }
+      }
+    ]
+  },
+  "3470ca4c": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une console de jeu vidéo",
+          "de": "Nenne eine Videospielkonsole",
+          "en": "A video‑game console",
+          "es": "Una consola de videojuegos",
+          "it": "Una console per videogiochi",
+          "ja": "ゲーム機",
+          "ko": "비디오게임 콘솔",
+          "nl": "Een spelconsole",
+          "pl": "Konsola do gier",
+          "pt": "Um console de videogame",
+          "ru": "Игровая консоль",
+          "tr": "Video oyun konsolu"
+        }
+      }
+    ]
+  },
+  "bb6cd899": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chaîne de fast-food",
+          "de": "Nenne eine Fast‑Food‑Kette",
+          "en": "A fast‑food chain",
+          "es": "Una cadena de comida rápida",
+          "it": "Una catena di fast food",
+          "ja": "ファストフードチェーン",
+          "ko": "패스트푸드 체인",
+          "nl": "Een fastfoodketen",
+          "pl": "Sieć fast food",
+          "pt": "Uma rede de fast-food",
+          "ru": "Сеть фастфуда",
+          "tr": "Fast food zinciri"
+        }
+      }
+    ]
+  },
+  "6f726da1": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un réseau social",
+          "de": "Nenne ein soziales Netzwerk",
+          "en": "A social network",
+          "es": "Una red social",
+          "it": "Un social network",
+          "ja": "ソーシャルメディア",
+          "ko": "소셜 네트워크",
+          "nl": "Een sociaal netwerk",
+          "pl": "Serwis społecznościowy",
+          "pt": "Uma rede social",
+          "ru": "Социальная сеть",
+          "tr": "Sosyal ağ"
+        }
+      }
+    ]
+  },
+  "4094c3f4": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une plateforme de streaming",
+          "de": "Nenne eine Streaming‑Plattform",
+          "en": "A streaming platform",
+          "es": "Una plataforma de streaming",
+          "it": "Una piattaforma di streaming",
+          "ja": "ストリーミングプラットフォーム",
+          "ko": "스트리밍 플랫폼",
+          "nl": "Een streamingplatform",
+          "pl": "Platforma streamingowa",
+          "pt": "Uma plataforma de streaming",
+          "ru": "Стриминговая платформа",
+          "tr": "Yayın platformu"
+        }
+      }
+    ]
+  },
+  "aa32052f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un film d’action",
+          "de": "Nenne einen Actionfilm",
+          "en": "Name an action film",
+          "es": "Cita una película de acción",
+          "it": "Cita un film d’azione",
+          "ja": "アクション映画を一つ挙げて",
+          "ko": "액션 영화를 하나 말하기",
+          "nl": "Noem een actiefilm",
+          "pl": "Podaj film akcji",
+          "pt": "Um filme de ação",
+          "ru": "Назови боевик",
+          "tr": "Bir aksiyon filmi söyle"
+        }
+      }
+    ]
+  },
+  "ed0d1c25": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un film d’animation Disney",
+          "de": "Nenne einen Disney‑Animationsfilm",
+          "en": "A Disney animated film",
+          "es": "Una película animada de Disney",
+          "it": "Un film d’animazione Disney",
+          "ja": "ディズニーのアニメ映画",
+          "ko": "디즈니 애니메이션 영화",
+          "nl": "Een Disney-animatiefilm",
+          "pl": "Film animowany Disneya",
+          "pt": "Um filme de animação Disney",
+          "ru": "Мультфильм Disney",
+          "tr": "Bir Disney animasyon filmi"
+        }
+      }
+    ]
+  },
+  "bb2cb5ac": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un film de science-fiction",
+          "de": "Nenne einen Science‑Fiction‑Film",
+          "en": "A science‑fiction film",
+          "es": "Una película de ciencia ficción",
+          "it": "Un film di fantascienza",
+          "ja": "SF映画を一つ挙げて",
+          "ko": "SF 영화 하나 말하기",
+          "nl": "Een sciencefictionfilm",
+          "pl": "Film science fiction",
+          "pt": "Um filme de ficção científica",
+          "ru": "Научно-фантастический фильм",
+          "tr": "Bir bilimkurgu filmi"
+        }
+      }
+    ]
+  },
+  "aa8987f9": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un film d’horreur célèbre",
+          "de": "Nenne einen berühmten Horrorfilm",
+          "en": "A famous horror film",
+          "es": "Una película de terror famosa",
+          "it": "Un famoso film horror",
+          "ja": "有名なホラー映画",
+          "ko": "유명한 공포 영화",
+          "nl": "Een beroemde horrorfilm",
+          "pl": "Znany film grozy",
+          "pt": "Um filme de terror famoso",
+          "ru": "Известный фильм ужасов",
+          "tr": "Ünlü bir korku filmi"
+        }
+      }
+    ]
+  },
+  "0a15aba1": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une saga cinéma",
+          "de": "Nenne eine Filmreihe",
+          "en": "A movie saga",
+          "es": "Una saga de cine",
+          "it": "Una saga cinematografica",
+          "ja": "映画シリーズ",
+          "ko": "영화 시리즈",
+          "nl": "Een filmreeks",
+          "pl": "Filmowa saga",
+          "pt": "Uma saga de cinema",
+          "ru": "Киносага",
+          "tr": "Bir film serisi"
+        }
+      }
+    ]
+  },
+  "dcbb0f54": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une série TV populaire",
+          "de": "Nenne eine beliebte TV‑Serie",
+          "en": "Name a popular TV series",
+          "es": "Cita una serie de TV popular",
+          "it": "Cita una serie TV popolare",
+          "ja": "人気テレビドラマを一つ挙げて",
+          "ko": "인기 TV 시리즈 하나 말하기",
+          "nl": "Noem een populaire tv-serie",
+          "pl": "Podaj popularny serial TV",
+          "pt": "Uma série de TV popular",
+          "ru": "Назови популярный сериал",
+          "tr": "Popüler bir dizi söyle"
+        }
+      }
+    ]
+  },
+  "0d2ad3a6": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un groupe de rock",
+          "de": "Nenne eine Rockband",
+          "en": "Name a rock band",
+          "es": "Cita un grupo de rock",
+          "it": "Cita un gruppo rock",
+          "ja": "ロックバンドを一つ挙げて",
+          "ko": "록 밴드 하나 말하기",
+          "nl": "Noem een rockband",
+          "pl": "Podaj zespół rockowy",
+          "pt": "Uma banda de rock",
+          "ru": "Назови рок-группу",
+          "tr": "Bir rock grubu söyle"
+        }
+      }
+    ]
+  },
+  "cc619561": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un chanteur pop",
+          "de": "Nenne einen Pop‑Sänger",
+          "en": "Name a pop singer",
+          "es": "Cita un cantante pop",
+          "it": "Cita un cantante pop",
+          "ja": "ポップ歌手を一人挙げて",
+          "ko": "팝 가수 하나 말하기",
+          "nl": "Noem een popzanger",
+          "pl": "Podaj piosenkarza pop",
+          "pt": "Um cantor pop",
+          "ru": "Назови поп-певца",
+          "tr": "Bir pop şarkıcısı söyle"
+        }
+      }
+    ]
+  },
+  "82441394": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un rappeur",
+          "de": "Nenne einen Rapper",
+          "en": "Name a rapper",
+          "es": "Cita un rapero",
+          "it": "Cita un rapper",
+          "ja": "ラッパーを一人挙げて",
+          "ko": "래퍼 하나 말하기",
+          "nl": "Noem een rapper",
+          "pl": "Podaj rapera",
+          "pt": "Um rapper",
+          "ru": "Назови рэпера",
+          "tr": "Bir rapçi söyle"
+        }
+      }
+    ]
+  },
+  "6cb6970d": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chanteuse iconique",
+          "de": "Nenne eine ikonische Sängerin",
+          "en": "An iconic female singer",
+          "es": "Una cantante icónica",
+          "it": "Una cantante iconica",
+          "ja": "伝説的な女性歌手",
+          "ko": "아이코닉한 여성 가수",
+          "nl": "Een iconische zangeres",
+          "pl": "Ikoniczna piosenkarka",
+          "pt": "Uma cantora icônica",
+          "ru": "Иконическая певица",
+          "tr": "İkonik bir kadın şarkıcı"
+        }
+      }
+    ]
+  },
+  "4c1a265c": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un DJ célèbre",
+          "de": "Nenne einen berühmten DJ",
+          "en": "A famous DJ",
+          "es": "Un DJ famoso",
+          "it": "Un DJ famoso",
+          "ja": "有名DJ",
+          "ko": "유명한 DJ",
+          "nl": "Een beroemde dj",
+          "pl": "Znany DJ",
+          "pt": "Um DJ famoso",
+          "ru": "Известный диджей",
+          "tr": "Ünlü bir DJ"
+        }
+      }
+    ]
+  },
+  "7a39cfe2": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans le salon",
+          "de": "Nenne etwas, das man im Wohnzimmer findet",
+          "en": "Something you find in the living room",
+          "es": "Cosas que se encuentran en el salón",
+          "it": "Cose che si trovano in salotto",
+          "ja": "リビングにあるもの",
+          "ko": "거실에서 찾을 수 있는 것들",
+          "nl": "Dingen die je in de woonkamer vindt",
+          "pl": "Coś, co znajduje się w salonie",
+          "pt": "Coisas que encontramos na sala de estar",
+          "ru": "Несколько вещей, которые можно найти в гостиной",
+          "tr": "Salonda bulunan bazı eşyalar"
+        }
+      }
+    ]
+  },
+  "e60d60ab": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve sur un bureau",
+          "de": "Nenne etwas, das auf einem Schreibtisch liegt",
+          "en": "Something you find on a desk",
+          "es": "Cosas que se encuentran en un escritorio",
+          "it": "Cose che si trovano su una scrivania",
+          "ja": "机の上にあるもの",
+          "ko": "책상 위에 있는 것들",
+          "nl": "Dingen die je op een bureau vindt",
+          "pl": "Coś, co znajduje się na biurku",
+          "pt": "Coisas que encontramos em uma escrivaninha",
+          "ru": "Несколько вещей, которые можно найти на рабочем столе",
+          "tr": "Masada bulunan birkaç şey"
+        }
+      }
+    ]
+  },
+  "717bd292": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve aux WC",
+          "de": "Nenne etwas, das man auf der Toilette findet",
+          "en": "Something you find in a toilet",
+          "es": "Cosas que se encuentran en el WC",
+          "it": "Cose che si trovano in bagno",
+          "ja": "トイレにあるもの",
+          "ko": "화장실에 있는 것들",
+          "nl": "Dingen die je op het toilet vindt",
+          "pl": "Coś, co znajduje się w toalecie",
+          "pt": "Coisas que encontramos no banheiro",
+          "ru": "Несколько вещей, которые можно найти в туалете",
+          "tr": "Tuvalette bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "b433f7de": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans une fête foraine",
+          "de": "Nenne etwas, das man auf einem Jahrmarkt findet",
+          "en": "Something you find at a funfair",
+          "es": "Cosas que se encuentran en una feria",
+          "it": "Cose che si trovano in un luna park",
+          "ja": "遊園地で見かけるもの",
+          "ko": "놀이공원에서 볼 수 있는 것들",
+          "nl": "Dingen die je op de kermis vindt",
+          "pl": "Coś, co znajduje się na wesołym miasteczku",
+          "pt": "Coisas que encontramos em um parque de diversões",
+          "ru": "Несколько вещей, которые можно найти на ярмарке",
+          "tr": "Lunaparkta bulunan birkaç şey"
+        }
+      }
+    ]
+  },
+  "2966fafd": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un avion",
+          "de": "Nenne etwas, das man im Flugzeug findet",
+          "en": "Something you find on a plane",
+          "es": "Cosas que se encuentran en un avión",
+          "it": "Cose che si trovano in un aereo",
+          "ja": "飛行機内にあるもの",
+          "ko": "비행기 안에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een vliegtuig vindt",
+          "pl": "Coś, co znajduje się w samolocie",
+          "pt": "Coisas que encontramos em um avião",
+          "ru": "Несколько вещей, которые можно найти в самолёте",
+          "tr": "Uçakta bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "6f292c20": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un hôtel",
+          "de": "Nenne etwas, das man in einem Hotel findet",
+          "en": "Something you find in a hotel",
+          "es": "Cosas que se encuentran en un hotel",
+          "it": "Cose che si trovano in un hotel",
+          "ja": "ホテルにあるもの",
+          "ko": "호텔에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een hotel vindt",
+          "pl": "Coś, co znajduje się w hotelu",
+          "pt": "Coisas que encontramos em um hotel",
+          "ru": "Несколько вещей, которые можно найти в отеле",
+          "tr": "Otelde bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "0ca3d85e": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un sac à main",
+          "de": "Nenne etwas, das man in einer Handtasche findet",
+          "en": "Something you find in a handbag",
+          "es": "Cosas que se encuentran en un bolso",
+          "it": "Cose che si trovano in una borsa",
+          "ja": "ハンドバッグに入っているもの",
+          "ko": "핸드백 안에 있는 것들",
+          "nl": "Dingen die je in een handtas vindt",
+          "pl": "Coś, co znajduje się w torebce",
+          "pt": "Coisas que encontramos em uma bolsa",
+          "ru": "Несколько вещей, которые можно найти в женской сумке",
+          "tr": "El çantasında bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "384ea7c1": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un jardin",
+          "de": "Nenne etwas, das man im Garten findet",
+          "en": "Something you find in a garden",
+          "es": "Cosas que se encuentran en un jardín",
+          "it": "Cose che si trovano in un giardino",
+          "ja": "庭で見つかるもの",
+          "ko": "정원에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een tuin vindt",
+          "pl": "Coś, co znajduje się w ogrodzie",
+          "pt": "Coisas que encontramos em um jardim",
+          "ru": "Несколько вещей, которые можно найти в саду",
+          "tr": "Bahçede bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "987e63d3": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un bar",
+          "de": "Nenne etwas, das man in einer Bar findet",
+          "en": "Something you find in a bar",
+          "es": "Cosas que se encuentran en un bar",
+          "it": "Cose che si trovano in un bar",
+          "ja": "バーにあるもの",
+          "ko": "바에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een bar vindt",
+          "pl": "Coś, co znajduje się w barze",
+          "pt": "Algo que encontramos em um bar",
+          "ru": "Несколько вещей, которые можно найти в баре",
+          "tr": "Barda bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "5029ffa8": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un restaurant",
+          "de": "Nenne etwas, das man in einem Restaurant findet",
+          "en": "Something you find in a restaurant",
+          "es": "Cosas que se encuentran en un restaurante",
+          "it": "Cose che si trovano in un ristorante",
+          "ja": "レストランにあるもの",
+          "ko": "레스토랑에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een restaurant vindt",
+          "pl": "Coś, co znajduje się w restauracji",
+          "pt": "Algo que encontramos em um restaurante",
+          "ru": "Несколько вещей, которые можно найти в ресторане",
+          "tr": "Restoranda bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "705f189f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un supermarché",
+          "de": "Nenne etwas, das man in einem Supermarkt findet",
+          "en": "Something you find in a supermarket",
+          "es": "Cosas que se encuentran en un supermercado",
+          "it": "Cose che si trovano in un supermercato",
+          "ja": "スーパーマーケットにあるもの",
+          "ko": "슈퍼마켓에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een supermarkt vindt",
+          "pl": "Coś, co znajduje się w supermarkecie",
+          "pt": "Algo que encontramos em um supermercado",
+          "ru": "Несколько вещей, которые можно найти в супермаркете",
+          "tr": "Süpermarkette bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "8aa8d720": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans une pharmacie",
+          "de": "Nenne etwas, das man in einer Apotheke findet",
+          "en": "Something you find in a pharmacy",
+          "es": "Cosas que se encuentran en una farmacia",
+          "it": "Cose che si trovano in una farmacia",
+          "ja": "薬局にあるもの",
+          "ko": "약국에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een apotheek vindt",
+          "pl": "Coś, co znajduje się w aptece",
+          "pt": "Algo que encontramos em uma farmácia",
+          "ru": "Несколько вещей, которые можно найти в аптеке",
+          "tr": "Eczanede bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "0253465e": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un aéroport",
+          "de": "Nenne etwas, das man in einem Flughafen findet",
+          "en": "Something you find in an airport",
+          "es": "Cosas que se encuentran en un aeropuerto",
+          "it": "Cose che si trovano in un aeroporto",
+          "ja": "空港にあるもの",
+          "ko": "공항에서 볼 수 있는 것들",
+          "nl": "Dingen die je op een luchthaven vindt",
+          "pl": "Coś, co znajduje się na lotnisku",
+          "pt": "Algo que encontramos em um aeroporto",
+          "ru": "Несколько вещей, которые можно найти в аэропорту",
+          "tr": "Havalimanında bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "e1c0bf70": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans une gare",
+          "de": "Nenne etwas, das man in einem Bahnhof findet",
+          "en": "Something you find in a train station",
+          "es": "Cosas que se encuentran en una estación de tren",
+          "it": "Cose che si trovano in una stazione",
+          "ja": "駅にあるもの",
+          "ko": "기차역에서 볼 수 있는 것들",
+          "nl": "Dingen die je op een station vindt",
+          "pl": "Coś, co znajduje się na dworcu",
+          "pt": "Algo que encontramos em uma estação de trem",
+          "ru": "Несколько вещей, которые можно найти на вокзале",
+          "tr": "Tren garında bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "a8609e2c": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un parc",
+          "de": "Nenne etwas, das man in einem Park findet",
+          "en": "Something you find in a park",
+          "es": "Cosas que se encuentran en un parque",
+          "it": "Cose che si trovano in un parco",
+          "ja": "公園にあるもの",
+          "ko": "공원에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een park vindt",
+          "pl": "Coś, co znajduje się w parku",
+          "pt": "Algo que encontramos em um parque",
+          "ru": "Несколько вещей, которые можно найти в парке",
+          "tr": "Parkta bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "9aadc673": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve sur une plage",
+          "de": "Nenne etwas, das man am Strand findet",
+          "en": "Something you find on a beach",
+          "es": "Cosas que se encuentran en una playa",
+          "it": "Cose che si trovano su una spiaggia",
+          "ja": "ビーチにあるもの",
+          "ko": "해변에서 볼 수 있는 것들",
+          "nl": "Dingen die je op een strand vindt",
+          "pl": "Coś, co znajduje się na plaży",
+          "pt": "Algo que encontramos em uma praia",
+          "ru": "Несколько вещей, которые можно найти на пляже",
+          "tr": "Plajda bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "abc75f16": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un hôpital",
+          "de": "Nenne etwas, das man in einem Krankenhaus findet",
+          "en": "Something you find in a hospital",
+          "es": "Cosas que se encuentran en un hospital",
+          "it": "Cose che si trovano in un ospedale",
+          "ja": "病院にあるもの",
+          "ko": "병원에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een ziekenhuis vindt",
+          "pl": "Coś, co znajduje się w szpitalu",
+          "pt": "Algo que encontramos em um hospital",
+          "ru": "Несколько вещей, которые можно найти в больнице",
+          "tr": "Hastanede bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "d6d82c7b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un musée",
+          "de": "Nenne etwas, das man in einem Museum findet",
+          "en": "Something you find in a museum",
+          "es": "Cosas que se encuentran en un museo",
+          "it": "Cose che si trovano in un museo",
+          "ja": "美術館にあるもの",
+          "ko": "박물관에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een museum vindt",
+          "pl": "Coś, co znajduje się w muzeum",
+          "pt": "Algo que encontramos em um museu",
+          "ru": "Несколько вещей, которые можно найти в музее",
+          "tr": "Müzede bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "745f28f6": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un cinéma",
+          "de": "Nenne etwas, das man in einem Kino findet",
+          "en": "Something you find in a cinema",
+          "es": "Cosas que se encuentran en un cine",
+          "it": "Cose che si trovano in un cinema",
+          "ja": "映画館にあるもの",
+          "ko": "영화관에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een bioscoop vindt",
+          "pl": "Coś, co znajduje się w kinie",
+          "pt": "Algo que encontramos em um cinema",
+          "ru": "Несколько вещей, которые можно найти в кинотеатре",
+          "tr": "Sinemada bulunan bazı şeyler"
+        }
+      }
+    ]
+  },
+  "45a24935": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet qu’on trouve dans un camping",
+          "de": "Nenne einen Gegenstand, den man auf einem Campingplatz findet",
+          "en": "An object you find at a campsite",
+          "es": "Un objeto que se encuentra en un camping",
+          "it": "Un oggetto che si trova in un campeggio",
+          "ja": "キャンプで見つかる道具",
+          "ko": "캠핑장에서 찾을 수 있는 물건",
+          "nl": "Een voorwerp dat je op een camping vindt",
+          "pl": "Przedmiot spotykany na kempingu",
+          "pt": "Um objeto encontrado em um camping",
+          "ru": "Предмет, который можно найти в кемпинге",
+          "tr": "Kamp yerinde bulunan bir nesne"
+        }
+      }
+    ]
+  },
+  "1f8e2bdd": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet qu’on trouve dans une valise",
+          "de": "Nenne einen Gegenstand, den man in einem Koffer findet",
+          "en": "An object you find in a suitcase",
+          "es": "Un objeto que se encuentra en una maleta",
+          "it": "Un oggetto che si trova in una valigia",
+          "ja": "スーツケースに入っているもの",
+          "ko": "여행가방에서 찾을 수 있는 물건",
+          "nl": "Een voorwerp dat je in een koffer vindt",
+          "pl": "Przedmiot znajdujący się w walizce",
+          "pt": "Um objeto encontrado em uma mala",
+          "ru": "Предмет, который можно найти в чемодане",
+          "tr": "Bavulda bulunan bir nesne"
+        }
+      }
+    ]
+  },
+  "d0c7259e": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet qu’on trouve dans une salle de sport",
+          "de": "Nenne einen Gegenstand, den man im Fitnessstudio findet",
+          "en": "An object you find in a gym",
+          "es": "Un objeto que se encuentra en un gimnasio",
+          "it": "Un oggetto che si trova in una palestra",
+          "ja": "ジムにあるもの",
+          "ko": "헬스장에서 찾을 수 있는 물건",
+          "nl": "Een voorwerp dat je in een sportschool vindt",
+          "pl": "Przedmiot znajdujący się na siłowni",
+          "pt": "Um objeto encontrado em uma academia",
+          "ru": "Предмет, который можно найти в спортзале",
+          "tr": "Spor salonunda bulunan bir nesne"
+        }
+      }
+    ]
+  },
+  "c7f2f74f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet qu’on trouve dans un festival de musique",
+          "de": "Nenne einen Gegenstand, den man auf einem Musikfestival findet",
+          "en": "An object you find at a music festival",
+          "es": "Un objeto que se encuentra en un festival de música",
+          "it": "Un oggetto che si trova in un festival musicale",
+          "ja": "音楽フェスで手にするもの",
+          "ko": "음악 페스티벌에서 찾을 수 있는 물건",
+          "nl": "Een voorwerp dat je op een muziekfestival vindt",
+          "pl": "Przedmiot spotykany na festiwalu muzycznym",
+          "pt": "Um objeto encontrado em um festival de música",
+          "ru": "Предмет, который можно найти на музыкальном фестивале",
+          "tr": "Müzik festivalinde bulunan bir nesne"
+        }
+      }
+    ]
+  },
+  "e0561e98": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet qu’on trouve dans un stade",
+          "de": "Nenne einen Gegenstand, den man in einem Stadion findet",
+          "en": "An object you find in a stadium",
+          "es": "Un objeto que se encuentra en un estadio",
+          "it": "Un oggetto che si trova in uno stadio",
+          "ja": "スタジアムにあるもの",
+          "ko": "경기장에서 찾을 수 있는 물건",
+          "nl": "Een voorwerp dat je in een stadion vindt",
+          "pl": "Przedmiot znajdujący się na stadionie",
+          "pt": "Um objeto encontrado em um estádio",
+          "ru": "Предмет, который можно найти на стадионе",
+          "tr": "Stadyumda bulunan bir nesne"
+        }
+      }
+    ]
+  },
+  "c22fdc37": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une boisson alcoolisée",
+          "de": "Nenne ein alkoholisches Getränk",
+          "en": "An alcoholic drink",
+          "es": "Una bebida alcohólica",
+          "it": "Una bevanda alcolica",
+          "ja": "アルコール飲料",
+          "ko": "알코올 음료",
+          "nl": "Een alcoholische drank",
+          "pl": "Napój alkoholowy",
+          "pt": "Uma bebida alcoólica",
+          "ru": "Алкогольный напиток",
+          "tr": "Alkollü bir içki"
+        }
+      }
+    ]
+  },
+  "4d8a6cac": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une herbe aromatique",
+          "de": "Nenne ein aromatisches Kraut",
+          "en": "An aromatic herb",
+          "es": "Una hierba aromática",
+          "it": "Un’erba aromatica",
+          "ja": "ハーブ",
+          "ko": "향긋한 허브",
+          "nl": "Een kruidenplant",
+          "pl": "Zioło aromatyczne",
+          "pt": "Uma erva aromática",
+          "ru": "Ароматная трава",
+          "tr": "Aromatik bir ot"
+        }
+      }
+    ]
+  },
+  "b16c5316": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un fruit rouge",
+          "de": "Nenne eine rote Frucht",
+          "en": "A red fruit",
+          "es": "Una fruta roja",
+          "it": "Un frutto rosso",
+          "ja": "赤い果物",
+          "ko": "빨간 과일",
+          "nl": "Een rood fruit",
+          "pl": "Czerwony owoc",
+          "pt": "Uma fruta vermelha",
+          "ru": "Красный фрукт",
+          "tr": "Kırmızı bir meyve"
+        }
+      }
+    ]
+  },
+  "76e4917a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un fruit exotique",
+          "de": "Nenne eine exotische Frucht",
+          "en": "An exotic fruit",
+          "es": "Una fruta exótica",
+          "it": "Un frutto esotico",
+          "ja": "トロピカルフルーツ",
+          "ko": "이국적인 과일",
+          "nl": "Een exotische vrucht",
+          "pl": "Egzotyczny owoc",
+          "pt": "Uma fruta exótica",
+          "ru": "Экзотический фрукт",
+          "tr": "Egzotik bir meyve"
+        }
+      }
+    ]
+  },
+  "dab9ddaa": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sport olympique",
+          "de": "Nenne eine olympische Sportart",
+          "en": "An Olympic sport",
+          "es": "Un deporte olímpico",
+          "it": "Uno sport olimpico",
+          "ja": "オリンピック競技",
+          "ko": "올림픽 종목 스포츠",
+          "nl": "Een olympische sport",
+          "pl": "Sport olimpijski",
+          "pt": "Um esporte olímpico",
+          "ru": "Олимпийский вид спорта",
+          "tr": "Olimpik bir spor"
+        }
+      }
+    ]
+  },
+  "2c033023": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sport de raquette",
+          "de": "Nenne eine Schlägersportart",
+          "en": "A racket sport",
+          "es": "Un deporte de raqueta",
+          "it": "Uno sport con la racchetta",
+          "ja": "ラケットスポーツ",
+          "ko": "라켓 스포츠",
+          "nl": "Een racketsport",
+          "pl": "Sport rakietowy",
+          "pt": "Um esporte de raquete",
+          "ru": "Ракеточный вид спорта",
+          "tr": "Raket sporu"
+        }
+      }
+    ]
+  },
+  "b73b24e6": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sport extrême",
+          "de": "Nenne eine Extremsportart",
+          "en": "An extreme sport",
+          "es": "Un deporte extremo",
+          "it": "Uno sport estremo",
+          "ja": "エクストリームスポーツ",
+          "ko": "익스트림 스포츠",
+          "nl": "Een extreme sport",
+          "pl": "Sport ekstremalny",
+          "pt": "Um esporte radical",
+          "ru": "Экстремальный вид спорта",
+          "tr": "Ekstrem spor"
+        }
+      }
+    ]
+  },
+  "bbd5b60a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un jeu de société célèbre",
+          "de": "Nenne ein bekanntes Brettspiel",
+          "en": "A famous board game",
+          "es": "Un juego de mesa famoso",
+          "it": "Un famoso gioco da tavolo",
+          "ja": "有名なボードゲーム",
+          "ko": "유명한 보드게임",
+          "nl": "Een bekend bordspel",
+          "pl": "Znana gra planszowa",
+          "pt": "Um jogo de tabuleiro famoso",
+          "ru": "Известная настольная игра",
+          "tr": "Ünlü bir kutu oyunu"
+        }
+      }
+    ]
+  },
+  "3cc0e273": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une application mobile populaire",
+          "de": "Nenne eine beliebte Handy‑App",
+          "en": "A popular mobile app",
+          "es": "Una aplicación móvil popular",
+          "it": "Un’app mobile popolare",
+          "ja": "人気モバイルアプリ",
+          "ko": "인기 모바일 앱",
+          "nl": "Een populaire mobiele app",
+          "pl": "Popularna aplikacja mobilna",
+          "pt": "Um aplicativo móvel popular",
+          "ru": "Популярное мобильное приложение",
+          "tr": "Popüler bir mobil uygulama"
+        }
+      }
+    ]
+  },
+  "55ee1683": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une pizza",
+          "de": "Nenne eine Pizzasorte",
+          "en": "A type of pizza",
+          "es": "Una pizza",
+          "it": "Una pizza",
+          "ja": "ピザ",
+          "ko": "피자 한 종류",
+          "nl": "Een pizza",
+          "pl": "Pizza",
+          "pt": "Uma pizza",
+          "ru": "Пицца",
+          "tr": "Bir pizza"
+        }
+      }
+    ]
+  },
+  "ca7ba1ea": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une application/site de rencontre",
+          "de": "Nenne eine Dating‑App oder ‑Webseite",
+          "en": "A dating app or site",
+          "es": "Una app o sitio de citas",
+          "it": "Un’app / sito di incontri",
+          "ja": "マッチングアプリ",
+          "ko": "데이트/만남 앱",
+          "nl": "Een datingapp / -site",
+          "pl": "Aplikacja/strona randkowa",
+          "pt": "Um aplicativo ou site de namoro",
+          "ru": "Приложение/сайт знакомств",
+          "tr": "Bir arkadaşlık uygulaması veya sitesi"
+        }
+      }
+    ]
+  },
+  "5a831cf3": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une cryptomonaie",
+          "de": "Nenne eine Kryptowährung",
+          "en": "A cryptocurrency",
+          "es": "Una criptomoneda",
+          "it": "Una criptovaluta",
+          "ja": "暗号通貨",
+          "ko": "암호화폐",
+          "nl": "Een cryptomunt",
+          "pl": "Kryptowaluta",
+          "pt": "Uma criptomoeda",
+          "ru": "Криптовалюта",
+          "tr": "Bir kripto para"
+        }
+      }
+    ]
+  },
+  "492d166a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un instrument de musique",
+          "de": "Nenne ein Musikinstrument",
+          "en": "A musical instrument",
+          "es": "Un instrumento musical",
+          "it": "Uno strumento musicale",
+          "ja": "楽器",
+          "ko": "악기",
+          "nl": "Een muziekinstrument",
+          "pl": "Instrument muzyczny",
+          "pt": "Um instrumento musical",
+          "ru": "Музыкальный инструмент",
+          "tr": "Bir müzik enstrümanı"
+        }
+      }
+    ]
+  },
+  "26f5f3fc": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un art martial",
+          "de": "Nenne eine Kampfkunst",
+          "en": "A martial art",
+          "es": "Un arte marcial",
+          "it": "Un’arte marziale",
+          "ja": "武道",
+          "ko": "무술",
+          "nl": "Een vechtsport",
+          "pl": "Sztuka walki",
+          "pt": "Uma arte marcial",
+          "ru": "Боевое искусство",
+          "tr": "Bir dövüş sanatı"
+        }
+      }
+    ]
+  },
+  "a271e2c3": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un moyen de transport",
+          "de": "Nenne ein Transportmittel",
+          "en": "A means of transport",
+          "es": "Un medio de transporte",
+          "it": "Un mezzo di trasporto",
+          "ja": "交通手段",
+          "ko": "교통 수단",
+          "nl": "Een vervoermiddel",
+          "pl": "Środek transportu",
+          "pt": "Um meio de transporte",
+          "ru": "Транспортное средство",
+          "tr": "Bir ulaşım aracı"
+        }
+      }
+    ]
+  },
+  "24210817": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un style de danse",
+          "de": "Nenne einen Tanzstil",
+          "en": "A dance style",
+          "es": "Un estilo de baile",
+          "it": "Uno stile di danza",
+          "ja": "ダンススタイル",
+          "ko": "댄스 스타일",
+          "nl": "Een dansstijl",
+          "pl": "Styl tańca",
+          "pt": "Um estilo de dança",
+          "ru": "Танцевальный стиль",
+          "tr": "Bir dans stili"
+        }
+      }
+    ]
+  },
+  "1b57293d": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un genre musical",
+          "de": "Nenne ein Musikgenre",
+          "en": "A music genre",
+          "es": "Un género musical",
+          "it": "Un genere musicale",
+          "ja": "音楽ジャンル",
+          "ko": "음악 장르",
+          "nl": "Een muziekgenre",
+          "pl": "Gatunek muzyczny",
+          "pt": "Um gênero musical",
+          "ru": "Музыкальный жанр",
+          "tr": "Bir müzik türü"
+        }
+      }
+    ]
+  },
+  "ac3235f9": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une fleur",
+          "de": "Nenne eine Blume",
+          "en": "A flower",
+          "es": "Una flor",
+          "it": "Un fiore",
+          "ja": "花",
+          "ko": "꽃 한 종류",
+          "nl": "Een bloem",
+          "pl": "Kwiat",
+          "pt": "Uma flor",
+          "ru": "Цветок",
+          "tr": "Bir çiçek"
+        }
+      }
+    ]
+  },
+  "d57bf8ec": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un parfum de glace",
+          "de": "Nenne eine Eissorte",
+          "en": "An ice‑cream flavour",
+          "es": "Un sabor de helado",
+          "it": "Un gusto di gelato",
+          "ja": "アイスクリームのフレーバー",
+          "ko": "아이스크림 맛",
+          "nl": "Een ijssmaak",
+          "pl": "Smak lodów",
+          "pt": "Um sabor de sorvete",
+          "ru": "Вкус мороженого",
+          "tr": "Bir dondurma aroması"
+        }
+      }
+    ]
+  },
+  "9f9536da": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un type de pâtes",
+          "de": "Nenne eine Pastasorte",
+          "en": "A type of pasta",
+          "es": "Un tipo de pasta",
+          "it": "Un tipo di pasta",
+          "ja": "パスタの種類",
+          "ko": "파스타 종류",
+          "nl": "Een pastasoort",
+          "pl": "Rodzaj makaronu",
+          "pt": "Um tipo de massa",
+          "ru": "Вид пасты",
+          "tr": "Bir makarna çeşidi"
+        }
+      }
+    ]
+  },
+  "4e0e05a4": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un biscuit sucré",
+          "de": "Nenne einen süßen Keks",
+          "en": "A sweet biscuit",
+          "es": "Una galleta dulce",
+          "it": "Un biscotto dolce",
+          "ja": "甘いクッキー",
+          "ko": "달콤한 비스킷",
+          "nl": "Een zoete koek",
+          "pl": "Słodkie ciastko",
+          "pt": "Um biscoito doce",
+          "ru": "Сладкое печенье",
+          "tr": "Tatlı bir bisküvi"
+        }
+      }
+    ]
+  },
+  "f36140c4": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un outil de bricolage",
+          "de": "Nenne ein Werkzeug zum Heimwerken",
+          "en": "A DIY tool",
+          "es": "Una herramienta de bricolaje",
+          "it": "Un utensile da bricolage",
+          "ja": "DIYツール",
+          "ko": "DIY 도구",
+          "nl": "Een klusgereedschap",
+          "pl": "Narzędzie do majsterkowania",
+          "pt": "Uma ferramenta de bricolagem",
+          "ru": "Инструмент для самоделок",
+          "tr": "Bir el aleti"
+        }
+      }
+    ]
+  },
+  "f120f32b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un vêtement d’été",
+          "de": "Nenne ein Sommerkleidungsstück",
+          "en": "A summer garment",
+          "es": "Una prenda de verano",
+          "it": "Un capo estivo",
+          "ja": "夏服",
+          "ko": "여름 옷",
+          "nl": "Een zomerkledingstuk",
+          "pl": "Letnie ubranie",
+          "pt": "Uma roupa de verão",
+          "ru": "Летняя одежда",
+          "tr": "Yazlık bir kıyafet"
+        }
+      }
+    ]
+  },
+  "b5274df6": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un vêtement d’hiver",
+          "de": "Nenne ein Winterkleidungsstück",
+          "en": "A winter garment",
+          "es": "Una prenda de invierno",
+          "it": "Un capo invernale",
+          "ja": "冬服",
+          "ko": "겨울 옷",
+          "nl": "Een winterkledingstuk",
+          "pl": "Zimowe ubranie",
+          "pt": "Uma roupa de inverno",
+          "ru": "Зимняя одежда",
+          "tr": "Kışlık bir kıyafet"
+        }
+      }
+    ]
+  },
+  "629f8c84": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une matière textile",
+          "de": "Nenne ein Textilmaterial",
+          "en": "A textile material",
+          "es": "Un material textil",
+          "it": "Un materiale tessile",
+          "ja": "繊維素材",
+          "ko": "섬유 소재",
+          "nl": "Een textielsoort",
+          "pl": "Materiał tekstylny",
+          "pt": "Um material têxtil",
+          "ru": "Текстильный материал",
+          "tr": "Bir tekstil malzemesi"
+        }
+      }
+    ]
+  },
+  "d6b87172": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chaîne YouTube célèbre",
+          "de": "Nenne einen berühmten YouTube‑Kanal",
+          "en": "A famous YouTube channel",
+          "es": "Un canal de YouTube famoso",
+          "it": "Un canale YouTube famoso",
+          "ja": "有名YouTubeチャンネル",
+          "ko": "유명한 유튜브 채널",
+          "nl": "Een beroemd YouTube-kanaal",
+          "pl": "Znany kanał YouTube",
+          "pt": "Um canal famoso no YouTube",
+          "ru": "Известный YouTube-канал",
+          "tr": "Ünlü bir YouTube kanalı"
+        }
+      }
+    ]
+  },
+  "d6722366": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un influenceur",
+          "de": "Nenne einen Influencer",
+          "en": "An influencer",
+          "es": "Un influencer",
+          "it": "Un influencer",
+          "ja": "インフルエンサー",
+          "ko": "인플루언서",
+          "nl": "Een influencer",
+          "pl": "Influencer",
+          "pt": "Um influenciador",
+          "ru": "Инфлюенсер",
+          "tr": "Bir influencer"
+        }
+      }
+    ]
+  },
+  "7a9262e5": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un dessin animé",
+          "de": "Nenne einen Zeichentrickfilm",
+          "en": "A cartoon",
+          "es": "Un dibujo animado",
+          "it": "Un cartone animato",
+          "ja": "アニメ",
+          "ko": "만화영화",
+          "nl": "Een tekenfilm",
+          "pl": "Kreskówka",
+          "pt": "Um desenho animado",
+          "ru": "Мультфильм",
+          "tr": "Bir çizgi film"
+        }
+      }
+    ]
+  },
+  "f1199371": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un acteur célèbre",
+          "de": "Nenne einen berühmten Schauspieler",
+          "en": "A famous actor",
+          "es": "Un actor famoso",
+          "it": "Un attore famoso",
+          "ja": "有名俳優",
+          "ko": "유명 배우",
+          "nl": "Een beroemde acteur",
+          "pl": "Znany aktor",
+          "pt": "Um ator famoso",
+          "ru": "Известный актёр",
+          "tr": "Ünlü bir aktör"
+        }
+      }
+    ]
+  },
+  "e7ff1546": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une actrice célèbre",
+          "de": "Nenne eine berühmte Schauspielerin",
+          "en": "A famous actress",
+          "es": "Una actriz famosa",
+          "it": "Un’attrice famosa",
+          "ja": "有名女優",
+          "ko": "유명 여배우",
+          "nl": "Een beroemde actrice",
+          "pl": "Znana aktorka",
+          "pt": "Uma atriz famosa",
+          "ru": "Известная актриса",
+          "tr": "Ünlü bir aktris"
+        }
+      }
+    ]
+  },
+  "6a1c25d4": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une pâtisserie",
+          "de": "Nenne ein Feingebäck",
+          "en": "A pastry",
+          "es": "Una pastelería (postre)",
+          "it": "Un dolce di pasticceria",
+          "ja": "ペストリー",
+          "ko": "패스트리",
+          "nl": "Een gebakje",
+          "pl": "Wypiek cukierniczy",
+          "pt": "Uma confeitaria",
+          "ru": "Кондитерское изделие",
+          "tr": "Bir pastane ürünü"
+        }
+      }
+    ]
+  },
+  "7ad6c425": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une excuse classique pour arriver en retard",
+          "de": "Nenne eine klassische Ausrede fürs Zuspätkommen",
+          "en": "A classic excuse for being late",
+          "es": "Una excusa clásica para llegar tarde",
+          "it": "Una scusa classica per arrivare in ritardo",
+          "ja": "遅刻の定番言い訳",
+          "ko": "지각할 때 쓰는 흔한 변명",
+          "nl": "Een klassieke smoes om te laat te komen",
+          "pl": "Klasyczna wymówka spóźnienia",
+          "pt": "Desculpa clássica para chegar atrasado",
+          "ru": "Классическая отговорка, чтобы опоздать",
+          "tr": "Geç kalmak için klasik bir bahane"
+        }
+      }
+    ]
+  },
+  "5d0be7c4": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une bonne résolution du Nouvel An",
+          "de": "Nenne einen guten Neujahrsvorsatz",
+          "en": "A New Year’s resolution",
+          "es": "Un buen propósito de Año Nuevo",
+          "it": "Un buon proposito per l’anno nuovo",
+          "ja": "新年の抱負",
+          "ko": "새해 결심",
+          "nl": "Een goed voornemen voor het nieuwe jaar",
+          "pl": "Noworoczne postanowienie",
+          "pt": "Boa resolução de Ano-Novo",
+          "ru": "Новогоднее обещание",
+          "tr": "Yeni yıl için iyi bir karar"
+        }
+      }
+    ]
+  },
+  "f0aef47f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une choses qui est meilleure quand c’est accompagné de fromage",
+          "de": "Nenne etwas, das mit Käse besser ist",
+          "en": "Something that’s better with cheese",
+          "es": "Algo que es mejor acompañado de queso",
+          "it": "Cita qualcosa che è migliore con il formaggio",
+          "ja": "チーズがあるとさらに美味しいものを一つ挙げて",
+          "ko": "치즈와 함께하면 더 맛있는 것 하나 말하기",
+          "nl": "Noem iets wat beter is met kaas",
+          "pl": "Coś, co smakuje lepiej z serem",
+          "pt": "Algo melhor quando acompanhado de queijo",
+          "ru": "Назови вещь, которая лучше с сыром",
+          "tr": "Peynirle daha iyi olan bir şey"
+        }
+      }
+    ]
+  },
+  "a7fcb7fe": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une choses qui est meilleure quand c’est frais",
+          "de": "Nenne etwas, das besser ist, wenn es frisch ist",
+          "en": "Something that’s better when it’s fresh",
+          "es": "Algo que es mejor cuando está fresco",
+          "it": "Cita qualcosa che è migliore quando è fresco",
+          "ja": "新鮮だとより美味しいものを一つ挙げて",
+          "ko": "신선할 때 더 좋은 것 하나 말하기",
+          "nl": "Noem iets wat beter is als het vers is",
+          "pl": "Coś, co jest lepsze, gdy jest świeże",
+          "pt": "Algo melhor quando está fresco",
+          "ru": "Назови вещь, которая лучше, когда свежая",
+          "tr": "Taze olduğunda daha iyi olan bir şey"
+        }
+      }
+    ]
+  },
+  "d04c7229": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une choses qui est meilleure quand c’est gratuit",
+          "de": "Nenne etwas, das besser ist, wenn es gratis ist",
+          "en": "Something that’s better when it’s free",
+          "es": "Algo que es mejor cuando es gratis",
+          "it": "Cita qualcosa che è migliore quando è gratis",
+          "ja": "無料だとより嬉しいものを一つ挙げて",
+          "ko": "공짜일 때 더 좋은 것 하나 말하기",
+          "nl": "Noem iets wat beter is als het gratis is",
+          "pl": "Coś, co jest lepsze, gdy jest za darmo",
+          "pt": "Algo melhor quando é de graça",
+          "ru": "Назови вещь, которая лучше, когда бесплатная",
+          "tr": "Ücretsiz olduğunda daha iyi olan bir şey"
+        }
+      }
+    ]
+  },
+  "dbefd6c0": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de blanc",
+          "de": "Nenne etwas Weißes",
+          "en": "Something white",
+          "es": "Algo blanco",
+          "it": "Qualcosa di bianco",
+          "ja": "白いもの",
+          "ko": "하얀 것들",
+          "nl": "Iets wits",
+          "pl": "Coś białego",
+          "pt": "Algo branco",
+          "ru": "Несколько белых вещей",
+          "tr": "Beyaz birkaç şey"
+        }
+      }
+    ]
+  },
+  "188489ab": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de bleu",
+          "de": "Nenne etwas Blaues",
+          "en": "Something blue",
+          "es": "Algo azul",
+          "it": "Qualcosa di blu",
+          "ja": "青いもの",
+          "ko": "파란 것들",
+          "nl": "Iets blauws",
+          "pl": "Coś niebieskiego",
+          "pt": "Algo azul",
+          "ru": "Несколько синих вещей",
+          "tr": "Mavi birkaç şey"
+        }
+      }
+    ]
+  },
+  "894020d3": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de rouge",
+          "de": "Nenne etwas Rotes",
+          "en": "Something red",
+          "es": "Algo rojo",
+          "it": "Qualcosa di rosso",
+          "ja": "赤いもの",
+          "ko": "빨간 것들",
+          "nl": "Iets roods",
+          "pl": "Coś czerwonego",
+          "pt": "Algo vermelho",
+          "ru": "Несколько красных вещей",
+          "tr": "Kırmızı birkaç şey"
+        }
+      }
+    ]
+  },
+  "10763e50": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de noir",
+          "de": "Nenne etwas Schwarzes",
+          "en": "Something black",
+          "es": "Algo negro",
+          "it": "Qualcosa di nero",
+          "ja": "黒いもの",
+          "ko": "검은 것들",
+          "nl": "Iets zwarts",
+          "pl": "Coś czarnego",
+          "pt": "Algo preto",
+          "ru": "Несколько чёрных вещей",
+          "tr": "Siyah birkaç şey"
+        }
+      }
+    ]
+  },
+  "5e3ed767": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de vert",
+          "de": "Nenne etwas Grünes",
+          "en": "Something green",
+          "es": "Algo verde",
+          "it": "Qualcosa di verde",
+          "ja": "緑のもの",
+          "ko": "초록 것들",
+          "nl": "Iets groens",
+          "pl": "Coś zielonego",
+          "pt": "Algo verde",
+          "ru": "Несколько зелёных вещей",
+          "tr": "Yeşil birkaç şey"
+        }
+      }
+    ]
+  },
+  "28fa914f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui sent mauvais",
+          "de": "Nenne etwas, das schlecht riecht",
+          "en": "Something that smells bad",
+          "es": "Algo que huele mal",
+          "it": "Qualcosa che puzza",
+          "ja": "臭いもの",
+          "ko": "악취 나는 것들",
+          "nl": "Iets dat stinkt",
+          "pl": "Coś, co brzydko pachnie",
+          "pt": "Algo com cheiro ruim",
+          "ru": "Несколько вещей, которые плохо пахнут",
+          "tr": "Kötü kokan birkaç şey"
+        }
+      }
+    ]
+  },
+  "44ee26bc": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui sent bon",
+          "de": "Nenne etwas, das gut riecht",
+          "en": "Something that smells good",
+          "es": "Algo que huele bien",
+          "it": "Qualcosa che profuma",
+          "ja": "いい匂いのもの",
+          "ko": "향기 좋은 것들",
+          "nl": "Iets dat lekker ruikt",
+          "pl": "Coś, co ładnie pachnie",
+          "pt": "Algo com cheiro bom",
+          "ru": "Несколько вещей, которые хорошо пахнут",
+          "tr": "Güzel kokan birkaç şey"
+        }
+      }
+    ]
+  },
+  "24b267fd": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une enseigne alimentaire",
+          "de": "Nenne eine Lebensmittel‑Kette",
+          "en": "A food retailer",
+          "es": "Una cadena de alimentación",
+          "it": "Un’insegna alimentare",
+          "ja": "飲食チェーン",
+          "ko": "음식 체인 브랜드",
+          "nl": "Een voedingsketen",
+          "pl": "Sieć spożywcza",
+          "pt": "Uma rede de alimentação",
+          "ru": "Продуктовая сеть",
+          "tr": "Gıda zinciri"
+        }
+      }
+    ]
+  },
+  "a850669f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose que tu peux faire après l'école",
+          "de": "Nenne etwas, das du nach der Schule machen kannst",
+          "en": "Something you can do after school",
+          "es": "Algo que puedes hacer después de la escuela",
+          "it": "Qualcosa che puoi fare dopo scuola",
+          "ja": "学校のあとにできること",
+          "ko": "방과 후 할 수 있는 것들",
+          "nl": "Dingen die je na school kunt doen",
+          "pl": "Coś, co możesz zrobić po szkole",
+          "pt": "Algo para fazer depois da escola",
+          "ru": "Несколько вещей, которые можно делать после школы",
+          "tr": "Okuldan sonra yapabileceğin birkaç şey"
+        }
+      }
+    ]
+  },
+  "f483659d": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une activité du weekend",
+          "de": "Nenne eine Wochenendaktivität",
+          "en": "A weekend activity",
+          "es": "Una actividad de fin de semana",
+          "it": "Un’attività del fine settimana",
+          "ja": "週末のアクティビティ",
+          "ko": "주말 활동",
+          "nl": "Een weekendactiviteit",
+          "pl": "Weekendowa aktywność",
+          "pt": "Uma atividade de fim de semana",
+          "ru": "Развлечение на выходных",
+          "tr": "Hafta sonu aktivitesi"
+        }
+      }
+    ]
+  },
+  "b7449d57": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Les choses que tu portes",
+          "de": "Nenne Dinge, die du trägst",
+          "en": "Things you wear",
+          "es": "Cosas que llevas puestas",
+          "it": "Le cose che indossi",
+          "ja": "身に着けるもの",
+          "ko": "입거나 착용하는 것들",
+          "nl": "Dingen die je draagt",
+          "pl": "Rzeczy, które nosisz",
+          "pt": "As coisas que você veste",
+          "ru": "Вещи, которые ты носишь",
+          "tr": "Üzerinde taşıdığın şeyler"
+        }
+      }
+    ]
+  },
+  "116c66fd": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une choses qu'on trouve que dans un bateau",
+          "de": "Nenne etwas, das es nur auf einem Boot gibt",
+          "en": "Something found only on a boat",
+          "es": "Algo que solo se encuentra en un barco",
+          "it": "Qualcosa che si trova solo su una barca",
+          "ja": "船でしか見かけないもの",
+          "ko": "배에서만 찾을 수 있는 것",
+          "nl": "Iets dat je alleen op een boot vindt",
+          "pl": "Coś, co można znaleźć tylko na łodzi",
+          "pt": "Algo que só se encontra em um navio",
+          "ru": "Вещь, которую можно найти только на корабле",
+          "tr": "Sadece teknede bulunan bir şey"
+        }
+      }
+    ]
+  },
+  "0401be1f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"A\"",
+          "de": "Nenne ein Wort, das mit A beginnt",
+          "en": "A word starting with \"A\"",
+          "es": "Una palabra que empieza por “A”",
+          "it": "Una parola che inizia con A",
+          "ja": "「A」で始まる単語",
+          "ko": "\"A\"로 시작하는 단어",
+          "nl": "Een woord dat met een A begint",
+          "pl": "Słowo na A",
+          "pt": "Uma palavra que começa com A",
+          "ru": "Слово, начинающееся на \"A\"",
+          "tr": "A harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "bfb88fcf": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"B\"",
+          "de": "Nenne ein Wort, das mit B beginnt",
+          "en": "A word starting with \"B\"",
+          "es": "Una palabra que empieza por “B”",
+          "it": "Una parola che inizia con B",
+          "ja": "「B」で始まる単語",
+          "ko": "\"B\"로 시작하는 단어",
+          "nl": "Een woord dat met een B begint",
+          "pl": "Słowo na B",
+          "pt": "Uma palavra que começa com B",
+          "ru": "Слово, начинающееся на \"B\"",
+          "tr": "B harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "182e0b30": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"C\"",
+          "de": "Nenne ein Wort, das mit C beginnt",
+          "en": "A word starting with \"C\"",
+          "es": "Una palabra que empieza por “C”",
+          "it": "Una parola che inizia con C",
+          "ja": "「C」で始まる単語",
+          "ko": "\"C\"로 시작하는 단어",
+          "nl": "Een woord dat met een C begint",
+          "pl": "Słowo na C",
+          "pt": "Uma palavra que começa com C",
+          "ru": "Слово, начинающееся на \"C\"",
+          "tr": "C harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "e7c88962": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"D\"",
+          "de": "Nenne ein Wort, das mit D beginnt",
+          "en": "A word starting with \"D\"",
+          "es": "Una palabra que empieza por “D”",
+          "it": "Una parola che inizia con D",
+          "ja": "「D」で始まる単語",
+          "ko": "\"D\"로 시작하는 단어",
+          "nl": "Een woord dat met een D begint",
+          "pl": "Słowo na D",
+          "pt": "Uma palavra que começa com D",
+          "ru": "Слово, начинающееся на \"D\"",
+          "tr": "D harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "606362da": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"E\"",
+          "de": "Nenne ein Wort, das mit E beginnt",
+          "en": "A word starting with \"E\"",
+          "es": "Una palabra que empieza por “E”",
+          "it": "Una parola che inizia con E",
+          "ja": "「E」で始まる単語",
+          "ko": "\"E\"로 시작하는 단어",
+          "nl": "Een woord dat met een E begint",
+          "pl": "Słowo na E",
+          "pt": "Uma palavra que começa com E",
+          "ru": "Слово, начинающееся на \"E\"",
+          "tr": "E harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "eb2b61bd": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"L\"",
+          "de": "Nenne ein Wort, das mit L beginnt",
+          "en": "A word starting with \"L\"",
+          "es": "Una palabra que empieza por “L”",
+          "it": "Una parola che inizia con L",
+          "ja": "「L」で始まる単語",
+          "ko": "\"L\"로 시작하는 단어",
+          "nl": "Een woord dat met een L begint",
+          "pl": "Słowo na L",
+          "pt": "Uma palavra que começa com L",
+          "ru": "Слово, начинающееся на \"L\"",
+          "tr": "L harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "3376e37f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"M\"",
+          "de": "Nenne ein Wort, das mit M beginnt",
+          "en": "A word starting with \"M\"",
+          "es": "Una palabra que empieza por “M”",
+          "it": "Una parola che inizia con M",
+          "ja": "「M」で始まる単語",
+          "ko": "\"M\"로 시작하는 단어",
+          "nl": "Een woord dat met een M begint",
+          "pl": "Słowo na M",
+          "pt": "Uma palavra que começa com M",
+          "ru": "Слово, начинающееся на \"M\"",
+          "tr": "M harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "44277c18": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"P\"",
+          "de": "Nenne ein Wort, das mit P beginnt",
+          "en": "A word starting with \"P\"",
+          "es": "Una palabra que empieza por “P”",
+          "it": "Una parola che inizia con P",
+          "ja": "「P」で始まる単語",
+          "ko": "\"P\"로 시작하는 단어",
+          "nl": "Een woord dat met een P begint",
+          "pl": "Słowo na P",
+          "pt": "Uma palavra que começa com P",
+          "ru": "Слово, начинающееся на \"P\"",
+          "tr": "P harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "edcc0225": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"A\"",
+          "de": "Nenne ein Wort, das mit A beginnt",
+          "en": "Another word starting with \"A\"",
+          "es": "Otra palabra que empieza por “A”",
+          "it": "Una parola che inizia con A",
+          "ja": "「A」で始まる単語",
+          "ko": "\"A\"로 시작하는 단어",
+          "nl": "Een woord dat met een A begint",
+          "pl": "Słowo na A",
+          "pt": "Outra palavra que começa com A",
+          "ru": "Слово, начинающееся на \"A\"",
+          "tr": "A harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "028f0a21": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"R\"",
+          "de": "Nenne ein Wort, das mit R beginnt",
+          "en": "A word starting with \"R\"",
+          "es": "Una palabra que empieza por “R”",
+          "it": "Una parola che inizia con R",
+          "ja": "「R」で始まる単語",
+          "ko": "\"R\"로 시작하는 단어",
+          "nl": "Een woord dat met een R begint",
+          "pl": "Słowo na R",
+          "pt": "Uma palavra que começa com R",
+          "ru": "Слово, начинающееся на \"R\"",
+          "tr": "R harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "abfa5acc": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"S\"",
+          "de": "Nenne ein Wort, das mit S beginnt",
+          "en": "A word starting with \"S\"",
+          "es": "Una palabra que empieza por “S”",
+          "it": "Una parola che inizia con S",
+          "ja": "「S」で始まる単語",
+          "ko": "\"S\"로 시작하는 단어",
+          "nl": "Een woord dat met een S begint",
+          "pl": "Słowo na S",
+          "pt": "Uma palavra que começa com S",
+          "ru": "Слово, начинающееся на \"S\"",
+          "tr": "S harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "f18da4e9": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"J\"",
+          "de": "Nenne ein Wort, das mit J beginnt",
+          "en": "A word starting with \"J\"",
+          "es": "Una palabra que empieza por “J”",
+          "it": "Una parola che inizia con J",
+          "ja": "「J」で始まる単語",
+          "ko": "\"J\"로 시작하는 단어",
+          "nl": "Een woord dat met een J begint",
+          "pl": "Słowo na J",
+          "pt": "Uma palavra que começa com J",
+          "ru": "Слово, начинающееся на \"J\"",
+          "tr": "J harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "eb56e93d": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mot qui démarre par un \"I\"",
+          "de": "Nenne ein Wort, das mit I beginnt",
+          "en": "A word starting with \"I\"",
+          "es": "Una palabra que empieza por “I”",
+          "it": "Una parola che inizia con I",
+          "ja": "「I」で始まる単語",
+          "ko": "\"I\"로 시작하는 단어",
+          "nl": "Een woord dat met een I begint",
+          "pl": "Słowo na I",
+          "pt": "Uma palavra que começa com I",
+          "ru": "Слово, начинающееся на \"I\"",
+          "tr": "I harfiyle başlayan bir kelime"
+        }
+      }
+    ]
+  },
+  "7f78ed18": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une activité à faire à la plage",
+          "de": "Nenne eine Aktivität für den Strand",
+          "en": "An activity to do at the beach",
+          "es": "Una actividad para hacer en la playa",
+          "it": "Un’attività da fare in spiaggia",
+          "ja": "ビーチでできるアクティビティ",
+          "ko": "해변에서 할 수 있는 활동",
+          "nl": "Een activiteit om op het strand te doen",
+          "pl": "Aktywność na plaży",
+          "pt": "Uma atividade para fazer na praia",
+          "ru": "Занятие на пляже",
+          "tr": "Plajda yapılacak bir aktivite"
+        }
+      }
+    ]
+  },
+  "9fe6e63b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une activité à faire à la montagne",
+          "de": "Nenne eine Aktivität in den Bergen",
+          "en": "An activity to do in the mountains",
+          "es": "Una actividad para hacer en la montaña",
+          "it": "Un’attività da fare in montagna",
+          "ja": "山でできるアクティビティ",
+          "ko": "산에서 할 수 있는 활동",
+          "nl": "Een activiteit om in de bergen te doen",
+          "pl": "Aktywność w górach",
+          "pt": "Uma atividade para fazer na montanha",
+          "ru": "Занятие в горах",
+          "tr": "Dağda yapılacak bir aktivite"
+        }
+      }
+    ]
+  },
+  "f95c065b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un membre de la famille",
+          "de": "Nenne ein Familienmitglied",
+          "en": "Name a family member",
+          "es": "Cita un miembro de la familia",
+          "it": "Cita un membro della famiglia",
+          "ja": "家族の一員を一人挙げて",
+          "ko": "가족 구성원 하나 말하기",
+          "nl": "Noem een familielid",
+          "pl": "Podaj członka rodziny",
+          "pt": "Um membro da família",
+          "ru": "Назови члена семьи",
+          "tr": "Bir aile üyesi söyle"
+        }
+      }
+    ]
+  },
+  "fd88c4ff": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on voit dans le ciel",
+          "de": "Nenne etwas, das man am Himmel sieht",
+          "en": "Something seen in the sky",
+          "es": "Algo que se ve en el cielo",
+          "it": "Qualcosa che si vede nel cielo",
+          "ja": "空に見えるもの",
+          "ko": "하늘에서 볼 수 있는 것들",
+          "nl": "Iets wat je in de lucht ziet",
+          "pl": "Coś, co widać na niebie",
+          "pt": "Algo que se vê no céu",
+          "ru": "Несколько вещей, которые видят в небе",
+          "tr": "Gökyüzünde görülen birkaç şey"
+        }
+      }
+    ]
+  },
+  "b43d7ae2": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un véhicule",
+          "de": "Nenne ein Fahrzeug",
+          "en": "A vehicle",
+          "es": "Un vehículo",
+          "it": "Un veicolo",
+          "ja": "乗り物",
+          "ko": "탈것 하나",
+          "nl": "Een voertuig",
+          "pl": "Pojazd",
+          "pt": "Um veículo",
+          "ru": "Транспортное средство",
+          "tr": "Bir araç"
+        }
+      }
+    ]
+  },
+  "8ca4a35a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de doux",
+          "de": "Nenne etwas Weiches",
+          "en": "Something soft",
+          "es": "Algo suave",
+          "it": "Qualcosa di morbido",
+          "ja": "柔らかいもの",
+          "ko": "부드러운 것들",
+          "nl": "Iets zachts",
+          "pl": "Coś miękkiego",
+          "pt": "Algo macio",
+          "ru": "Несколько мягких вещей",
+          "tr": "Yumuşak birkaç şey"
+        }
+      }
+    ]
+  },
+  "a2fc4ae7": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui fait peur",
+          "de": "Nenne etwas, das Angst macht",
+          "en": "Something scary",
+          "es": "Algo que da miedo",
+          "it": "Qualcosa che fa paura",
+          "ja": "怖いもの",
+          "ko": "무서운 것들",
+          "nl": "Iets engs",
+          "pl": "Coś strasznego",
+          "pt": "Algo que dá medo",
+          "ru": "Несколько пугающих вещей",
+          "tr": "Korkutan birkaç şey"
+        }
+      }
+    ]
+  },
+  "54bdd50e": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on trouve dans l'océan",
+          "de": "Nenne etwas, das man im Ozean findet",
+          "en": "Something found in the ocean",
+          "es": "Algo que se encuentra en el océano",
+          "it": "Qualcosa che si trova nell’oceano",
+          "ja": "海で見つかるもの",
+          "ko": "바다에서 찾을 수 있는 것들",
+          "nl": "Iets wat je in de oceaan vindt",
+          "pl": "Coś, co znajduje się w oceanie",
+          "pt": "Algo que se encontra no oceano",
+          "ru": "Несколько вещей, которые можно найти в океане",
+          "tr": "Okyanusta bulunan birkaç şey"
+        }
+      }
+    ]
+  },
+  "8100466a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une chose lourdes",
+          "de": "Nenne etwas Schweres",
+          "en": "Name something heavy",
+          "es": "Nombra algo pesado",
+          "it": "Nomina qualcosa di pesante",
+          "ja": "重いものを一つ挙げて",
+          "ko": "무거운 것 하나 말하기",
+          "nl": "Noem iets zwaars",
+          "pl": "Nazwij coś ciężkiego",
+          "pt": "Algo pesado",
+          "ru": "Назови тяжёлую вещь",
+          "tr": "Ağır bir şey"
+        }
+      }
+    ]
+  },
+  "778b0f41": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose pour un pique-nique",
+          "de": "Nenne etwas für ein Picknick",
+          "en": "Things for a picnic",
+          "es": "Cosas para un picnic",
+          "it": "Qualcosa per un picnic",
+          "ja": "ピクニック用のもの",
+          "ko": "피크닉용 아이템들",
+          "nl": "Iets voor een picknick",
+          "pl": "Coś na piknik",
+          "pt": "Coisas para um piquenique",
+          "ru": "Несколько вещей для пикника",
+          "tr": "Piknik için birkaç şey"
+        }
+      }
+    ]
+  },
+  "a4572890": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une race de chien",
+          "de": "Nenne eine Hunderasse",
+          "en": "A dog breed",
+          "es": "Una raza de perro",
+          "it": "Una razza di cane",
+          "ja": "犬種を一つ挙げて",
+          "ko": "개 품종 하나",
+          "nl": "Een hondenras",
+          "pl": "Rasa psa",
+          "pt": "Uma raça de cachorro",
+          "ru": "Порода собак",
+          "tr": "Bir köpek ırkı"
+        }
+      }
+    ]
+  },
+  "37a8a942": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une race de chat",
+          "de": "Nenne eine Katzenrasse",
+          "en": "A cat breed",
+          "es": "Una raza de gato",
+          "it": "Una razza di gatto",
+          "ja": "猫種を一つ挙げて",
+          "ko": "고양이 품종 하나",
+          "nl": "Een kattenras",
+          "pl": "Rasa kota",
+          "pt": "Uma raça de gato",
+          "ru": "Порода кошек",
+          "tr": "Bir kedi ırkı"
+        }
+      }
+    ]
+  },
+  "a7410d9f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui gratte",
+          "de": "Nenne etwas, das juckt",
+          "en": "Something that itches",
+          "es": "Algo que pica (produce picor)",
+          "it": "Qualcosa che prude",
+          "ja": "かゆいもの",
+          "ko": "가려운 것",
+          "nl": "Iets wat jeukt",
+          "pl": "Coś, co drapie",
+          "pt": "Algo que coça",
+          "ru": "Вещь, которая чешется",
+          "tr": "Kaşındıran bir şey"
+        }
+      }
+    ]
+  },
+  "86a86b24": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on déteste mais qu'on fait quand même",
+          "de": "Nenne etwas, das man hasst, aber trotzdem tut",
+          "en": "Something you hate but do anyway",
+          "es": "Algo que odias pero haces igual",
+          "it": "Qualcosa che odi ma fai comunque",
+          "ja": "嫌いだけどやってしまうこと",
+          "ko": "싫어하지만 어쩔 수 없이 하는 것",
+          "nl": "Iets wat je haat maar toch doet",
+          "pl": "Coś, czego się nie lubi, ale się to robi",
+          "pt": "Algo que odiamos mas fazemos mesmo assim",
+          "ru": "Вещь, которую ненавидим, но всё равно делаем",
+          "tr": "Nefret edilen ama yine de yapılan bir şey"
+        }
+      }
+    ]
+  },
+  "c824491b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on devrait faire mais qu'on ne fait pas",
+          "de": "Nenne etwas, das man tun sollte, aber nicht tut",
+          "en": "Something you should do but don’t",
+          "es": "Algo que deberías hacer pero no haces",
+          "it": "Qualcosa che dovremmo fare ma non facciamo",
+          "ja": "やるべきなのにやっていないこと",
+          "ko": "해야 하지만 안 하고 있는 것",
+          "nl": "Iets wat je zou moeten doen maar niet doet",
+          "pl": "Coś, co powinniśmy robić, ale nie robimy",
+          "pt": "Algo que deveríamos fazer mas não fazemos",
+          "ru": "Вещь, которую следовало бы делать, но мы не делаем",
+          "tr": "Yapmamız gereken ama yapmadığımız bir şey"
+        }
+      }
+    ]
+  },
+
+  "b014d819": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "J'aime ma vie car ….... ?",
+          "de": "Ich liebe mein Leben, weil ….... ?",
+          "en": "I love my life because …",
+          "es": "Me encanta mi vida porque …",
+          "it": "Amo la mia vita perché ….... ?",
+          "ja": "私は人生が好き、なぜなら……？",
+          "ko": "내가 내 삶을 사랑하는 이유는 …?",
+          "nl": "Ik hou van mijn leven omdat ….... ?",
+          "pl": "Kocham swoje życie, bo ….... ?",
+          "pt": "Eu amo minha vida porque ….... ?",
+          "ru": "Я люблю свою жизнь, потому что…?",
+          "tr": "Hayatımı seviyorum çünkü …"
+        }
+      }
+    ]
+  },
+  "a2b0edf5": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un proverbe / dicton",
+          "de": "Zitiere ein Sprichwort",
+          "en": "Quote a proverb or saying",
+          "es": "Cita un refrán o dicho",
+          "it": "Cita un proverbio / detto",
+          "ja": "ことわざを一つ挙げて",
+          "ko": "속담 하나 말하기",
+          "nl": "Citeer een spreekwoord",
+          "pl": "Podaj przysłowie",
+          "pt": "Um provérbio ou ditado",
+          "ru": "Назови пословицу / поговорку",
+          "tr": "Bir atasözü veya deyim söyle"
+        }
+      }
+    ]
+  },
+  "e4ffa6f8": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Si j'étais président je serais ….... ?",
+          "de": "Wenn ich Präsident wäre, wäre ich ….... ?",
+          "en": "If I were president I would be …",
+          "es": "Si fuera presidente sería …",
+          "it": "Se fossi presidente sarei ….... ?",
+          "ja": "もし私が大統領なら……？",
+          "ko": "내가 대통령이라면 나는 …일 것이다?",
+          "nl": "Als ik president was, zou ik ….... ?",
+          "pl": "Gdybym był prezydentem, byłbym ….... ?",
+          "pt": "Se eu fosse presidente, eu seria ….... ?",
+          "ru": "Если бы я был президентом, я был бы…?",
+          "tr": "Başkan olsaydım … olurdum"
+        }
+      }
+    ]
+  },
+  "24d652c7": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Choses à ne pas mettre sur son CV",
+          "de": "Dinge, die man nicht in den Lebenslauf schreibt",
+          "en": "Things not to put on a résumé",
+          "es": "Cosas que no poner en tu CV",
+          "it": "Cose da non mettere sul proprio CV",
+          "ja": "履歴書に書かない方がいいこと",
+          "ko": "이력서에 쓰면 안 되는 것들",
+          "nl": "Dingen die je niet op je cv moet zetten",
+          "pl": "Rzeczy, których nie należy umieszczać w CV",
+          "pt": "Coisas para não colocar no currículo",
+          "ru": "Вещи, которые не следует указывать в резюме",
+          "tr": "Özgeçmişe yazılmaması gereken şeyler"
+        }
+      }
+    ]
+  },
+  "33d0b92e": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une plante",
+          "de": "Nenne eine Pflanze",
+          "en": "Name a plant",
+          "es": "Nombra una planta",
+          "it": "Nomina una pianta",
+          "ja": "植物を一つ挙げて",
+          "ko": "식물 하나 말하기",
+          "nl": "Noem een plant",
+          "pl": "Nazwij roślinę",
+          "pt": "Uma planta",
+          "ru": "Назови растение",
+          "tr": "Bir bitki söyle"
+        }
+      }
+    ]
+  },
+  "5ff82f92": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un arbre",
+          "de": "Nenne einen Baum",
+          "en": "Name a tree",
+          "es": "Nombra un árbol",
+          "it": "Nomina un albero",
+          "ja": "木を一つ挙げて",
+          "ko": "나무 하나 말하기",
+          "nl": "Noem een boom",
+          "pl": "Nazwij drzewo",
+          "pt": "Uma árvore",
+          "ru": "Назови дерево",
+          "tr": "Bir ağaç söyle"
+        }
+      }
+    ]
+  },
+  "0df78955": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un magazine ou journal",
+          "de": "Nenne eine Zeitschrift oder Zeitung",
+          "en": "Name a magazine or newspaper",
+          "es": "Nombra una revista o periódico",
+          "it": "Nomina una rivista o un giornale",
+          "ja": "雑誌または新聞を一つ挙げて",
+          "ko": "잡지 또는 신문 하나 말하기",
+          "nl": "Noem een tijdschrift of krant",
+          "pl": "Nazwij magazyn lub gazetę",
+          "pt": "Uma revista ou jornal",
+          "ru": "Назови журнал или газету",
+          "tr": "Bir dergi veya gazete söyle"
+        }
+      }
+    ]
+  },
+  "cdda1349": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un manga",
+          "de": "Nenne einen Manga",
+          "en": "Name a manga",
+          "es": "Nombra un manga",
+          "it": "Nomina un manga",
+          "ja": "漫画を一つ挙げて",
+          "ko": "만화책 하나 말하기",
+          "nl": "Noem een manga",
+          "pl": "Nazwij mangę",
+          "pt": "Um mangá",
+          "ru": "Назови мангу",
+          "tr": "Bir manga söyle"
+        }
+      }
+    ]
+  },
+  "6551bbed": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une personnalité politique",
+          "de": "Nenne eine politische Persönlichkeit",
+          "en": "Name a political figure",
+          "es": "Nombra una figura política",
+          "it": "Nomina una personalità politica",
+          "ja": "政治家を一人挙げて",
+          "ko": "정치인 한 명 말하기",
+          "nl": "Noem een politieke figuur",
+          "pl": "Nazwij osobę polityczną",
+          "pt": "Uma personalidade política",
+          "ru": "Назови политического деятеля",
+          "tr": "Bir siyasi kişilik söyle"
+        }
+      }
+    ]
+  },
+  "0f24de86": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on aimerait tous faire",
+          "de": "Nenne etwas, das wir alle gern tun würden",
+          "en": "Something everyone would like to do",
+          "es": "Algo que todos querríamos hacer",
+          "it": "Qualcosa che tutti vorremmo fare",
+          "ja": "みんながやりたいこと",
+          "ko": "모두가 하고 싶어하는 일",
+          "nl": "Iets wat we allemaal graag zouden doen",
+          "pl": "Coś, co wszyscy chcielibyśmy zrobić",
+          "pt": "Algo que todos gostaríamos de fazer",
+          "ru": "То, что все хотели бы сделать",
+          "tr": "Hepimizin yapmak istediği bir şey"
+        }
+      }
+    ]
+  },
+  "c04990a0": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui est mauvais pour l’environnement",
+          "de": "Nenne etwas, das schlecht für die Umwelt ist",
+          "en": "Something bad for the environment",
+          "es": "Algo malo para el medio ambiente",
+          "it": "Qualcosa che fa male all’ambiente",
+          "ja": "環境に悪いもの",
+          "ko": "환경에 해로운 것",
+          "nl": "Iets dat slecht is voor het milieu",
+          "pl": "Coś szkodliwego dla środowiska",
+          "pt": "Algo ruim para o meio ambiente",
+          "ru": "То, что вредно для окружающей среды",
+          "tr": "Çevre için zararlı bir şey"
+        }
+      }
+    ]
+  },
+  "77288edf": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans un sac à main",
+          "de": "Nenne etwas, das man in einer Handtasche findet",
+          "en": "Something found in a handbag",
+          "es": "Algo que se encuentra en un bolso",
+          "it": "Qualcosa che si trova in una borsa",
+          "ja": "ハンドバッグに入っているもの",
+          "ko": "핸드백 안에서 찾을 수 있는 것",
+          "nl": "Iets wat je in een handtas vindt",
+          "pl": "Coś, co znajduje się w torebce",
+          "pt": "Algo que se encontra em uma bolsa",
+          "ru": "То, что можно найти в женской сумке",
+          "tr": "El çantasında bulunan bir şey"
+        }
+      }
+    ]
+  },
+  "ef158ed2": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui ne se mange pas",
+          "de": "Nenne etwas, das man nicht essen kann",
+          "en": "Something that isn’t edible",
+          "es": "Algo que no se come",
+          "it": "Qualcosa che non si mangia",
+          "ja": "食べられないもの",
+          "ko": "먹을 수 없는 것",
+          "nl": "Iets wat je niet kunt eten",
+          "pl": "Coś niejadalnego",
+          "pt": "Algo que não se come",
+          "ru": "То, что не едят",
+          "tr": "Yenmeyen bir şey"
+        }
+      }
+    ]
+  },
+  "9a5e7ebc": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui fait grossir",
+          "de": "Nenne etwas, das dick macht",
+          "en": "Something that makes you gain weight",
+          "es": "Algo que engorda",
+          "it": "Qualcosa che fa ingrassare",
+          "ja": "太りやすいもの",
+          "ko": "살찌게 하는 것",
+          "nl": "Iets waar je dik van wordt",
+          "pl": "Coś, co tuczy",
+          "pt": "Algo que engorda",
+          "ru": "То, от чего толстеют",
+          "tr": "Kilo aldıran bir şey"
+        }
+      }
+    ]
+  },
+  "1d7f71ab": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui fait maigrir",
+          "de": "Nenne etwas, das schlank macht",
+          "en": "Something that makes you lose weight",
+          "es": "Algo que adelgaza",
+          "it": "Qualcosa che fa dimagrire",
+          "ja": "痩せやすいもの",
+          "ko": "살 빠지게 하는 것",
+          "nl": "Iets waar je van afvalt",
+          "pl": "Coś, co odchudza",
+          "pt": "Algo que emagrece",
+          "ru": "То, от чего худеют",
+          "tr": "Zayıflatan bir şey"
+        }
+      }
+    ]
+  },
+  "26e76b13": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui est chaud",
+          "de": "Nenne etwas Heißes",
+          "en": "Something hot",
+          "es": "Algo caliente",
+          "it": "Qualcosa che è caldo",
+          "ja": "熱いもの",
+          "ko": "뜨거운 것",
+          "nl": "Iets dat warm is",
+          "pl": "Coś gorącego",
+          "pt": "Algo quente",
+          "ru": "То, что горячее",
+          "tr": "Sıcak bir şey"
+        }
+      }
+    ]
+  },
+  "8572a1ed": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans la forêt",
+          "de": "Nenne etwas, das man im Wald findet",
+          "en": "Something found in a forest",
+          "es": "Algo que se encuentra en el bosque",
+          "it": "Qualcosa che si trova nella foresta",
+          "ja": "森で見つかるもの",
+          "ko": "숲에서 찾을 수 있는 것",
+          "nl": "Iets wat je in het bos vindt",
+          "pl": "Coś, co znajduje się w lesie",
+          "pt": "Algo que se encontra na floresta",
+          "ru": "То, что можно найти в лесу",
+          "tr": "Ormanda bulunan bir şey"
+        }
+      }
+    ]
+  },
+  "dfcc112f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "La nuit, je rêve de …...... ?",
+          "de": "Nachts träume ich von …...... ?",
+          "en": "At night I dream of …",
+          "es": "De noche sueño con …",
+          "it": "Di notte sogno …...... ?",
+          "ja": "夜、私は……を夢見る？",
+          "ko": "밤에 나는 … 꿈을 꾼다?",
+          "nl": "'s Nachts droom ik van …...... ?",
+          "pl": "W nocy marzę o …...... ?",
+          "pt": "À noite eu sonho com …...... ?",
+          "ru": "Ночью я мечтаю о…?",
+          "tr": "Gece rüyamda … görürüm"
+        }
+      }
+    ]
+  },
+  "2bf41bad": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "À l’école, j’ai appris à ….... ?",
+          "de": "In der Schule habe ich gelernt, ….... ?",
+          "en": "At school I learned to …",
+          "es": "En la escuela aprendí a …",
+          "it": "A scuola ho imparato a ….... ?",
+          "ja": "学校で私は……を学んだ？",
+          "ko": "학교에서 나는 …를 배웠다?",
+          "nl": "Op school heb ik geleerd om ….... ?",
+          "pl": "W szkole nauczyłem się ….... ?",
+          "pt": "Na escola eu aprendi a ….... ?",
+          "ru": "В школе я научился…?",
+          "tr": "Okulda … öğrendim"
+        }
+      }
+    ]
+  },
+  "877c4625": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un cadeau d'anniversaire à ne pas faire à papa ?",
+          "de": "Ein Geburtstagsgeschenk, das man Papa nicht machen sollte ?",
+          "en": "A birthday gift not to give dad",
+          "es": "Un regalo de cumpleaños que no darle a papá",
+          "it": "Un regalo di compleanno da non fare a papà ?",
+          "ja": "父への誕生日プレゼントで避けるべきもの",
+          "ko": "아빠에게 주면 안 되는 생일 선물?",
+          "nl": "Een verjaardagscadeau dat je niet aan papa moet geven ?",
+          "pl": "Prezent urodzinowy, którego nie należy dawać tacie ?",
+          "pt": "Um presente de aniversário para não dar ao papai ?",
+          "ru": "Подарок на день рождения, который не стоит дарить папе?",
+          "tr": "Babaya verilmemesi gereken doğum günü hediyesi"
+        }
+      }
+    ]
+  },
+  "205c7ee1": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un pokémon ?",
+          "de": "Ein Pokémon ?",
+          "en": "Name a Pokémon",
+          "es": "Un Pokémon",
+          "it": "Un Pokémon ?",
+          "ja": "ポケモンを一匹挙げて",
+          "ko": "포켓몬 한 마리?",
+          "nl": "Een Pokémon ?",
+          "pl": "Pokémon ?",
+          "pt": "Um Pokémon ?",
+          "ru": "Покемон?",
+          "tr": "Bir Pokémon"
+        }
+      }
+    ]
+  },
+  "0026e233": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un Youtuber ?",
+          "de": "Ein YouTuber ?",
+          "en": "Name a YouTuber",
+          "es": "Un YouTuber",
+          "it": "Uno YouTuber ?",
+          "ja": "ユーチューバーを一人挙げて",
+          "ko": "유튜버 한 명?",
+          "nl": "Een YouTuber ?",
+          "pl": "Youtuber ?",
+          "pt": "Um YouTuber ?",
+          "ru": "Ютубер?",
+          "tr": "Bir YouTuber"
+        }
+      }
+    ]
+  },
+  "a133361e": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par A ?",
+          "de": "Ein Vorname, der mit A beginnt ?",
+          "en": "A first name starting with A",
+          "es": "Un nombre que empieza por A",
+          "it": "Un nome che inizia con A ?",
+          "ja": "Aで始まる名前を一つ挙げて",
+          "ko": "\"A\"로 시작하는 이름?",
+          "nl": "Een voornaam die met A begint ?",
+          "pl": "Imię na A ?",
+          "pt": "Um nome que começa com A ?",
+          "ru": "Имя на букву A?",
+          "tr": "A ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "5760600f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par B ?",
+          "de": "Ein Vorname, der mit B beginnt ?",
+          "en": "A first name starting with B",
+          "es": "Un nombre que empieza por B",
+          "it": "Un nome che inizia con B ?",
+          "ja": "Bで始まる名前を一つ挙げて",
+          "ko": "\"B\"로 시작하는 이름?",
+          "nl": "Een voornaam die met B begint ?",
+          "pl": "Imię na B ?",
+          "pt": "Um nome que começa com B ?",
+          "ru": "Имя на букву B?",
+          "tr": "B ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "11a29319": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par C ?",
+          "de": "Ein Vorname, der mit C beginnt ?",
+          "en": "A first name starting with C",
+          "es": "Un nombre que empieza por C",
+          "it": "Un nome che inizia con C ?",
+          "ja": "Cで始まる名前を一つ挙げて",
+          "ko": "\"C\"로 시작하는 이름?",
+          "nl": "Een voornaam die met C begint ?",
+          "pl": "Imię na C ?",
+          "pt": "Um nome que começa com C ?",
+          "ru": "Имя на букву C?",
+          "tr": "C ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "eb24bc60": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par D ?",
+          "de": "Ein Vorname, der mit D beginnt ?",
+          "en": "A first name starting with D",
+          "es": "Un nombre que empieza por D",
+          "it": "Un nome che inizia con D ?",
+          "ja": "Dで始まる名前を一つ挙げて",
+          "ko": "\"D\"로 시작하는 이름?",
+          "nl": "Een voornaam die met D begint ?",
+          "pl": "Imię na D ?",
+          "pt": "Um nome que começa com D ?",
+          "ru": "Имя на букву D?",
+          "tr": "D ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "3029dbf8": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par E ?",
+          "de": "Ein Vorname, der mit E beginnt ?",
+          "en": "A first name starting with E",
+          "es": "Un nombre que empieza por E",
+          "it": "Un nome che inizia con E ?",
+          "ja": "Eで始まる名前を一つ挙げて",
+          "ko": "\"E\"로 시작하는 이름?",
+          "nl": "Een voornaam die met E begint ?",
+          "pl": "Imię na E ?",
+          "pt": "Um nome que começa com E ?",
+          "ru": "Имя на букву E?",
+          "tr": "E ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "614cd07c": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par J ?",
+          "de": "Ein Vorname, der mit J beginnt ?",
+          "en": "A first name starting with J",
+          "es": "Un nombre que empieza por J",
+          "it": "Un nome che inizia con J ?",
+          "ja": "Jで始まる名前を一つ挙げて",
+          "ko": "\"J\"로 시작하는 이름?",
+          "nl": "Een voornaam die met J begint ?",
+          "pl": "Imię na J ?",
+          "pt": "Um nome que começa com J ?",
+          "ru": "Имя на букву J?",
+          "tr": "J ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "f9575795": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par L ?",
+          "de": "Ein Vorname, der mit L beginnt ?",
+          "en": "A first name starting with L",
+          "es": "Un nombre que empieza por L",
+          "it": "Un nome che inizia con L ?",
+          "ja": "Lで始まる名前を一つ挙げて",
+          "ko": "\"L\"로 시작하는 이름?",
+          "nl": "Een voornaam die met L begint ?",
+          "pl": "Imię na L ?",
+          "pt": "Um nome que começa com L ?",
+          "ru": "Имя на букву L?",
+          "tr": "L ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "c47eb952": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par M ?",
+          "de": "Ein Vorname, der mit M beginnt ?",
+          "en": "A first name starting with M",
+          "es": "Un nombre que empieza por M",
+          "it": "Un nome che inizia con M ?",
+          "ja": "Mで始まる名前を一つ挙げて",
+          "ko": "\"M\"로 시작하는 이름?",
+          "nl": "Een voornaam die met M begint ?",
+          "pl": "Imię na M ?",
+          "pt": "Um nome que começa com M ?",
+          "ru": "Имя на букву M?",
+          "tr": "M ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "96bbd2dc": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par P ?",
+          "de": "Ein Vorname, der mit P beginnt ?",
+          "en": "A first name starting with P",
+          "es": "Un nombre que empieza por P",
+          "it": "Un nome che inizia con P ?",
+          "ja": "Pで始まる名前を一つ挙げて",
+          "ko": "\"P\"로 시작하는 이름?",
+          "nl": "Een voornaam die met P begint ?",
+          "pl": "Imię na P ?",
+          "pt": "Um nome que começa com P ?",
+          "ru": "Имя на букву P?",
+          "tr": "P ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "7c033e67": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par R ?",
+          "de": "Ein Vorname, der mit R beginnt ?",
+          "en": "A first name starting with R",
+          "es": "Un nombre que empieza por R",
+          "it": "Un nome che inizia con R ?",
+          "ja": "Rで始まる名前を一つ挙げて",
+          "ko": "\"R\"로 시작하는 이름?",
+          "nl": "Een voornaam die met R begint ?",
+          "pl": "Imię na R ?",
+          "pt": "Um nome que começa com R ?",
+          "ru": "Имя на букву R?",
+          "tr": "R ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "fab4fa63": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par S ?",
+          "de": "Ein Vorname, der mit S beginnt ?",
+          "en": "A first name starting with S",
+          "es": "Un nombre que empieza por S",
+          "it": "Un nome che inizia con S ?",
+          "ja": "Sで始まる名前を一つ挙げて",
+          "ko": "\"S\"로 시작하는 이름?",
+          "nl": "Een voornaam die met S begint ?",
+          "pl": "Imię na S ?",
+          "pt": "Um nome que começa com S ?",
+          "ru": "Имя на букву S?",
+          "tr": "S ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "e686465c": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom qui commence par T ?",
+          "de": "Ein Vorname, der mit T beginnt ?",
+          "en": "A first name starting with T",
+          "es": "Un nombre que empieza por T",
+          "it": "Un nome che inizia con T ?",
+          "ja": "Tで始まる名前を一つ挙げて",
+          "ko": "\"T\"로 시작하는 이름?",
+          "nl": "Een voornaam die met T begint ?",
+          "pl": "Imię na T ?",
+          "pt": "Um nome que começa com T ?",
+          "ru": "Имя на букву T?",
+          "tr": "T ile başlayan bir isim"
+        }
+      }
+    ]
+  },
+  "4fd9afaa": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une choses que tu ferais si tu étais invisible pendant une journée",
+          "de": "Etwas, das du tun würdest, wenn du einen Tag unsichtbar wärst",
+          "en": "Something you would do if you were invisible for a day",
+          "es": "Algo que harías si fueras invisible un día",
+          "it": "Qualcosa che faresti se fossi invisibile per un giorno",
+          "ja": "1日透明人間になったらすること",
+          "ko": "하루 동안 투명인간이 된다면 할 일",
+          "nl": "Iets wat je zou doen als je één dag onzichtbaar was",
+          "pl": "Co byś zrobił, gdybyś był niewidzialny przez jeden dzień",
+          "pt": "Algo que você faria se fosse invisível por um dia",
+          "ru": "Что бы ты сделал, если бы был невидимым на один день",
+          "tr": "Bir gün görünmez olsaydın yapacağın şey"
+        }
+      }
+    ]
+  },
+  "0aae642a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une choses que tu peux mettre dans ton nez",
+          "de": "Etwas, das du dir in die Nase stecken kannst",
+          "en": "Something you can put in your nose",
+          "es": "Algo que puedes poner en tu nariz",
+          "it": "Qualcosa che puoi mettere nel naso",
+          "ja": "鼻に入れられるもの",
+          "ko": "코에 넣을 수 있는 것",
+          "nl": "Iets dat je in je neus kunt stoppen",
+          "pl": "Coś, co możesz włożyć do nosa",
+          "pt": "Algo que se pode colocar no nariz",
+          "ru": "То, что можно засунуть в нос",
+          "tr": "Burnuna sokabileceğin bir şey"
+        }
+      }
+    ]
+  },
+  "acd36d15": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose bizarres que tu trouverais au fond d’une poche",
+          "de": "Eine seltsame Sache, die du in einer Hosentasche finden würdest",
+          "en": "A weird thing you’d find in a pocket",
+          "es": "Algo raro que encontrarías en un bolsillo",
+          "it": "Una cosa strana che troveresti in fondo a una tasca",
+          "ja": "ポケットの底から出てくる奇妙なもの",
+          "ko": "주머니 깊숙이에서 나올 법한 이상한 것",
+          "nl": "Een vreemd voorwerp dat je in een broekzak zou vinden",
+          "pl": "Dziwna rzecz, którą znalazłbyś na dnie kieszeni",
+          "pt": "Algo estranho que você encontraria no fundo de um bolso",
+          "ru": "Странная вещь, которую можно найти на дне кармана",
+          "tr": "Cebin dibinde bulacağın tuhaf bir şey"
+        }
+      }
+    ]
+  },
+  "e271c4d3": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un super pouvoir",
+          "de": "Nenne eine Superkraft",
+          "en": "A superpower",
+          "es": "Un superpoder",
+          "it": "Un superpotere",
+          "ja": "スーパーパワー",
+          "ko": "초능력 하나",
+          "nl": "Een superkracht",
+          "pl": "Supermoc",
+          "pt": "Um superpoder",
+          "ru": "Суперсила",
+          "tr": "Bir süper güç"
+        }
+      }
+    ]
+  },
+  "ded13e73": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un surnom embarassant",
+          "de": "Ein peinlicher Spitzname",
+          "en": "An embarrassing nickname",
+          "es": "Un apodo embarazoso",
+          "it": "Un soprannome imbarazzante",
+          "ja": "恥ずかしいニックネーム",
+          "ko": "당황스러운 별명",
+          "nl": "Een gênende bijnaam",
+          "pl": "Kompromitujący pseudonim",
+          "pt": "Um apelido embaraçoso",
+          "ru": "Стыдное прозвище",
+          "tr": "Utandırıcı bir lakap"
+        }
+      }
+    ]
+  },
+  "fb84194e": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un placement de produit d'influenceurs douteux",
+          "de": "Ein zweifelhafter Influencer‑Werbedeal",
+          "en": "A shady influencer product placement",
+          "es": "Un product placement dudoso de influencer",
+          "it": "Un product placement da influencer discutibile",
+          "ja": "怪しいインフルエンサー案件",
+          "ko": "수상한 인플루언서 PPL",
+          "nl": "Een dubieuze influencer-advertentie",
+          "pl": "Podejrzana reklama u influencera",
+          "pt": "Um publipost duvidoso de influenciador",
+          "ru": "Сомнительная реклама инфлюенсера",
+          "tr": "Şüpheli influencer ürün yerleştirmesi"
+        }
+      }
+    ]
+  },
+  "4596f819": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une chanson de David Guetta",
+          "de": "Nenne ein Lied von David Guetta",
+          "en": "Name a David Guetta song",
+          "es": "Nombra una canción de David Guetta",
+          "it": "Nomina una canzone di David Guetta",
+          "ja": "デヴィッド・ゲッタの曲を一つ挙げて",
+          "ko": "데이비드 게타의 노래 하나",
+          "nl": "Noem een nummer van David Guetta",
+          "pl": "Nazwij piosenkę Davida Guetty",
+          "pt": "Uma música do David Guetta",
+          "ru": "Назови песню Дэвида Гетты",
+          "tr": "Bir David Guetta şarkısı söyle"
+        }
+      }
+    ]
+  },
+  "c5368e16": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose que tu ferais si tu te réveillais avec un million de dollars",
+          "de": "Etwas, das du tun würdest, wenn du mit einer Million Dollar aufwachtest",
+          "en": "Something you would do if you woke up with a million dollars",
+          "es": "Algo que harías si despertaras con un millón de dólares",
+          "it": "Qualcosa che faresti se ti svegliassi con un milione di dollari",
+          "ja": "100万ドル手にしたらやること",
+          "ko": "백만 달러로 깼을 때 할 일",
+          "nl": "Iets wat je zou doen als je wakker werd met een miljoen dollar",
+          "pl": "Co byś zrobił, gdybyś obudził się z milionem dolarów",
+          "pt": "Algo que você faria se acordasse com um milhão de dólares",
+          "ru": "Что бы ты сделал, проснувшись с миллионом долларов",
+          "tr": "Bir milyon dolarla uyanırsan yapacağın ilk şey"
+        }
+      }
+    ]
+  },
+  "19b38b1c": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose à ne pas mettre dans un mixeur",
+          "de": "Etwas, das man nicht in einen Mixer geben sollte",
+          "en": "Something not to put in a blender",
+          "es": "Algo que no meter en una licuadora",
+          "it": "Qualcosa da non mettere in un frullatore",
+          "ja": "ミキサーに入れてはいけないもの",
+          "ko": "믹서기에 넣으면 안 되는 것",
+          "nl": "Iets dat je niet in een blender moet stoppen",
+          "pl": "Czego nie wkładać do blendera",
+          "pt": "Algo que não se deve colocar no liquidificador",
+          "ru": "То, что нельзя класть в блендер",
+          "tr": "Blendera koyulmaması gereken bir şey"
+        }
+      }
+    ]
+  },
+  "7dc9526f": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose à ne pas faire dans un ascensseur",
+          "de": "Etwas, das man in einem Aufzug nicht tun sollte",
+          "en": "Something not to do in an elevator",
+          "es": "Algo que no hacer en un ascensor",
+          "it": "Qualcosa da non fare in un ascensore",
+          "ja": "エレベーターでしてはいけないこと",
+          "ko": "엘리베이터에서 하면 안 되는 것",
+          "nl": "Iets dat je niet in een lift moet doen",
+          "pl": "Czego nie robić w windzie",
+          "pt": "Algo que não se deve fazer no elevador",
+          "ru": "То, чего не следует делать в лифте",
+          "tr": "Asansörde yapılmaması gereken bir şey"
+        }
+      }
+    ]
+  },
+  "43aeb3d0": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un job dont on ne se vante pas sur Tinder",
+          "de": "Ein Job, mit dem man auf Tinder nicht prahlt",
+          "en": "A job you wouldn’t brag about on Tinder",
+          "es": "Un trabajo del que no presumir en Tinder",
+          "it": "Un lavoro di cui non vantarsi su Tinder",
+          "ja": "Tinderで自慢しない仕事",
+          "ko": "틴더에서 자랑하지 않을 직업",
+          "nl": "Een baan waar je niet mee opschept op Tinder",
+          "pl": "Praca, którą nie chwali się na Tinderze",
+          "pt": "Um trabalho que não se ostenta no Tinder",
+          "ru": "Работа, которой не хвастаются в Tinder",
+          "tr": "Tinder’da övünülmeyen bir iş"
+        }
+      }
+    ]
+  },
+  "df96219a": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose à ne pas dire en publique",
+          "de": "Etwas, das man nicht öffentlich sagen sollte",
+          "en": "Something not to say in public",
+          "es": "Algo que no decir en público",
+          "it": "Qualcosa da non dire in pubblico",
+          "ja": "公の場で言ってはいけないこと",
+          "ko": "공공장소에서 하면 안 되는 말",
+          "nl": "Iets wat je niet openbaar moet zeggen",
+          "pl": "Rzecz, której nie należy mówić publicznie",
+          "pt": "Algo que não se deve dizer em público",
+          "ru": "То, чего не стоит говорить публично",
+          "tr": "Kalabalıkta söylenmemesi gereken bir şey"
+        }
+      }
+    ]
+  },
+  "489cf738": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une saveur de chips",
+          "de": "Nenne eine Chips‑Geschmacksrichtung",
+          "en": "A potato‑chip flavour",
+          "es": "Un sabor de patatas fritas",
+          "it": "Un gusto di patatine",
+          "ja": "ポテトチップスの味",
+          "ko": "감자칩 맛 하나",
+          "nl": "Een chipsmaak",
+          "pl": "Smak chipsów",
+          "pt": "Um sabor de salgadinho",
+          "ru": "Вкус чипсов",
+          "tr": "Bir cips aroması"
+        }
+      }
+    ]
+  },
+  "5392b067": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une façon nule de devenir virale",
+          "de": "Eine schlechte Art, viral zu gehen",
+          "en": "A lame way to go viral",
+          "es": "Una forma tonta de hacerse viral",
+          "it": "Un modo pessimo per diventare virali",
+          "ja": "しょぼいバズの仕方",
+          "ko": "망하는 바이럴 방법",
+          "nl": "Een waardeloze manier om viraal te gaan",
+          "pl": "Beznadziejny sposób na viral",
+          "pt": "Um jeito péssimo de viralizar",
+          "ru": "Дурацкий способ стать вирусным",
+          "tr": "Viral olmanın berbat bir yolu"
+        }
+      }
+    ]
+  },
+  "e9f92a52": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une raison de détester twitter",
+          "de": "Ein Grund, Twitter zu hassen",
+          "en": "A reason to hate Twitter",
+          "es": "Una razón para odiar Twitter",
+          "it": "Un motivo per odiare Twitter",
+          "ja": "Twitterを嫌う理由",
+          "ko": "트위터를 싫어하는 이유",
+          "nl": "Een reden om Twitter te haten",
+          "pl": "Powód, by nienawidzić Twittera",
+          "pt": "Um motivo para odiar o Twitter",
+          "ru": "Причина ненавидеть Twitter",
+          "tr": "Twitter’dan nefret etme sebebi"
+        }
+      }
+    ]
+  },
+  "2a064c7d": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui t’énerves dans la rue",
+          "de": "Etwas, das dich auf der Straße nervt",
+          "en": "Something that annoys you in the street",
+          "es": "Algo que te enfada en la calle",
+          "it": "Qualcosa che ti irrita per strada",
+          "ja": "街でイラッとすること",
+          "ko": "거리에서 짜증 나는 것들",
+          "nl": "Dingen die je op straat irriteren",
+          "pl": "Coś, co denerwuje cię na ulicy",
+          "pt": "Algo que te irrita na rua",
+          "ru": "Несколько вещей, которые бесят на улице",
+          "tr": "Sokakta sinirini bozan birkaç şey"
+        }
+      }
+    ]
+  },
+  "6b0c3c47": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui t’énerves dans la voiture",
+          "de": "Etwas, das dich im Auto nervt",
+          "en": "Something that annoys you in the car",
+          "es": "Algo que te enfada en el coche",
+          "it": "Qualcosa che ti irrita in auto",
+          "ja": "車でイラッとすること",
+          "ko": "차 안에서 짜증 나는 것들",
+          "nl": "Dingen die je in de auto irriteren",
+          "pl": "Coś, co denerwuje cię w samochodzie",
+          "pt": "Algo que te irrita no carro",
+          "ru": "Несколько вещей, которые бесят в машине",
+          "tr": "Arabada sinirini bozan birkaç şey"
+        }
+      }
+    ]
+  },
+  "62f68f79": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un nom que tu donnerai pas à ton enfant",
+          "de": "Ein Name, den du deinem Kind nicht geben würdest",
+          "en": "A name you wouldn’t give your child",
+          "es": "Un nombre que no pondrías a tu hijo",
+          "it": "Un nome che non daresti a tuo figlio",
+          "ja": "子どもに付けたくない名前",
+          "ko": "아이에게 절대 안 지을 이름",
+          "nl": "Een naam die je je kind niet zou geven",
+          "pl": "Imię, którego nie dałbyś dziecku",
+          "pt": "Um nome que você não daria ao seu filho",
+          "ru": "Имя, которое ты не дашь своему ребёнку",
+          "tr": "Çocuğuna vermeyeceğin bir isim"
+        }
+      }
+    ]
+  },
+  "96c90e5b": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui ne vas pas dans un burger",
+          "de": "Etwas, das nicht in einen Burger gehört",
+          "en": "Something that doesn’t belong in a burger",
+          "es": "Algo que no va en una hamburguesa",
+          "it": "Qualcosa che non va in un hamburger",
+          "ja": "ハンバーガーに合わないもの",
+          "ko": "버거에 어울리지 않는 것",
+          "nl": "Iets wat niet in een burger hoort",
+          "pl": "Coś, co nie pasuje do burgera",
+          "pt": "Algo que não combina em um hambúrguer",
+          "ru": "Что-то, что не подходит к бургеру",
+          "tr": "Burgerde olmaması gereken bir şey"
+        }
+      }
+    ]
+  },
+  "7458e4ff": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Deux aliments qui ne vont pas ensemble",
+          "de": "Zwei Lebensmittel, die nicht zusammenpassen",
+          "en": "Two foods that don’t go together",
+          "es": "Dos alimentos que no combinan",
+          "it": "Due alimenti che non stanno bene insieme",
+          "ja": "相性最悪な食材2つ",
+          "ko": "잘 어울리지 않는 두 음식",
+          "nl": "Twee voedingsmiddelen die niet samen passen",
+          "pl": "Dwa produkty, które do siebie nie pasują",
+          "pt": "Dois alimentos que não combinam",
+          "ru": "Два продукта, которые не сочетаются",
+          "tr": "Birlikte gitmeyen iki yiyecek"
+        }
+      }
+    ]
+  },
+  "f7477d4d": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un exercice de musculation",
+          "de": "Nenne eine Kraftübung",
+          "en": "A weight‑training exercise",
+          "es": "Un ejercicio de musculación",
+          "it": "Un esercizio di sollevamento pesi",
+          "ja": "筋トレ種目",
+          "ko": "근력 운동 하나",
+          "nl": "Een krachtoefening",
+          "pl": "Ćwiczenie siłowe",
+          "pt": "Um exercício de musculação",
+          "ru": "Упражнение на силовую тренировку",
+          "tr": "Bir vücut geliştirme hareketi"
+        }
+      }
+    ]
+  },
+  "a6b5ccf3": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’il faut faire en vacances",
+          "de": "Etwas, das man im Urlaub tun sollte",
+          "en": "Something you must do on vacation",
+          "es": "Algo que debes hacer en vacaciones",
+          "it": "Qualcosa da fare in vacanza",
+          "ja": "休暇中にすべきこと",
+          "ko": "휴가 때 꼭 해야 할 것",
+          "nl": "Iets wat je op vakantie moet doen",
+          "pl": "Coś, co trzeba zrobić na wakacjach",
+          "pt": "Algo que se deve fazer nas férias",
+          "ru": "То, что нужно сделать в отпуске",
+          "tr": "Tatilde yapılması gereken bir şey"
+        }
+      }
+    ]
+  },
+  "2c046e00": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’il ne faut pas faire en vacances",
+          "de": "Etwas, das man im Urlaub nicht tun sollte",
+          "en": "Something you must not do on vacation",
+          "es": "Algo que no debes hacer en vacaciones",
+          "it": "Qualcosa da non fare in vacanza",
+          "ja": "休暇中にしてはいけないこと",
+          "ko": "휴가 때 하면 안 되는 것",
+          "nl": "Iets wat je op vakantie niet moet doen",
+          "pl": "Coś, czego nie należy robić na wakacjach",
+          "pt": "Algo que não se deve fazer nas férias",
+          "ru": "То, чего нельзя делать в отпуске",
+          "tr": "Tatilde yapılmaması gereken bir şey"
+        }
+      }
+    ]
+  },
+  "94c4bb87": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un tutoriel YouTube qui n’existe pas",
+          "de": "Ein YouTube‑Tutorial, das es nicht gibt",
+          "en": "A YouTube tutorial that doesn’t exist",
+          "es": "Un tutorial de YouTube que no existe",
+          "it": "Un tutorial YouTube che non esiste",
+          "ja": "存在しないYouTubeチュートリアル",
+          "ko": "존재하지 않는 유튜브 튜토리얼",
+          "nl": "Een YouTube-tutorial die niet bestaat",
+          "pl": "Samouczek YouTube, który nie istnieje",
+          "pt": "Um tutorial do YouTube que não existe",
+          "ru": "YouTube-урок, которого не существует",
+          "tr": "Henüz olmayan bir YouTube eğitimi"
+        }
+      }
+    ]
+  },
+  "75f7ce20": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un goût de bonbon qui n’existe pas",
+          "de": "Ein Bonbongeschmack, den es nicht gibt",
+          "en": "A candy flavour that doesn’t exist",
+          "es": "Un sabor de caramelo que no existe",
+          "it": "Un gusto di caramella che non esiste",
+          "ja": "存在しないキャンディーの味",
+          "ko": "실존하지 않는 사탕 맛",
+          "nl": "Een snoepsmaak die niet bestaat",
+          "pl": "Smak cukierka, który nie istnieje",
+          "pt": "Um sabor de bala que não existe",
+          "ru": "Вкус конфет, которого не существует",
+          "tr": "Var olmayan bir şeker tadı"
+        }
+      }
+    ]
+  },
+  "a52bdeb9": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un goût de bierre qui n’existe pas",
+          "de": "Ein Biergeschmack, den es nicht gibt",
+          "en": "A beer flavour that doesn’t exist",
+          "es": "Un sabor de cerveza que no existe",
+          "it": "Un gusto di birra che non esiste",
+          "ja": "存在しないビールの味",
+          "ko": "실존하지 않는 맥주 맛",
+          "nl": "Een biersmaak die niet bestaat",
+          "pl": "Smak piwa, który nie istnieje",
+          "pt": "Um sabor de cerveja que não existe",
+          "ru": "Вкус пива, которого не существует",
+          "tr": "Var olmayan bir bira aroması"
+        }
+      }
+    ]
+  },
+  "60c44915": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelqu’un de célèbre que tu n’inviterai pas à ton anniversaire",
+          "de": "Jemand Berühmtes, den du nicht zu deiner Geburtstagsparty einladen würdest",
+          "en": "A famous person you wouldn’t invite to your birthday",
+          "es": "Alguien famoso que no invitarías a tu cumpleaños",
+          "it": "Qualcuno di famoso che non inviteresti al tuo compleanno",
+          "ja": "誕生日に招待しない有名人",
+          "ko": "생일에 초대 안 할 유명인",
+          "nl": "Iemand beroemd die je niet op je verjaardag zou uitnodigen",
+          "pl": "Sławna osoba, której nie zaprosiłbyś na urodziny",
+          "pt": "Alguém famoso que você não convidaria para seu aniversário",
+          "ru": "Знаменитость, которую ты не пригласишь на день рождения",
+          "tr": "Doğum gününe çağırmayacağın ünlü biri"
+        }
+      }
+    ]
+  },
+  "b6e5e942": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Une boisson qui n’est pas recommandée de boire au réveil",
+          "de": "Ein Getränk, das man morgens besser nicht trinkt",
+          "en": "A drink not recommended first thing in the morning",
+          "es": "Una bebida no recomendada al despertar",
+          "it": "Una bevanda da non bere appena svegli",
+          "ja": "朝一に飲むべきでない飲み物",
+          "ko": "아침에 마시기 부적절한 음료",
+          "nl": "Een drankje dat je beter niet bij het opstaan drinkt",
+          "pl": "Napój niewskazany po przebudzeniu",
+          "pt": "Uma bebida não recomendada ao acordar",
+          "ru": "Напиток, который не рекомендуют пить с утра",
+          "tr": "Uyanınca içilmesi tavsiye edilmeyen içecek"
+        }
+      }
+    ]
+  },
+  "eabd70e6": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Un truc qu’on trouve dans une chambre d’ado",
+          "de": "Etwas, das man im Jugendzimmer findet",
+          "en": "Something found in a teenager’s bedroom",
+          "es": "Algo que se encuentra en una habitación de adolescente",
+          "it": "Qualcosa che si trova in una stanza da adolescente",
+          "ja": "ティーンの部屋で見つかるもの",
+          "ko": "10대 방에서 찾을 수 있는 것",
+          "nl": "Een ding dat je in een tienerkamer vindt",
+          "pl": "Rzecz znajdująca się w pokoju nastolatka",
+          "pt": "Algo que se encontra em quarto de adolescente",
+          "ru": "Вещь, которую можно найти в комнате подростка",
+          "tr": "Genç odasında bulunan bir şey"
+        }
+      }
+    ]
+  },
+  "d1ed6c4e": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui ne se boit pas",
+          "de": "Etwas, das man nicht trinken kann",
+          "en": "Something that isn’t drinkable",
+          "es": "Algo que no se bebe",
+          "it": "Qualcosa che non si beve",
+          "ja": "飲めないもの",
+          "ko": "마실 수 없는 것",
+          "nl": "Iets dat je niet kunt drinken",
+          "pl": "Coś, czego się nie pije",
+          "pt": "Algo que não se bebe",
+          "ru": "То, что нельзя пить",
+          "tr": "İçilmez bir şey"
+        }
+      }
+    ]
+  },
+  "d658b5eb": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui ne se mange pas",
+          "de": "Etwas, das man nicht essen kann",
+          "en": "Something that isn’t edible",
+          "es": "Algo que no se come",
+          "it": "Qualcosa che non si mangia",
+          "ja": "食べられないもの",
+          "ko": "먹을 수 없는 것",
+          "nl": "Iets dat je niet kunt eten",
+          "pl": "Coś, czego się nie je",
+          "pt": "Algo que não se come",
+          "ru": "То, что нельзя есть",
+          "tr": "Yenmez bir şey"
+        }
+      }
+    ]
+  },
+  "794a2a47": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on apporte à un soirée",
+          "de": "Etwas, das man zu einer Party mitbringt",
+          "en": "Something you bring to a party",
+          "es": "Algo que se lleva a una fiesta",
+          "it": "Qualcosa da portare a una festa",
+          "ja": "パーティーに持っていくもの",
+          "ko": "파티에 가져가는 것",
+          "nl": "Iets dat je meeneemt naar een feestje",
+          "pl": "Coś, co przynosi się na imprezę",
+          "pt": "Algo que se leva para uma festa",
+          "ru": "То, что приносят на вечеринку",
+          "tr": "Bir partiye götürülen bir şey"
+        }
+      }
+    ]
+  },
+  "0e01f775": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un cocktail populaire",
+          "de": "Nenne einen beliebten Cocktail",
+          "en": "Name a popular cocktail",
+          "es": "Nombra un cóctel popular",
+          "it": "Nomina un cocktail popolare",
+          "ja": "人気カクテルを一つ挙げて",
+          "ko": "인기 칵테일 하나",
+          "nl": "Noem een populair cocktail",
+          "pl": "Nazwij popularny koktajl",
+          "pt": "Um coquetel popular",
+          "ru": "Назови популярный коктейль",
+          "tr": "Popüler bir kokteyl söyle"
+        }
+      }
+    ]
+  },
+  "f8e66deb": {
+    "category": "lifestyle",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on mange à l'apéritif",
+          "de": "Nenne etwas, das man zum Aperitif isst",
+          "en": "Something eaten at an aperitif",
+          "es": "Algo que se come en el aperitivo",
+          "it": "Qualcosa che si mangia all’aperitivo",
+          "ja": "食前に食べるおつまみ",
+          "ko": "에피타이저로 먹는 것",
+          "nl": "Iets wat we als aperitief eten",
+          "pl": "Coś, co je się na aperitif",
+          "pt": "Algo que se come no aperitivo",
+          "ru": "То, что едят на аперитив",
+          "tr": "Aperatifte yenilen bir şey"
+        }
+      }
+    ]
+  }
+}

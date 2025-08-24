@@ -1,0 +1,1934 @@
+{
+  "2508eeff": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un bruit d’animaux",
+          "de": "Nenne ein Tiergeräusch",
+          "en": "Name an animal sound",
+          "es": "Nombra un sonido de animal",
+          "it": "Nomina un verso animale",
+          "ja": "動物の鳴き声を一つ挙げて",
+          "ko": "동물 소리 하나 말하기",
+          "nl": "Noem een dierengeluid",
+          "pl": "Podaj dźwięk wydawany przez zwierzę",
+          "pt": "Nomeie um som de animal",
+          "ru": "Назови звук животного",
+          "tr": "Bir hayvan sesi söyle"
+        }
+      }
+    ]
+  },
+  "ce98a706": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une onomatopée (boom, paf…)",
+          "de": "Nenne eine Lautmalerei (boom, paf …)",
+          "en": "Name an onomatopoeia (boom, pow…)",
+          "es": "Cita una onomatopeya (boom, paf…)",
+          "it": "Cita un’onomatopea (boom, paf…)",
+          "ja": "オノマトペを一つ挙げて（ドカン、バフ…）",
+          "ko": "의성어 하나 말하기 (쿵, 팡…)",
+          "nl": "Noem een onomatopee (boem, paf…)",
+          "pl": "Podaj onomatopeję (bum, paf…)",
+          "pt": "Cite uma onomatopeia (bum, paf…)",
+          "ru": "Назови ономатопею (бум, паф…)",
+          "tr": "Boom benzeri bir yansıma sözcük"
+        }
+      }
+    ]
+  },
+  "fc8c11e6": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sons que le corp peut faire",
+          "de": "Nenne ein Geräusch, das der Körper machen kann",
+          "en": "A sound the body can make",
+          "es": "Un sonido que el cuerpo puede hacer",
+          "it": "Un suono che il corpo può fare",
+          "ja": "体が出せる音",
+          "ko": "몸이 낼 수 있는 소리",
+          "nl": "Een geluid dat het lichaam kan maken",
+          "pl": "Dźwięk, który może wydać ciało",
+          "pt": "Um som que o corpo pode fazer",
+          "ru": "Звук, который может издать тело",
+          "tr": "Vücudun çıkarabileceği bir ses"
+        }
+      }
+    ]
+  },
+  "1e3496b3": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un nom bizarre pour un animale de compagnie",
+          "de": "Nenne einen seltsamen Namen für ein Haustier",
+          "en": "A weird pet name",
+          "es": "Un nombre raro para una mascota",
+          "it": "Un nome strano per un animale domestico",
+          "ja": "ペットにつける奇妙な名前",
+          "ko": "반려동물에게 붙일 기묘한 이름",
+          "nl": "Een rare naam voor een huisdier",
+          "pl": "Dziwaczne imię dla zwierzaka domowego",
+          "pt": "Um nome estranho para um animal de estimação",
+          "ru": "Странное имя для домашнего питомца",
+          "tr": "Evcil hayvan için tuhaf bir isim"
+        }
+      }
+    ]
+  },
+  "8528a4a2": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot rigolo qui rime avec \"pique”",
+          "de": "Nenne ein lustiges Wort, das sich auf „pique\" reimt",
+          "en": "Name a funny word that rhymes with \"pique\"",
+          "es": "Cita una palabra graciosa que rime con “pique”",
+          "it": "Cita una parola divertente che rima con “pique”",
+          "ja": "「pique」と韻を踏む面白い単語を一つ挙げて",
+          "ko": "“pique”와 운이 맞는 웃긴 단어 하나",
+          "nl": "Noem een grappig woord dat rijmt op “piek\"",
+          "pl": "Podaj zabawne słowo rymujące się z \"pique\"",
+          "pt": "Cite uma palavra engraçada que rima com “pique\"",
+          "ru": "Назови смешное слово, которое рифмуется с \"pique\"",
+          "tr": "“Pique\" ile kafiyeli komik bir kelime"
+        }
+      }
+    ]
+  },
+  "f9076f46": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un pouvoir magique totalement inutile",
+          "de": "Nenne eine völlig nutzlose magische Fähigkeit",
+          "en": "Name a totally useless magic power",
+          "es": "Cita un poder mágico totalmente inútil",
+          "it": "Cita un potere magico del tutto inutile",
+          "ja": "まったく役に立たない魔法の力を一つ挙げて",
+          "ko": "완전히 쓸모없는 마법 능력 하나",
+          "nl": "Noem een totaal nutteloze toverkracht",
+          "pl": "Podaj całkowicie bezużyteczną magiczną moc",
+          "pt": "Cite um poder mágico totalmente inútil",
+          "ru": "Назови полностью бесполезную магическую силу",
+          "tr": "Tamamen işe yaramaz bir büyü gücü"
+        }
+      }
+    ]
+  },
+  "402ec2bf": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un animal fusion improbable (ex. : lama-pingouin)",
+          "de": "Nenne ein unmögliches Fusions‑Tier (z. B. Lama‑Pinguin)",
+          "en": "Name an improbable hybrid animal (e.g., llama‑penguin)",
+          "es": "Nombra un animal fusión improbable (ej.: llama‑pingüino)",
+          "it": "Nomina un animale fusione improbabile (es.: lama-pinguino)",
+          "ja": "あり得ない動物ハイブリッドを一つ挙げて（例：ラマ＋ペンギン）",
+          "ko": "상상 속 불가능한 합성 동물 하나 (예: 라마‑펭귄)",
+          "nl": "Noem een onmogelijke dierenfusie (bijv. lama-pinguïn)",
+          "pl": "Nazwij niemożliwe zwierzę-hybrydę (np. lama-pingwin)",
+          "pt": "Nomeie uma fusão de animal improvável (ex.: lhama-pinguim)",
+          "ru": "Назови невероятное гибридное животное (например: лама-пингвин)",
+          "tr": "İmkânsız bir hayvan birleşimi"
+        }
+      }
+    ]
+  },
+  "0608aac5": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Invente un sport loufoque",
+          "de": "Erfinde eine verrückte Sportart",
+          "en": "Invent a wacky sport",
+          "es": "Inventa un deporte disparatado",
+          "it": "Inventa uno sport strampalato",
+          "ja": "突飛なスポーツを考えて",
+          "ko": "기상천외한 스포츠를 만들어보기",
+          "nl": "Bedenk een gekke sport",
+          "pl": "Wymyśl zwariowany sport",
+          "pt": "Invente um esporte maluco",
+          "ru": "Придумай безумный вид спорта",
+          "tr": "Çılgın bir spor icat et"
+        }
+      }
+    ]
+  },
+  "2e68451b": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Invente un nouveau parfum de glace bizarre",
+          "de": "Erfinde eine seltsame neue Eissorte",
+          "en": "Invent a bizarre new ice‑cream flavour",
+          "es": "Inventa un nuevo sabor de helado extraño",
+          "it": "Inventa un nuovo gusto di gelato bizzarro",
+          "ja": "奇妙な新アイスクリームフレーバーを考えて",
+          "ko": "기묘한 새 아이스크림 맛을 만들어보기",
+          "nl": "Bedenk een bizarre nieuwe ijssmaak",
+          "pl": "Wymyśl dziwny nowy smak lodów",
+          "pt": "Invente um sabor de sorvete bizarro",
+          "ru": "Придумай странный новый вкус мороженого",
+          "tr": "Tuhaf bir dondurma aroması uydur"
+        }
+      }
+    ]
+  },
+  "c7028771": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Invente un sortilège « Harry Potter » qui ne sert à rien",
+          "de": "Erfinde einen «Harry‑Potter»‑Zauber, der zu nichts nützt",
+          "en": "Invent a useless Harry Potter spell",
+          "es": "Inventa un hechizo de \"Harry Potter\" que no sirva para nada",
+          "it": "Inventa un incantesimo di \"Harry Potter\" che non serve a nulla",
+          "ja": "『ハリー・ポッター』の役に立たない呪文を考えて",
+          "ko": "쓸모없는 『해리 포터』 주문 만들어보기",
+          "nl": "Bedenk een nutteloze \"Harry Potter\"-spreuk",
+          "pl": "Wymyśl bezużyteczne zaklęcie z \"Harry’ego Pottera\"",
+          "pt": "Invente um feitiço de “Harry Potter\" que não serve para nada",
+          "ru": "Придумай заклинание из \"Гарри Поттера\", которое ни к чему не пригодно",
+          "tr": "Hiç işe yaramayan bir Harry Potter büyüsü"
+        }
+      }
+    ]
+  },
+  "ebd8394a": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Propose un record du monde totalement absurde",
+          "de": "Schlage einen völlig absurden Weltrekord vor",
+          "en": "Propose an utterly absurd world record",
+          "es": "Propón un récord mundial totalmente absurdo",
+          "it": "Proponi un record mondiale totalmente assurdo",
+          "ja": "完全にばかげた世界記録を提案して",
+          "ko": "전적으로 터무니없는 세계 기록 제안하기",
+          "nl": "Stel een volkomen absurde wereldrecordpoging voor",
+          "pl": "Zaproponuj całkowicie absurdalny rekord świata",
+          "pt": "Proponha um recorde mundial totalmente absurdo",
+          "ru": "Предложи абсолютно абсурдный мировой рекорд",
+          "tr": "Tamamen saçma bir dünya rekoru öner"
+        }
+      }
+    ]
+  },
+  "ab8e0f58": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Invente une Trend TikTok improbable",
+          "de": "Erfinde einen unmöglichen TikTok‑Trend",
+          "en": "Invent an unlikely TikTok trend",
+          "es": "Inventa una tendencia de TikTok improbable",
+          "it": "Inventa una trend di TikTok improbabile",
+          "ja": "あり得ないTikTokトレンドを考えて",
+          "ko": "실현 불가능한 틱톡 트렌드 만들기",
+          "nl": "Bedenk een onwaarschijnlijke TikTok-trend",
+          "pl": "Wymyśl nieprawdopodobny trend na TikToku",
+          "pt": "Invente uma tendência impossível no TikTok",
+          "ru": "Придумай невероятный тренд TikTok",
+          "tr": "Olasılıksız bir TikTok trendi uydur"
+        }
+      }
+    ]
+  },
+  "2864b5d3": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot avec 2 syllabes uniquement",
+          "de": "Nenne ein Wort mit genau zwei Silben",
+          "en": "Name a word of exactly 2 syllables",
+          "es": "Cita una palabra de solo 2 sílabas",
+          "it": "Cita una parola di sole 2 sillabe",
+          "ja": "2音節だけの単語を一つ挙げて",
+          "ko": "2음절 단어 하나 말하기",
+          "nl": "Noem een woord met precies 2 lettergrepen",
+          "pl": "Podaj słowo mające dokładnie 2 sylaby",
+          "pt": "Cite uma palavra com apenas 2 sílabas",
+          "ru": "Назови слово только из 2 слогов",
+          "tr": "Yalnızca iki heceli bir kelime"
+        }
+      }
+    ]
+  },
+  "d0ad6d42": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot avec 3 syllabes uniquement",
+          "de": "Nenne ein Wort mit genau drei Silben",
+          "en": "Name a word of exactly 3 syllables",
+          "es": "Cita una palabra de solo 3 sílabas",
+          "it": "Cita una parola di sole 3 sillabe",
+          "ja": "3音節だけの単語を一つ挙げて",
+          "ko": "3음절 단어 하나 말하기",
+          "nl": "Noem een woord met precies 3 lettergrepen",
+          "pl": "Podaj słowo mające dokładnie 3 sylaby",
+          "pt": "Cite uma palavra com apenas 3 sílabas",
+          "ru": "Назови слово только из 3 слогов",
+          "tr": "Yalnızca üç heceli bir kelime"
+        }
+      }
+    ]
+  },
+  "f9a604d3": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une phrase avec 3 mots uniquement",
+          "de": "Nenne einen Satz mit genau drei Wörtern",
+          "en": "Say a sentence of exactly 3 words",
+          "es": "Cita una frase de solo 3 palabras",
+          "it": "Cita una frase di sole 3 parole",
+          "ja": "3語だけのフレーズを挙げて",
+          "ko": "3단어 문장 하나 말하기",
+          "nl": "Noem een zin met precies 3 woorden",
+          "pl": "Podaj zdanie składające się z dokładnie 3 słów",
+          "pt": "Cite uma frase com apenas 3 palavras",
+          "ru": "Назови фразу всего из 3 слов",
+          "tr": "Yalnızca üç kelimelik bir cümle"
+        }
+      }
+    ]
+  },
+  "303b899a": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une passion",
+          "de": "Nenne eine Leidenschaft",
+          "en": "Name a passion",
+          "es": "Nombra una afición",
+          "it": "Nomina una passione",
+          "ja": "情熱を注ぐものを一つ挙げて",
+          "ko": "열정을 쏟는 취미 하나",
+          "nl": "Noem een passie",
+          "pl": "Nazwij pasję",
+          "pt": "Nomeie uma paixão",
+          "ru": "Назови увлечение",
+          "tr": "Bir tutku söyle"
+        }
+      }
+    ]
+  },
+  "12d0642c": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une peur très nulle",
+          "de": "Nenne eine sehr alberne Angst",
+          "en": "Name a very silly fear",
+          "es": "Cita un miedo muy tonto",
+          "it": "Cita una paura davvero sciocca",
+          "ja": "とてもくだらない恐怖を一つ挙げて",
+          "ko": "정말 시시한 공포 하나",
+          "nl": "Noem een belachelijke angst",
+          "pl": "Podaj bardzo głupi lęk",
+          "pt": "Cite um medo bem bobo",
+          "ru": "Назови очень глупый страх",
+          "tr": "Çok saçma bir korku"
+        }
+      }
+    ]
+  },
+  "e6dd103a": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose que tu aimes sur internet",
+          "de": "Etwas, das du im Internet magst",
+          "en": "Something you like on the internet",
+          "es": "Algo que te gusta en internet",
+          "it": "Qualcosa che ti piace su Internet",
+          "ja": "インターネットで好きなもの",
+          "ko": "인터넷에서 좋아하는 것",
+          "nl": "Iets dat je leuk vindt op internet",
+          "pl": "Coś, co lubisz w internecie",
+          "pt": "Algo que você gosta na internet",
+          "ru": "Что-то, что тебе нравится в интернете",
+          "tr": "İnternette sevdiğin bir şey"
+        }
+      }
+    ]
+  },
+  "ba390dd8": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un déssin animé",
+          "de": "Nenne einen Zeichentrickfilm",
+          "en": "Name a cartoon",
+          "es": "Nombra un dibujo animado",
+          "it": "Nomina un cartone animato",
+          "ja": "アニメ作品を一つ挙げて",
+          "ko": "만화영화 제목 하나 말하기",
+          "nl": "Noem een tekenfilm",
+          "pl": "Nazwij kreskówkę",
+          "pt": "Nomeie um desenho animado",
+          "ru": "Назови мультфильм",
+          "tr": "Bir çizgi film adı ver"
+        }
+      }
+    ]
+  },
+  "3923bd97": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une activité à faire en été",
+          "de": "Nenne eine Aktivität für den Sommer",
+          "en": "An activity to do in summer",
+          "es": "Una actividad para hacer en verano",
+          "it": "Un’attività da fare in estate",
+          "ja": "夏にするアクティビティ",
+          "ko": "여름에 할 수 있는 활동",
+          "nl": "Een activiteit voor in de zomer",
+          "pl": "Aktywność na lato",
+          "pt": "Uma atividade para fazer no verão",
+          "ru": "Занятие для лета",
+          "tr": "Yazın yapılacak bir etkinlik"
+        }
+      }
+    ]
+  },
+  "5a149c2b": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une activité à faire en hivers",
+          "de": "Nenne eine Aktivität für den Winter",
+          "en": "An activity to do in winter",
+          "es": "Una actividad para hacer en invierno",
+          "it": "Un’attività da fare in inverno",
+          "ja": "冬にするアクティビティ",
+          "ko": "겨울에 할 수 있는 활동",
+          "nl": "Een activiteit voor in de winter",
+          "pl": "Aktywność na zimę",
+          "pt": "Uma atividade para fazer no inverno",
+          "ru": "Занятие для зимы",
+          "tr": "Kışın yapılacak bir etkinlik"
+        }
+      }
+    ]
+  },
+  "ccc9bccf": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de beau dans la nature",
+          "de": "Nenne etwas Schönes in der Natur",
+          "en": "Something beautiful in nature",
+          "es": "Algo hermoso de la naturaleza",
+          "it": "Qualcosa di bello nella natura",
+          "ja": "自然界の美しいもの",
+          "ko": "자연에서 아름다운 것",
+          "nl": "Iets moois in de natuur",
+          "pl": "Coś pięknego w naturze",
+          "pt": "Algo bonito na natureza",
+          "ru": "Что-то красивое в природе",
+          "tr": "Doğada güzel bir şey"
+        }
+      }
+    ]
+  },
+  "03ca1da3": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui sent bon",
+          "de": "Nenne etwas, das gut riecht",
+          "en": "Something that smells good",
+          "es": "Algo que huela bien",
+          "it": "Qualcosa che profuma",
+          "ja": "良い香りのするもの",
+          "ko": "향기로운 것",
+          "nl": "Iets dat lekker ruikt",
+          "pl": "Coś, co ładnie pachnie",
+          "pt": "Algo que cheira bem",
+          "ru": "Что-то приятно пахнущее",
+          "tr": "Güzel kokan bir şey"
+        }
+      }
+    ]
+  },
+  "e7662415": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un vœux super nul à faire à un géni",
+          "de": "Nenne einen total nutzlosen Wunsch, den man einem Genie stellt",
+          "en": "A super lame wish to make to a genie",
+          "es": "Un deseo súper inútil para pedir a un genio",
+          "it": "Un desiderio super inutile da chiedere a un genio",
+          "ja": "ジーニーに頼む超くだらない願い事",
+          "ko": "지니에게 빌 아주 쓸모없는 소원",
+          "nl": "Een super waardeloze wens voor een geest",
+          "pl": "Super głupie życzenie dla dżina",
+          "pt": "Um desejo super inútil para fazer ao gênio",
+          "ru": "Супер-тупое желание, которое можно загадать джинну",
+          "tr": "Cin’e dile getirilecek berbat bir dilek"
+        }
+      }
+    ]
+  },
+  "32e85bd7": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un couple de super héro qui n'irai pas ensemble",
+          "de": "Nenne ein Superhelden‑Paar, das gar nicht zusammenpasst",
+          "en": "A superhero couple that wouldn’t work",
+          "es": "Una pareja de superhéroes que no funcionaría junta",
+          "it": "Una coppia di supereroi che non funzionerebbe",
+          "ja": "相性最悪のスーパーヒーローカップル",
+          "ko": "어울리지 않는 슈퍼히어로 커플",
+          "nl": "Een superheldenkoppel dat totaal niet werkt",
+          "pl": "Para superbohaterów, która do siebie nie pasuje",
+          "pt": "Um casal de super-heróis que não combinaria",
+          "ru": "Пара супергероев, которые совсем не подходят друг другу",
+          "tr": "Asla uyuşmayacak iki süper kahraman"
+        }
+      }
+    ]
+  },
+  "bb6a8e02": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Fait une grimace",
+          "de": "Mach eine Grimasse",
+          "en": "Make a funny face",
+          "es": "Haz una mueca",
+          "it": "Fai una smorfia",
+          "ja": "変顔をして",
+          "ko": "우스꽝스러운 표정 지어보기",
+          "nl": "Trek een gek gezicht",
+          "pl": "Zrób minę",
+          "pt": "Faça uma careta",
+          "ru": "Сделай гримасу",
+          "tr": "Bir yüz buruşturma"
+        }
+      }
+    ]
+  },
+  "86f5ffcd": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme Quelque chose d'impressionnant",
+          "de": "Nenne etwas Beeindruckendes",
+          "en": "Name something impressive",
+          "es": "Nombra algo impresionante",
+          "it": "Nomina qualcosa di impressionante",
+          "ja": "圧倒されるものを一つ挙げて",
+          "ko": "감탄을 자아내는 것 하나",
+          "nl": "Noem iets indrukwekkends",
+          "pl": "Nazwij coś imponującego",
+          "pt": "Nomeie algo impressionante",
+          "ru": "Назови что-нибудь впечатляющее",
+          "tr": "Etkileyici bir şey"
+        }
+      }
+    ]
+  },
+  "eb8f48a0": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de plus grand qu'une orange (interdiction de dire plus petit que la dernière chose dite)",
+          "de": "Nenne etwas, das größer ist als eine Orange",
+          "en": "Something larger than an orange (cannot be smaller than the previous item)",
+          "es": "Algo más grande que una naranja (prohibido decir algo más pequeño que lo último mencionado)",
+          "it": "Qualcosa più grande di un’arancia",
+          "ja": "オレンジより大きいもの（前のより小さいとは言わない）",
+          "ko": "오렌지보다 큰 것 (더 작다 금지)",
+          "nl": "Iets groter dan een sinaasappel",
+          "pl": "Coś większego od pomarańczy",
+          "pt": "Algo maior que uma laranja (sem citar algo menor que a última coisa dita)",
+          "ru": "Что-то больше апельсина (запрещено говорить меньше, чем последняя названная вещь)",
+          "tr": "Portakaldan büyük bir şey"
+        }
+      }
+    ]
+  },
+  "2af88db3": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de plus petits qu'un éléphant (interdiction de dire plus grand que la dernière chose dite)",
+          "de": "Nenne etwas, das kleiner ist als ein Elefant",
+          "en": "Something smaller than an elephant (cannot be larger than the previous item)",
+          "es": "Algo más pequeño que un elefante (prohibido decir algo más grande que lo último mencionado)",
+          "it": "Qualcosa più piccolo di un elefante",
+          "ja": "ゾウより小さいもの（前のより大きいとは言わない）",
+          "ko": "코끼리보다 작은 것 (더 크다 금지)",
+          "nl": "Iets kleiner dan een olifant",
+          "pl": "Coś mniejszego od słonia",
+          "pt": "Algo menor que um elefante (sem citar algo maior que a última coisa dita)",
+          "ru": "Что-то меньше слона (запрещено говорить больше, чем последняя названная вещь)",
+          "tr": "Filden küçük bir şey"
+        }
+      }
+    ]
+  },
+  "d54ef552": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une excuse pour procrastiner efficacement",
+          "de": "Nenne eine Ausrede, um effektiv zu prokrastinieren",
+          "en": "An excuse for effective procrastination",
+          "es": "Una excusa para procrastinar eficazmente",
+          "it": "Una scusa per procrastinare efficacemente",
+          "ja": "効率的に先延ばしする言い訳",
+          "ko": "미루기 위한 핑계",
+          "nl": "Een excuus om effectief te uitstellen",
+          "pl": "Wymówka, by skutecznie prokrastynować",
+          "pt": "Uma desculpa para procrastinar de forma eficaz",
+          "ru": "Отговорка для эффективного прокрастинирования",
+          "tr": "Etkili erteleme bahanesi"
+        }
+      }
+    ]
+  },
+  "c283c882": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une activité qui améliore sa santé",
+          "de": "Nenne eine Aktivität, die die Gesundheit verbessert",
+          "en": "An activity that improves health",
+          "es": "Una actividad que mejore la salud",
+          "it": "Un’attività che migliora la salute",
+          "ja": "健康を向上させる活動",
+          "ko": "건강을 향상시키는 활동",
+          "nl": "Een activiteit die de gezondheid verbetert",
+          "pl": "Aktywność poprawiająca zdrowie",
+          "pt": "Uma atividade que melhora a saúde",
+          "ru": "Занятие, улучшающее здоровье",
+          "tr": "Sağlığı geliştiren bir etkinlik"
+        }
+      }
+    ]
+  },
+  "a7dc24dc": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite Quelque chose de gênant",
+          "de": "Nenne etwas Peinliches",
+          "en": "Name something embarrassing",
+          "es": "Cita algo embarazoso",
+          "it": "Cita qualcosa di imbarazzante",
+          "ja": "恥ずかしいものを一つ挙げて",
+          "ko": "당황스러운 것 하나",
+          "nl": "Noem iets gênants",
+          "pl": "Podaj coś krępującego",
+          "pt": "Cite algo constrangedor",
+          "ru": "Назови что-то неловкое",
+          "tr": "Utandırıcı bir şey"
+        }
+      }
+    ]
+  },
+  "951db3f4": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose à ne pas faire dans son bain",
+          "de": "Nenne etwas, das man in der Badewanne nicht tun sollte",
+          "en": "Something not to do in your bathtub",
+          "es": "Algo que no se debe hacer en la bañera",
+          "it": "Qualcosa da non fare nella vasca da bagno",
+          "ja": "入浴中にしてはいけないこと",
+          "ko": "목욕할 때 하면 안 되는 것",
+          "nl": "Iets dat je niet in bad moet doen",
+          "pl": "Rzecz, której nie robić w wannie",
+          "pt": "Algo que não se deve fazer na banheira",
+          "ru": "То, чего не следует делать в ванне",
+          "tr": "Banyoda yapılmaması gereken bir şey"
+        }
+      }
+    ]
+  },
+  "7cbbe803": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet qu'on ne prête à personne",
+          "de": "Nenne einen Gegenstand, den man niemandem leiht",
+          "en": "An object you never lend",
+          "es": "Un objeto que no se presta a nadie",
+          "it": "Un oggetto che non si presta a nessuno",
+          "ja": "誰にも貸さない物",
+          "ko": "아무에게도 빌려주지 않는 물건",
+          "nl": "Een voorwerp dat je aan niemand uitleent",
+          "pl": "Przedmiot, którego nikomu się nie pożycza",
+          "pt": "Um objeto que não se empresta a ninguém",
+          "ru": "Предмет, который никому не одалживают",
+          "tr": "Kimseye ödünç verilmeyen bir nesne"
+        }
+      }
+    ]
+  },
+  "654e9d1d": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on ne voit jamais par la fenêtre",
+          "de": "Nenne etwas, das man nie durchs Fenster sieht",
+          "en": "Something you never see through a window",
+          "es": "Algo que nunca se ve por la ventana",
+          "it": "Qualcosa che non si vede mai dalla finestra",
+          "ja": "窓から決して見えないもの",
+          "ko": "창문 밖으로는 절대 보이지 않는 것",
+          "nl": "Iets dat je nooit uit het raam ziet",
+          "pl": "Coś, czego nigdy nie widać przez okno",
+          "pt": "Algo que nunca se vê pela janela",
+          "ru": "То, что никогда не видно из окна",
+          "tr": "Pencereden asla görülmeyen bir şey"
+        }
+      }
+    ]
+  },
+  "ed3714ca": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une action qui porte malheur",
+          "de": "Nenne eine Handlung, die Unglück bringt",
+          "en": "Name an action that brings bad luck",
+          "es": "Cita una acción que traiga mala suerte",
+          "it": "Cita un’azione che porta sfortuna",
+          "ja": "不運を招く行動を一つ挙げて",
+          "ko": "불운을 부르는 행동 하나",
+          "nl": "Noem een handeling die ongeluk brengt",
+          "pl": "Podaj czynność przynoszącą pecha",
+          "pt": "Cite uma ação que dá azar",
+          "ru": "Назови действие, приносящее несчастье",
+          "tr": "Uğursuzluk getiren bir eylem"
+        }
+      }
+    ]
+  },
+  "4da11427": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un cadeau d'enfant pour la fête des mères / pères",
+          "de": "Nenne ein Kinder‑Geschenk zum Mutter‑ oder Vatertag",
+          "en": "A child’s gift for Mother’s/Father’s Day",
+          "es": "Un regalo infantil para el Día de la Madre / del Padre",
+          "it": "Un regalo fatto da un bambino per la festa della mamma / del papà",
+          "ja": "母の日／父の日の子どもからのプレゼント",
+          "ko": "어린이가 어버이날에 주는 선물",
+          "nl": "Een kindercadeau voor Moeder-/Vaderdag",
+          "pl": "Prezent od dziecka na Dzień Matki / Ojca",
+          "pt": "Um presente de criança para o Dia das Mães / Pais",
+          "ru": "Детский подарок на День матери / отца",
+          "tr": "Anneler / Babalar Günü çocuk hediyesi"
+        }
+      }
+    ]
+  },
+  "0f9d37f8": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une qualité inspirante",
+          "de": "Nenne eine inspirierende Eigenschaft",
+          "en": "Name an inspiring quality",
+          "es": "Cita una cualidad inspiradora",
+          "it": "Cita una qualità ispiratrice",
+          "ja": "励みになる長所を一つ挙げて",
+          "ko": "영감을 주는 장점 하나",
+          "nl": "Noem een inspirerende eigenschap",
+          "pl": "Podaj inspirującą cechę",
+          "pt": "Cite uma qualidade inspiradora",
+          "ru": "Назови вдохновляющее качество",
+          "tr": "İlham verici bir özellik"
+        }
+      }
+    ]
+  },
+  "9de635b0": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un talent qui ne sert à rien",
+          "de": "Nenne ein Talent, das zu nichts nützt",
+          "en": "Name a useless talent",
+          "es": "Cita un talento que no sirva para nada",
+          "it": "Cita un talento che non serve a nulla",
+          "ja": "役に立たない才能を一つ挙げて",
+          "ko": "쓸모없는 재능 하나",
+          "nl": "Noem een talent waar je niets aan hebt",
+          "pl": "Podaj talent do niczego",
+          "pt": "Cite um talento que não serve para nada",
+          "ru": "Назови бесполезный талант",
+          "tr": "Hiç işe yaramayan bir yetenek"
+        }
+      }
+    ]
+  },
+  "d0a35df7": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une source de motivation",
+          "de": "Nenne eine Quelle der Motivation",
+          "en": "Name a source of motivation",
+          "es": "Nombra una fuente de motivación",
+          "it": "Nomina una fonte di motivazione",
+          "ja": "モチベーションの源を一つ挙げて",
+          "ko": "동기부여 원천 하나",
+          "nl": "Noem een motivatiefactor",
+          "pl": "Nazwij źródło motywacji",
+          "pt": "Nomeie uma fonte de motivação",
+          "ru": "Назови источник мотивации",
+          "tr": "Bir motivasyon kaynağı"
+        }
+      }
+    ]
+  },
+  "b3afd183": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une phobie",
+          "de": "Nenne eine Phobie",
+          "en": "Name a phobia",
+          "es": "Cita una fobia",
+          "it": "Cita una fobia",
+          "ja": "恐怖症を一つ挙げて",
+          "ko": "공포증 하나 말하기",
+          "nl": "Noem een fobie",
+          "pl": "Podaj fobię",
+          "pt": "Cite uma fobia",
+          "ru": "Назови фобию",
+          "tr": "Bir fobi adı"
+        }
+      }
+    ]
+  },
+  "91a785a8": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une chanson d'hiver",
+          "de": "Nenne ein Winterlied",
+          "en": "Name a winter song",
+          "es": "Nombra una canción de invierno",
+          "it": "Nomina una canzone invernale",
+          "ja": "冬の歌を一つ挙げて",
+          "ko": "겨울 노래 하나 말하기",
+          "nl": "Noem een winterlied",
+          "pl": "Nazwij zimową piosenkę",
+          "pt": "Nomeie uma canção de inverno",
+          "ru": "Назови зимнюю песню",
+          "tr": "Bir kış şarkısı"
+        }
+      }
+    ]
+  },
+  "5dc46264": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une activité de retraité",
+          "de": "Nenne eine Rentneraktivität",
+          "en": "A retiree activity",
+          "es": "Una actividad de jubilado",
+          "it": "Un’attività da pensionato",
+          "ja": "高齢者の趣味",
+          "ko": "은퇴자들의 활동",
+          "nl": "Een gepensioneerdenactiviteit",
+          "pl": "Aktywność dla emeryta",
+          "pt": "Uma atividade de aposentado",
+          "ru": "Занятие пенсионера",
+          "tr": "Emekli aktivitesi"
+        }
+      }
+    ]
+  },
+  "117c64c6": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet à sauver en cas d'incendie",
+          "de": "Nenne einen Gegenstand, den man bei einem Brand retten würde",
+          "en": "An object to save in a fire",
+          "es": "Un objeto que salvar en caso de incendio",
+          "it": "Un oggetto da salvare in caso d’incendio",
+          "ja": "火事で真っ先に持ち出す物",
+          "ko": "화재 시 가장 먼저 챙길 물건",
+          "nl": "Een voorwerp om te redden bij brand",
+          "pl": "Przedmiot do uratowania w razie pożaru",
+          "pt": "Um objeto para salvar em caso de incêndio",
+          "ru": "Предмет, который следует спасти при пожаре",
+          "tr": "Yangında kurtarılacak bir eşya"
+        }
+      }
+    ]
+  },
+  "8a1ae43d": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un costume pour une soirée Halloween",
+          "de": "Nenne ein Kostüm für eine Halloween‑Party",
+          "en": "Name a Halloween costume",
+          "es": "Cita un disfraz para una fiesta de Halloween",
+          "it": "Cita un costume per una festa di Halloween",
+          "ja": "ハロウィンパーティーの仮装を一つ挙げて",
+          "ko": "할로윈 파티 의상 하나",
+          "nl": "Noem een Halloween-kostuum",
+          "pl": "Podaj kostium na imprezę halloweenową",
+          "pt": "Cite uma fantasia para festa de Halloween",
+          "ru": "Назови костюм для вечеринки на Хэллоуин",
+          "tr": "Cadılar Bayramı kostümü"
+        }
+      }
+    ]
+  },
+  "53d3f79f": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un jeu de société",
+          "de": "Nenne ein Brettspiel",
+          "en": "Name a board game",
+          "es": "Nombra un juego de mesa",
+          "it": "Nomina un gioco da tavolo",
+          "ja": "ボードゲームを一つ挙げて",
+          "ko": "보드게임 이름 하나",
+          "nl": "Noem een bordspel",
+          "pl": "Nazwij grę planszową",
+          "pt": "Nomeie um jogo de tabuleiro",
+          "ru": "Назови настольную игру",
+          "tr": "Bir kutu oyunu"
+        }
+      }
+    ]
+  },
+  "51b49c96": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un genre de concert",
+          "de": "Nenne eine Art von Konzert",
+          "en": "Name a type of concert",
+          "es": "Nombra un tipo de concierto",
+          "it": "Nomina un tipo di concerto",
+          "ja": "コンサートのジャンルを一つ挙げて",
+          "ko": "콘서트 장르 하나",
+          "nl": "Noem een soort concert",
+          "pl": "Nazwij rodzaj koncertu",
+          "pt": "Nomeie um tipo de show",
+          "ru": "Назови тип концерта",
+          "tr": "Bir konser türü"
+        }
+      }
+    ]
+  },
+  "8d7947b0": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une friandise populaire",
+          "de": "Nenne eine beliebte Süßigkeit",
+          "en": "Name a popular sweet",
+          "es": "Cita una golosina popular",
+          "it": "Cita una caramella popolare",
+          "ja": "人気のお菓子を一つ挙げて",
+          "ko": "대중적인 간식 하나",
+          "nl": "Noem een populaire lekkernij",
+          "pl": "Podaj popularny smakołyk",
+          "pt": "Cite um doce popular",
+          "ru": "Назови популярное лакомство",
+          "tr": "Popüler bir şekerleme"
+        }
+      }
+    ]
+  },
+  "56eae6e6": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un mélange de boissons complètement ridicules",
+          "de": "Nenne eine völlig verrückte Getränkemischung",
+          "en": "A totally ridiculous drink mix",
+          "es": "Una mezcla de bebidas completamente ridículas",
+          "it": "Un mix di bevande completamente ridicolo",
+          "ja": "完全にばかげたドリンクミックス",
+          "ko": "완전 황당한 음료 혼합",
+          "nl": "Een volkomen belachelijke drankmix",
+          "pl": "Całkowicie absurdalna mieszanka napojów",
+          "pt": "Uma mistura de bebidas completamente ridícula",
+          "ru": "Смесь напитков полностью нелепая",
+          "tr": "Saçma bir içecek karışımı"
+        }
+      }
+    ]
+  },
+  "44d0ced4": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une princesse Disney",
+          "de": "Nenne eine Disney‑Prinzessin",
+          "en": "Name a Disney princess",
+          "es": "Nombra una princesa de Disney",
+          "it": "Nomina una principessa Disney",
+          "ja": "ディズニープリンセスを一人挙げて",
+          "ko": "디즈니 공주 하나 말하기",
+          "nl": "Noem een Disney-prinses",
+          "pl": "Nazwij księżniczkę Disneya",
+          "pt": "Nomeie uma princesa da Disney",
+          "ru": "Назови принцессу Disney",
+          "tr": "Bir Disney prensesi"
+        }
+      }
+    ]
+  },
+  "ee19635c": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sport qui se joue avec une raquette",
+          "de": "Nenne eine Sportart, die mit Schläger gespielt wird",
+          "en": "A racket sport",
+          "es": "Un deporte que se juega con raqueta",
+          "it": "Uno sport che si gioca con la racchetta",
+          "ja": "ラケットを使うスポーツ",
+          "ko": "라켓 스포츠",
+          "nl": "Een sport die met een racket wordt gespeeld",
+          "pl": "Sport grany rakietą",
+          "pt": "Um esporte jogado com raquete",
+          "ru": "Вид спорта с ракеткой",
+          "tr": "Raketle oynanan bir spor"
+        }
+      }
+    ]
+  },
+  "c41c82fc": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un sport qui se joue avec un ballon",
+          "de": "Nenne eine Sportart, die mit Ball gespielt wird",
+          "en": "A ball sport",
+          "es": "Un deporte que se juega con balón",
+          "it": "Uno sport che si gioca con un pallone",
+          "ja": "ボールを使うスポーツ",
+          "ko": "공으로 하는 스포츠",
+          "nl": "Een sport die met een bal wordt gespeeld",
+          "pl": "Sport z piłką",
+          "pt": "Um esporte jogado com bola",
+          "ru": "Вид спорта с мячом",
+          "tr": "Topla oynanan bir spor"
+        }
+      }
+    ]
+  },
+  "9e932a82": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on mange à un barbecue",
+          "de": "Nenne etwas, das man beim Grillen isst",
+          "en": "Something you eat at a barbecue",
+          "es": "Algo que se come en una barbacoa",
+          "it": "Qualcosa che si mangia al barbecue",
+          "ja": "バーベキューで食べるもの",
+          "ko": "바비큐에서 먹는 것",
+          "nl": "Iets dat je op een barbecue eet",
+          "pl": "Coś, co je się na grillu",
+          "pt": "Algo que se come em um churrasco",
+          "ru": "То, что едят на барбекю",
+          "tr": "Barbeküde yenilen bir şey"
+        }
+      }
+    ]
+  },
+  "4e589b5c": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui casse l'ambiance d'une soirée",
+          "de": "Nenne etwas, das die Stimmung einer Party ruiniert",
+          "en": "Something that ruins a party mood",
+          "es": "Algo que arruina el ambiente de una fiesta",
+          "it": "Qualcosa che rovina l’atmosfera di una festa",
+          "ja": "パーティーの雰囲気を壊すもの",
+          "ko": "파티 분위기를 망치는 것",
+          "nl": "Iets dat de sfeer van een feestje verpest",
+          "pl": "Coś, co psuje atmosferę imprezy",
+          "pt": "Algo que acaba com o clima da festa",
+          "ru": "То, что портит атмосферу вечеринки",
+          "tr": "Parti havasını bozan bir şey"
+        }
+      }
+    ]
+  },
+  "6676f472": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on trouve dans un casino",
+          "de": "Nenne etwas, das man in einem Casino findet",
+          "en": "Something found in a casino",
+          "es": "Algo que se encuentra en un casino",
+          "it": "Qualcosa che si trova in un casinò",
+          "ja": "カジノにあるもの",
+          "ko": "카지노에서 볼 수 있는 것",
+          "nl": "Iets wat je in een casino vindt",
+          "pl": "Coś, co można znaleźć w kasynie",
+          "pt": "Algo que se encontra em um cassino",
+          "ru": "То, что можно найти в казино",
+          "tr": "Kumarhanede bulunan bir şey"
+        }
+      }
+    ]
+  },
+  "aedea92d": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on peut mettre sur un toast",
+          "de": "Nenne etwas, das man auf einen Toast streichen kann",
+          "en": "Something you can put on a toast",
+          "es": "Algo que se puede poner en una tostada",
+          "it": "Qualcosa che si può mettere su un toast",
+          "ja": "トーストに乗せられるもの",
+          "ko": "토스트 위에 올릴 수 있는 것",
+          "nl": "Iets wat je op een toast kunt doen",
+          "pl": "Coś, co można położyć na grzance",
+          "pt": "Algo que se pode colocar em uma torrada",
+          "ru": "То, что можно положить на тост",
+          "tr": "Tost üstüne sürülebilen bir şey"
+        }
+      }
+    ]
+  },
+  "38198c6e": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose à ne pas dire à un extraterrestre lors de la première communication",
+          "de": "Nenne etwas, das man einem Außerirdischen beim ersten Kontakt nicht sagen sollte",
+          "en": "Something not to say to an alien during first contact",
+          "es": "Algo que no se debe decir a un extraterrestre en el primer contacto",
+          "it": "Qualcosa da non dire a un extraterrestre al primo contatto",
+          "ja": "初接触の宇宙人に言ってはいけない言葉",
+          "ko": "외계인과 첫 소통 때 하면 안 될 말",
+          "nl": "Iets dat je niet tegen een buitenaards wezen moet zeggen bij het eerste contact",
+          "pl": "Czego nie mówić kosmicie przy pierwszym kontakcie",
+          "pt": "Algo que não se deve dizer a um extraterrestre no primeiro contato",
+          "ru": "Чего не стоит говорить инопланетянину при первом контакте",
+          "tr": "Uzaylıya ilk temas­-da söylenmemesi gereken bir şey"
+        }
+      }
+    ]
+  },
+  "cafd36ea": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose à faire à la plage",
+          "de": "Nenne etwas, das man am Strand tun kann",
+          "en": "Something to do at the beach",
+          "es": "Algo que hacer en la playa",
+          "it": "Qualcosa da fare in spiaggia",
+          "ja": "ビーチですること",
+          "ko": "해변에서 할 수 있는 일",
+          "nl": "Iets om op het strand te doen",
+          "pl": "Coś do zrobienia na plaży",
+          "pt": "Algo para fazer na praia",
+          "ru": "Занятие на пляже",
+          "tr": "Plajda yapılacak bir şey"
+        }
+      }
+    ]
+  },
+  "02119ad2": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un cadeau de dernière minute nul",
+          "de": "Nenne ein mieses Last‑Minute‑Geschenk",
+          "en": "A lame last‑minute gift",
+          "es": "Un regalo de última hora pésimo",
+          "it": "Un pessimo regalo last minute",
+          "ja": "しょぼい駆け込みプレゼント",
+          "ko": "허접한 막판 선물",
+          "nl": "Een waardeloos last-minute-cadeau",
+          "pl": "Beznadziejny prezent last minute",
+          "pt": "Um presente de última hora bem ruim",
+          "ru": "Паршивый подарок в последнюю минуту",
+          "tr": "Kötü bir son dakika hediyesi"
+        }
+      }
+    ]
+  },
+  "5da74eee": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Choses à ne pas mettre dans son nez",
+          "de": "Nenne Dinge, die man sich nicht in die Nase stecken sollte",
+          "en": "Things not to put in your nose",
+          "es": "Cosas que no se deben meter en la nariz",
+          "it": "Cose da non infilare nel naso",
+          "ja": "鼻に入れてはいけないもの",
+          "ko": "코에 넣지 말아야 할 것들",
+          "nl": "Dingen die je niet in je neus moet steken",
+          "pl": "Rzeczy, których nie wkłada się do nosa",
+          "pt": "Coisas que não se colocam no nariz",
+          "ru": "Вещи, которые нельзя засовывать в нос",
+          "tr": "Burna sokulmaması gereken şeyler"
+        }
+      }
+    ]
+  },
+  "0b54df58": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose qu'on fait pour un enterrement de vie de jeune fille/garçon",
+          "de": "Nenne etwas, das man bei einem Junggesell*innenabschied macht",
+          "en": "Something done for a bachelor/bachelorette party",
+          "es": "Algo que se hace para una despedida de soltera/o",
+          "it": "Una cosa che si fa per un addio al nubilato/celibato",
+          "ja": "独身最後のパーティーでやること",
+          "ko": "총각·처녀파티에서 하는 일",
+          "nl": "Iets wat je doet op een vrijgezellenfeest",
+          "pl": "Rzecz robiona na wieczorze panieńskim/kawalerskim",
+          "pt": "Algo que se faz em despedida de solteiro(a)",
+          "ru": "То, что делают на девичнике/мальчишнике",
+          "tr": "Bekârlığa veda etkinliği"
+        }
+      }
+    ]
+  },
+  "44ff6a86": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une façon nulle de mourir",
+          "de": "Nenne eine dämliche Art zu sterben",
+          "en": "A lame way to die",
+          "es": "Una forma tonta de morir",
+          "it": "Un modo stupido di morire",
+          "ja": "間抜けな死に方",
+          "ko": "허무한 사망 방식",
+          "nl": "Een stomme manier om te sterven",
+          "pl": "Bezsensowny sposób na śmierć",
+          "pt": "Uma forma idiota de morrer",
+          "ru": "Глупый способ умереть",
+          "tr": "Kötü bir ölüm şekli"
+        }
+      }
+    ]
+  },
+  "62452054": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une compétente utile lors d'une apocalypse zombie",
+          "de": "Nenne eine nützliche Fähigkeit bei einer Zombie‑Apokalypse",
+          "en": "A useful skill in a zombie apocalypse",
+          "es": "Una habilidad útil en un apocalipsis zombi",
+          "it": "Una competenza utile in un’apocalisse zombie",
+          "ja": "ゾンビ黙示録で役立つスキル",
+          "ko": "좀비 아포칼립스에서 유용한 능력",
+          "nl": "Een nuttige vaardigheid bij een zombie-apocalyps",
+          "pl": "Umiejętność przydatna podczas apokalipsy zombie",
+          "pt": "Uma habilidade útil em um apocalipse zumbi",
+          "ru": "Навык, полезный при зомби-апокалипсисе",
+          "tr": "Zombi kıyametinde faydalı bir beceri"
+        }
+      }
+    ]
+  },
+  "6cb37a32": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un objet à prendre en cas d'évacuation d'urgence",
+          "de": "Nenne einen Gegenstand für eine Not‑Evakuierung",
+          "en": "An object to take in an emergency evacuation",
+          "es": "Un objeto para llevar en caso de evacuación de emergencia",
+          "it": "Un oggetto da prendere in caso di evacuazione d’emergenza",
+          "ja": "緊急避難時に持つべき物",
+          "ko": "긴급 대피 시 챙길 물건",
+          "nl": "Een voorwerp om mee te nemen bij een nood­evacuatie",
+          "pl": "Przedmiot do zabrania przy ewakuacji",
+          "pt": "Um objeto para levar numa evacuação de emergência",
+          "ru": "Предмет, который нужно взять при срочной эвакуации",
+          "tr": "Acil tahliyede alınacak bir eşya"
+        }
+      }
+    ]
+  },
+  "54eed5ca": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Invente une application mobile inutile",
+          "de": "Erfinde eine nutzlose Handy‑App",
+          "en": "Invent a useless mobile app",
+          "es": "Inventa una aplicación móvil inútil",
+          "it": "Inventa un’app mobile inutile",
+          "ja": "役立たないスマホアプリを考えて",
+          "ko": "쓸모없는 모바일 앱 만들기",
+          "nl": "Bedenk een nutteloze mobiele app",
+          "pl": "Wymyśl bezużyteczną aplikację mobilną",
+          "pt": "Invente um aplicativo móvel inútil",
+          "ru": "Придумай бесполезное мобильное приложение",
+          "tr": "Gereksiz bir mobil uygulama uydur"
+        }
+      }
+    ]
+  },
+  "a2f74a32": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un humouriste",
+          "de": "Nenne einen Komiker",
+          "en": "Name a comedian",
+          "es": "Nombra un humorista",
+          "it": "Nomina un comico",
+          "ja": "コメディアンを一人挙げて",
+          "ko": "코미디언 한 명 말하기",
+          "nl": "Noem een cabaretier",
+          "pl": "Nazwij komika",
+          "pt": "Nomeie um humorista",
+          "ru": "Назови юмориста",
+          "tr": "Bir komedyen adı"
+        }
+      }
+    ]
+  },
+  "fc31a11a": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une technologie waouh pour les grands parents",
+          "de": "Nenne eine Wow‑Technologie für Großeltern",
+          "en": "Name a \"wow\" technology for grandparents",
+          "es": "Cita una tecnología asombrosa para los abuelos",
+          "it": "Cita una tecnologia wow per i nonni",
+          "ja": "祖父母を驚かせるハイテクを一つ挙げて",
+          "ko": "어르신들이 놀랄 ‘와우’ 기술",
+          "nl": "Noem een ‘wow’-technologie voor grootouders",
+          "pl": "Podaj technologię \"wow\" dla dziadków",
+          "pt": "Cite uma tecnologia “uau\" para os avós",
+          "ru": "Назови \"вау\"-технологию для бабушек и дедушек",
+          "tr": "Büyükanneleri şaşırtacak bir teknoloji"
+        }
+      }
+    ]
+  },
+  "1655d0d4": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un jeu d’enfants populaire",
+          "de": "Nenne ein beliebtes Kinderspiel",
+          "en": "A popular children’s game",
+          "es": "Un juego infantil popular",
+          "it": "Un gioco per bambini popolare",
+          "ja": "人気の子どもの遊び",
+          "ko": "인기 어린이 놀이",
+          "nl": "Een populair kinderspel",
+          "pl": "Popularna zabawa dla dzieci",
+          "pt": "Um jogo infantil popular",
+          "ru": "Популярная детская игра",
+          "tr": "Popüler bir çocuk oyunu"
+        }
+      }
+    ]
+  },
+  "7be68d60": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un jeu vidéo",
+          "de": "Nenne ein Videospiel",
+          "en": "A video game",
+          "es": "Un videojuego",
+          "it": "Un videogioco",
+          "ja": "ビデオゲームを一つ挙げて",
+          "ko": "비디오게임 하나 말하기",
+          "nl": "Een videospel",
+          "pl": "Gra wideo",
+          "pt": "Um videogame",
+          "ru": "Видеоигра",
+          "tr": "Bir video oyunu"
+        }
+      }
+    ]
+  },
+  "a892ead6": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une couleur",
+          "de": "Nenne eine Farbe",
+          "en": "Name a colour",
+          "es": "Cita un color",
+          "it": "Cita un colore",
+          "ja": "色を一つ挙げて",
+          "ko": "색깔 하나 말하기",
+          "nl": "Noem een kleur",
+          "pl": "Podaj kolor",
+          "pt": "Cite uma cor",
+          "ru": "Назови цвет",
+          "tr": "Bir renk"
+        }
+      }
+    ]
+  },
+  "fc2bfb9d": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un animal domestique",
+          "de": "Nenne ein Haustier",
+          "en": "A pet",
+          "es": "Un animal doméstico",
+          "it": "Un animale domestico",
+          "ja": "ペット動物を一つ挙げて",
+          "ko": "반려동물 한 마리",
+          "nl": "Een huisdier",
+          "pl": "Zwierzę domowe",
+          "pt": "Um animal doméstico",
+          "ru": "Домашнее животное",
+          "tr": "Bir evcil hayvan"
+        }
+      }
+    ]
+  },
+  "fc79ced6": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une série Netflix",
+          "de": "Nenne eine Netflix‑Serie",
+          "en": "A Netflix series",
+          "es": "Una serie de Netflix",
+          "it": "Una serie Netflix",
+          "ja": "Netflixシリーズを一つ挙げて",
+          "ko": "넷플릭스 시리즈 하나 말하기",
+          "nl": "Een Netflix-serie",
+          "pl": "Serial Netflix",
+          "pt": "Uma série da Netflix",
+          "ru": "Сериал Netflix",
+          "tr": "Bir Netflix dizisi"
+        }
+      }
+    ]
+  },
+  "3dd8f60c": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose d'utile pour vivre",
+          "de": "Nenne etwas, das zum Leben nützlich ist",
+          "en": "Something essential for living",
+          "es": "Algo útil para vivir",
+          "it": "Qualcosa di utile per vivere",
+          "ja": "生活に役立つもの",
+          "ko": "삶에 유용한 것",
+          "nl": "Iets nuttigs om van te leven",
+          "pl": "Coś potrzebnego do życia",
+          "pt": "Algo útil para viver",
+          "ru": "Что-то полезное для жизни",
+          "tr": "Yaşamak için faydalı bir şey"
+        }
+      }
+    ]
+  },
+  "1a8a7a9a": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose à ne pas dire quand on est influenceur",
+          "de": "Nenne etwas, das man als Influencer nicht sagen sollte",
+          "en": "Something not to say as an influencer",
+          "es": "Algo que no se debe decir cuando se es influencer",
+          "it": "Qualcosa da non dire quando si è influencer",
+          "ja": "インフルエンサーが言ってはいけないこと",
+          "ko": "인플루언서가 하면 안 되는 말",
+          "nl": "Iets dat je niet moet zeggen als influencer",
+          "pl": "Czego nie mówić, będąc influencerem",
+          "pt": "Algo que não se deve dizer quando se é influenciador",
+          "ru": "Фраза, которую не стоит говорить будучи инфлюенсером",
+          "tr": "Influencerken söylenmemesi gereken bir şey"
+        }
+      }
+    ]
+  },
+  "ac98ee8f": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose à ne pas faire à sa sœur",
+          "de": "Nenne etwas, das man seiner Schwester nicht antun sollte",
+          "en": "Something not to do to your sister",
+          "es": "Algo que no se debe hacer a tu hermana",
+          "it": "Qualcosa da non fare a tua sorella",
+          "ja": "妹にしてはいけないこと",
+          "ko": "여동생에게 하면 안 될 일",
+          "nl": "Iets wat je niet bij je zus moet doen",
+          "pl": "Czego nie robić siostrze",
+          "pt": "Algo que não se deve fazer à irmã",
+          "ru": "То, чего нельзя делать сестре",
+          "tr": "Kız kardeşe yapılmaması gereken bir şey"
+        }
+      }
+    ]
+  },
+  "b2873b51": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un personnage réel ou de fiction que tu ne voudrais jamais rencontrer",
+          "de": "Nenne eine reale oder fiktive Person, der du niemals begegnen möchtest",
+          "en": "A real or fictional person you’d never want to meet",
+          "es": "Un personaje real o de ficción que nunca querrías conocer",
+          "it": "Un personaggio reale o di finzione che non vorresti mai incontrare",
+          "ja": "絶対会いたくない実在／架空の人物",
+          "ko": "절대 만나고 싶지 않은 인물",
+          "nl": "Een echt of fictief personage dat je nooit wilt ontmoeten",
+          "pl": "Prawdziwa lub fikcyjna postać, której nigdy nie chcesz spotkać",
+          "pt": "Um personagem real ou fictício que você jamais gostaria de encontrar",
+          "ru": "Реальный или вымышленный персонаж, с которым ты не хотел бы встретиться",
+          "tr": "Asla tanışmak istemeyeceğin karakter"
+        }
+      }
+    ]
+  },
+  "f0e7ffdf": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un plat qu'on aime, mais qu'on regrette après avoir mangé",
+          "de": "Nenne ein Gericht, das man liebt, aber nach dem Essen bereut",
+          "en": "Name a dish you love but regret after eating",
+          "es": "Cita un plato que gusta pero que se lamenta después de comer",
+          "it": "Cita un piatto che amiamo ma rimpiangiamo dopo aver mangiato",
+          "ja": "食べた後に後悔するけど好きな料理",
+          "ko": "먹고 후회하지만 좋아하는 요리",
+          "nl": "Noem een gerecht dat je lekker vindt maar na het eten betreurt",
+          "pl": "Danie, które się uwielbia, ale żałuje po zjedzeniu",
+          "pt": "Cite um prato que gostamos mas nos arrependemos depois de comer",
+          "ru": "Назови блюдо, которое любят, но жалеют после еды",
+          "tr": "Sevilen ama pişman olunan bir yemek"
+        }
+      }
+    ]
+  },
+  "8eeb711b": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose que tu aimerais mieux faire",
+          "de": "Nenne etwas, das du gerne besser machen würdest",
+          "en": "Something you’d like to do better",
+          "es": "Algo que te gustaría hacer mejor",
+          "it": "Una cosa che vorresti saper fare meglio",
+          "ja": "もっと上手くなりたいこと",
+          "ko": "더 잘하고 싶은 것",
+          "nl": "Iets dat je beter zou willen doen",
+          "pl": "Rzecz, którą chciałbyś robić lepiej",
+          "pt": "Algo que você gostaria de fazer melhor",
+          "ru": "То, что ты хотел бы делать лучше",
+          "tr": "Daha iyi yapmak istediğin bir şey"
+        }
+      }
+    ]
+  },
+  "2725c564": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une bonne raison pour arrêter de fumer / boire",
+          "de": "Nenne einen guten Grund, mit dem Rauchen oder Trinken aufzuhören",
+          "en": "A good reason to quit smoking/drinking",
+          "es": "Una buena razón para dejar de fumar / beber",
+          "it": "Un buon motivo per smettere di fumare / bere",
+          "ja": "喫煙／飲酒をやめる正当な理由",
+          "ko": "흡연·음주를 끊어야 할 이유",
+          "nl": "Een goede reden om te stoppen met roken / drinken",
+          "pl": "Dobry powód, by rzucić palenie/picie",
+          "pt": "Um bom motivo para parar de fumar / beber",
+          "ru": "Веская причина бросить курить / пить",
+          "tr": "Sigara / alkolü bırakmak için iyi bir sebep"
+        }
+      }
+    ]
+  },
+  "aa3c956d": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une chose qui fait grincer des dents",
+          "de": "Nenne etwas, das Zähneknirschen auslöst",
+          "en": "Something that makes you cringe",
+          "es": "Algo que hace rechinar los dientes",
+          "it": "Qualcosa che fa digrignare i denti",
+          "ja": "歯ぎしりするほど嫌なもの",
+          "ko": "이갈게 만드는 것",
+          "nl": "Iets dat tanden doet knarsen",
+          "pl": "Coś, co powoduje zgrzytanie zębami",
+          "pt": "Algo que faz ranger os dentes",
+          "ru": "То, от чего скрипят зубами",
+          "tr": "Diş gıcırdatan bir şey"
+        }
+      }
+    ]
+  },
+  "dc76694d": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose que tu aimes dans ton pays",
+          "de": "Nenne etwas, das du an deinem Land magst",
+          "en": "Something you love about your country",
+          "es": "Algo que te gusta de tu país",
+          "it": "Qualcosa che ami del tuo paese",
+          "ja": "自分の国で好きなこと",
+          "ko": "내 나라에서 좋아하는 것",
+          "nl": "Iets dat je in je land leuk vindt",
+          "pl": "Coś, co lubisz w swoim kraju",
+          "pt": "Algo que você ama em seu país",
+          "ru": "Что-то, что тебе нравится в твоей стране",
+          "tr": "Ülken hakkında sevdiğin bir şey"
+        }
+      }
+    ]
+  },
+  "91e68863": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qui agace en voyage",
+          "de": "Nenne etwas, das auf Reisen nervt",
+          "en": "Something annoying while travelling",
+          "es": "Algo que molesta al viajar",
+          "it": "Qualcosa che irrita in viaggio",
+          "ja": "旅先でイラッとすること",
+          "ko": "여행 중 짜증 나는 것",
+          "nl": "Iets dat stoort tijdens het reizen",
+          "pl": "Coś, co irytuje w podróży",
+          "pt": "Algo que irrita em viagens",
+          "ru": "То, что раздражает в путешествии",
+          "tr": "Seyahatte sinir bozan bir şey"
+        }
+      }
+    ]
+  },
+  "0a99f306": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une façon de prendre soin de soi",
+          "de": "Nenne eine Art, sich um sich selbst zu kümmern",
+          "en": "A way to take care of yourself",
+          "es": "Una forma de cuidarse",
+          "it": "Un modo di prendersi cura di sé",
+          "ja": "セルフケアの方法",
+          "ko": "자기 관리 방법",
+          "nl": "Een manier om voor jezelf te zorgen",
+          "pl": "Sposób dbania o siebie",
+          "pt": "Uma forma de cuidar de si",
+          "ru": "Способ позаботиться о себе",
+          "tr": "Kendine bakma yöntemi"
+        }
+      }
+    ]
+  },
+  "b41691de": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose de réconfortant",
+          "de": "Nenne etwas Tröstliches",
+          "en": "Something comforting",
+          "es": "Algo reconfortante",
+          "it": "Qualcosa di confortante",
+          "ja": "心が落ち着くもの",
+          "ko": "위로가 되는 것",
+          "nl": "Iets troostends",
+          "pl": "Coś kojącego",
+          "pt": "Algo reconfortante",
+          "ru": "Что-то утешительное",
+          "tr": "Rahatlatıcı bir şey"
+        }
+      }
+    ]
+  },
+  "6094c19a": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Une matière à l'école",
+          "de": "Nenne ein Schulfach",
+          "en": "A school subject",
+          "es": "Una asignatura en la escuela",
+          "it": "Una materia scolastica",
+          "ja": "学校科目を一つ挙げて",
+          "ko": "학교 과목 하나",
+          "nl": "Een schoolvak",
+          "pl": "Przedmiot szkolny",
+          "pt": "Uma matéria na escola",
+          "ru": "Школьный предмет",
+          "tr": "Okuldaki bir ders"
+        }
+      }
+    ]
+  },
+  "bcd127fe": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu’on trouve dans une trousse d’école",
+          "de": "Nenne Dinge, die man in einem Federmäppchen findet",
+          "en": "Something found in a pencil case",
+          "es": "Cosas que se encuentran en un estuche escolar",
+          "it": "Cose che si trovano in un astuccio",
+          "ja": "筆箱に入っているもの",
+          "ko": "필통에 들어 있는 것들",
+          "nl": "Dingen die je in een etui vindt",
+          "pl": "Rzeczy znajdujące się w piórniku",
+          "pt": "Coisas que se encontram em um estojo escolar",
+          "ru": "Что можно найти в школьном пенале",
+          "tr": "Kalem kutusunda bulunan şeyler"
+        }
+      }
+    ]
+  },
+  "2ceafdf8": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque choses qu’on trouve dans une bibliothèque",
+          "de": "Nenne Dinge, die man in einer Bibliothek findet",
+          "en": "Something found in a library",
+          "es": "Cosas que se encuentran en una biblioteca",
+          "it": "Cose che si trovano in una biblioteca",
+          "ja": "図書館にあるもの",
+          "ko": "도서관에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een bibliotheek vindt",
+          "pl": "Rzeczy znajdujące się w bibliotece",
+          "pt": "Coisas que se encontram em uma biblioteca",
+          "ru": "Что можно найти в библиотеке",
+          "tr": "Kütüphanede bulunan şeyler"
+        }
+      }
+    ]
+  },
+  "06f4ae36": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque choses qu’on trouve dans une salle de classe",
+          "de": "Nenne Dinge, die man in einem Klassenzimmer findet",
+          "en": "Something found in a classroom",
+          "es": "Cosas que se encuentran en un aula",
+          "it": "Cose che si trovano in un’aula",
+          "ja": "教室にあるもの",
+          "ko": "교실에서 볼 수 있는 것들",
+          "nl": "Dingen die je in een klaslokaal vindt",
+          "pl": "Rzeczy znajdujące się w klasie",
+          "pt": "Coisas que se encontram em uma sala de aula",
+          "ru": "Что можно найти в классе",
+          "tr": "Sınıfta bulunan şeyler"
+        }
+      }
+    ]
+  },
+  "d23608de": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom en deux syllabes",
+          "de": "Nenne einen zweisilbigen Vornamen",
+          "en": "A two‑syllable first name",
+          "es": "Un nombre de dos sílabas",
+          "it": "Un nome di due sillabe",
+          "ja": "2音節の名前",
+          "ko": "두 음절 이름 하나",
+          "nl": "Een voornaam van twee lettergrepen",
+          "pl": "Imię dwusylabowe",
+          "pt": "Um nome com duas sílabas",
+          "ru": "Имя в два слога",
+          "tr": "İki heceli bir isim"
+        }
+      }
+    ]
+  },
+  "3cb36e96": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom sans \"E\"",
+          "de": "Nenne einen Vornamen ohne\"E\"",
+          "en": "A first name without the letter \"E\"",
+          "es": "Un nombre sin “E”",
+          "it": "Un nome senza \"E\"",
+          "ja": "Eを含まない名前",
+          "ko": "“E”가 없는 이름",
+          "nl": "Een voornaam zonder ‘E’",
+          "pl": "Imię bez litery \"E\"",
+          "pt": "Um nome sem a letra “E\"",
+          "ru": "Имя без \"E\"",
+          "tr": "“E\" harfi içermeyen bir isim"
+        }
+      }
+    ]
+  },
+  "21fad708": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom sans \"A\"",
+          "de": "Nenne einen Vornamen ohne \"A\"",
+          "en": "A first name without the letter \"A\"",
+          "es": "Un nombre sin “A”",
+          "it": "Un nome senza \"A\"",
+          "ja": "Aを含まない名前",
+          "ko": "“A”가 없는 이름",
+          "nl": "Een voornaam zonder ‘A’",
+          "pl": "Imię bez litery \"A\"",
+          "pt": "Um nome sem a letra “A\"",
+          "ru": "Имя без \"A\"",
+          "tr": "“A\" harfi içermeyen bir isim"
+        }
+      }
+    ]
+  },
+  "18805423": {
+    "category": "fun",
+    "options": [
+      {
+        "text": {
+          "fr": "Un prénom sans \"i\"",
+          "de": "Nenne einen Vornamen ohne\"i\"",
+          "en": "A first name without the letter \"i\"",
+          "es": "Un nombre sin “i”",
+          "it": "Un nome senza \"I\"",
+          "ja": "iを含まない名前",
+          "ko": "“i”가 없는 이름",
+          "nl": "Een voornaam zonder ‘i’",
+          "pl": "Imię bez litery \"i\"",
+          "pt": "Um nome sem a letra “i\"",
+          "ru": "Имя без \"i\"",
+          "tr": "“İ\" harfi içermeyen bir isim"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1577 @@
+{
+  "b6c7c0e7": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un pays",
+          "de": "Nenne ein Land",
+          "en": "Name a country",
+          "es": "Nombra un país",
+          "it": "Nomina un paese",
+          "ja": "国を一つ挙げて",
+          "ko": "나라 하나 말하기",
+          "nl": "Noem een land",
+          "pl": "Nazwij kraj",
+          "pt": "Nomeie um país",
+          "ru": "Назови страну",
+          "tr": "Bir ülke adı söyle"
+        }
+      }
+    ]
+  },
+  "f37aca6e": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un état des USA",
+          "de": "Nenne einen US‑Bundesstaat",
+          "en": "Name a U.S. state",
+          "es": "Cita un estado de EE. UU.",
+          "it": "Cita uno stato degli USA",
+          "ja": "アメリカの州を一つ挙げて",
+          "ko": "미국 주 하나 말하기",
+          "nl": "Noem een Amerikaanse staat",
+          "pl": "Podaj stan USA",
+          "pt": "Cite um estado dos EUA",
+          "ru": "Назови штат США",
+          "tr": "ABD'den bir eyalet söyle"
+        }
+      }
+    ]
+  },
+  "7c5be7b8": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un adjectif qualificatif",
+          "de": "Nenne ein Adjektiv",
+          "en": "Name a descriptive adjective",
+          "es": "Cita un adjetivo calificativo",
+          "it": "Cita un aggettivo qualificativo",
+          "ja": "性質を表す形容詞を一つ挙げて",
+          "ko": "성질을 나타내는 형용사 하나 말하기",
+          "nl": "Noem een kwalificerend bijvoeglijk naamwoord",
+          "pl": "Podaj przymiotnik jakościowy",
+          "pt": "Cite um adjetivo qualificativo",
+          "ru": "Назови качественное прилагательное",
+          "tr": "Niteleyici bir sıfat söyle"
+        }
+      }
+    ]
+  },
+  "6ea67aec": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une partie du corps humain",
+          "de": "Nenne einen Teil des menschlichen Körpers",
+          "en": "Name a part of the human body",
+          "es": "Cita una parte del cuerpo humano",
+          "it": "Cita una parte del corpo umano",
+          "ja": "人体の部位を一つ挙げて",
+          "ko": "인체 부위 하나 말하기",
+          "nl": "Noem een deel van het menselijk lichaam",
+          "pl": "Podaj część ciała człowieka",
+          "pt": "Cite uma parte do corpo humano",
+          "ru": "Назови часть человеческого тела",
+          "tr": "İnsan vücudundan bir parça söyle"
+        }
+      }
+    ]
+  },
+  "20400e37": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot de 4 lettres uniquement",
+          "de": "Nenne ein Wort mit genau 4 Buchstaben",
+          "en": "Name a word of exactly 4 letters",
+          "es": "Cita una palabra de solo 4 letras",
+          "it": "Cita una parola di sole 4 lettere",
+          "ja": "4文字だけの単語を一つ挙げて",
+          "ko": "4글자 단어 하나 말하기",
+          "nl": "Noem een woord van precies 4 letters",
+          "pl": "Podaj słowo z dokładnie 4 liter",
+          "pt": "Cite uma palavra com apenas 4 letras",
+          "ru": "Назови слово из 4 букв",
+          "tr": "Yalnızca 4 harfli bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "419113b9": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot de 3 lettres uniquement",
+          "de": "Nenne ein Wort mit genau 3 Buchstaben",
+          "en": "Name a word of exactly 3 letters",
+          "es": "Cita una palabra de solo 3 letras",
+          "it": "Cita una parola di sole 3 lettere",
+          "ja": "3文字だけの単語を一つ挙げて",
+          "ko": "3글자 단어 하나 말하기",
+          "nl": "Noem een woord van precies 3 letters",
+          "pl": "Podaj słowo z dokładnie 3 liter",
+          "pt": "Cite uma palavra com apenas 3 letras",
+          "ru": "Назови слово из 3 букв",
+          "tr": "Yalnızca 3 harfli bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "91461ab7": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une planète",
+          "de": "Nenne einen Planeten",
+          "en": "Name a planet",
+          "es": "Nombra un planeta",
+          "it": "Nomina un pianeta",
+          "ja": "惑星を一つ挙げて",
+          "ko": "행성 하나 말하기",
+          "nl": "Noem een planeet",
+          "pl": "Nazwij planetę",
+          "pt": "Nomeie um planeta",
+          "ru": "Назови планету",
+          "tr": "Bir gezegen adı söyle"
+        }
+      }
+    ]
+  },
+  "798cdc5e": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un monument mondial",
+          "de": "Nenne ein weltbekanntes Monument",
+          "en": "Name a world landmark",
+          "es": "Nombra un monumento mundial",
+          "it": "Nomina un monumento mondiale",
+          "ja": "世界的な建造物を一つ挙げて",
+          "ko": "세계적 기념물 하나 말하기",
+          "nl": "Noem een wereldberoemd monument",
+          "pl": "Nazwij światowy zabytek",
+          "pt": "Nomeie um monumento mundial",
+          "ru": "Назови мировой памятник",
+          "tr": "Dünya çapında bir anıt söyle"
+        }
+      }
+    ]
+  },
+  "b0e2e908": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un site classé au patrimoine de UNESCO",
+          "de": "Nenne eine UNESCO‑Welterbestätte",
+          "en": "Name a UNESCO World Heritage site",
+          "es": "Nombra un sitio declarado Patrimonio de la UNESCO",
+          "it": "Nomina un sito patrimonio UNESCO",
+          "ja": "ユネスコ世界遺産を一つ挙げて",
+          "ko": "유네스코 세계유산 한 곳 말하기",
+          "nl": "Noem een UNESCO-werelderfgoedlocatie",
+          "pl": "Nazwij obiekt z listy UNESCO",
+          "pt": "Nomeie um sítio classificado como Patrimônio da UNESCO",
+          "ru": "Назови объект Всемирного наследия ЮНЕСКО",
+          "tr": "UNESCO dünya mirası listesinde bir yer söyle"
+        }
+      }
+    ]
+  },
+  "e4b8c866": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une startup célèbre",
+          "de": "Nenne ein bekanntes Start‑up",
+          "en": "Name a famous startup",
+          "es": "Cita una startup famosa",
+          "it": "Cita una startup famosa",
+          "ja": "有名なスタートアップを一つ挙げて",
+          "ko": "유명한 스타트업 하나 말하기",
+          "nl": "Noem een bekende startup",
+          "pl": "Podaj znany startup",
+          "pt": "Cite uma startup famosa",
+          "ru": "Назови известный стартап",
+          "tr": "Ünlü bir start-up söyle"
+        }
+      }
+    ]
+  },
+  "0ade7da0": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un élément du tableau périodique",
+          "de": "Nenne ein Element des Periodensystems",
+          "en": "Name an element from the periodic table",
+          "es": "Nombra un elemento de la tabla periódica",
+          "it": "Nomina un elemento della tavola periodica",
+          "ja": "元素を一つ挙げて",
+          "ko": "주기율표 원소 하나 말하기",
+          "nl": "Noem een element uit het periodiek systeem",
+          "pl": "Nazwij pierwiastek z układu okresowego",
+          "pt": "Nomeie um elemento da tabela periódica",
+          "ru": "Назови элемент периодической таблицы",
+          "tr": "Periyodik tablodan bir element söyle"
+        }
+      }
+    ]
+  },
+  "0df7ff49": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une invention complexe",
+          "de": "Nenne eine komplexe Erfindung",
+          "en": "Name a complex invention",
+          "es": "Nombra un invento complejo",
+          "it": "Nomina un'invenzione complessa",
+          "ja": "複雑な発明品を一つ挙げて",
+          "ko": "복잡한 발명품 하나 말하기",
+          "nl": "Noem een complexe uitvinding",
+          "pl": "Nazwij skomplikowany wynalazek",
+          "pt": "Nomeie uma invenção complexa",
+          "ru": "Назови сложное изобретение",
+          "tr": "Karmaşık bir icat söyle"
+        }
+      }
+    ]
+  },
+  "3d8101f9": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une mer ou un océan",
+          "de": "Nenne ein Meer oder einen Ozean",
+          "en": "Name a sea or ocean",
+          "es": "Nombra un mar u océano",
+          "it": "Nomina un mare o un oceano",
+          "ja": "海または大洋を一つ挙げて",
+          "ko": "바다나 대양 하나 말하기",
+          "nl": "Noem een zee of oceaan",
+          "pl": "Nazwij morze lub ocean",
+          "pt": "Nomeie um mar ou oceano",
+          "ru": "Назови море или океан",
+          "tr": "Bir deniz ya da okyanus söyle"
+        }
+      }
+    ]
+  },
+  "d00925c0": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une maladie",
+          "de": "Nenne eine Krankheit",
+          "en": "Name a disease",
+          "es": "Nombra una enfermedad",
+          "it": "Nomina una malattia",
+          "ja": "病気を一つ挙げて",
+          "ko": "질병 하나 말하기",
+          "nl": "Noem een ziekte",
+          "pl": "Nazwij chorobę",
+          "pt": "Nomeie uma doença",
+          "ru": "Назови болезнь",
+          "tr": "Bir hastalık adı söyle"
+        }
+      }
+    ]
+  },
+  "a8a33587": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un slogan de marque",
+          "de": "Nenne einen Markenslogan",
+          "en": "Name a brand slogan",
+          "es": "Nombra un eslogan de marca",
+          "it": "Nomina uno slogan di marca",
+          "ja": "ブランドのスローガンを一つ挙げて",
+          "ko": "브랜드 슬로건 하나 말하기",
+          "nl": "Noem een merkslogan",
+          "pl": "Podaj slogan marki",
+          "pt": "Nomeie um slogan de marca",
+          "ru": "Назови рекламный слоган бренда",
+          "tr": "Bir marka sloganı söyle"
+        }
+      }
+    ]
+  },
+  "bbd8ec7d": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un inventeur",
+          "de": "Nenne einen Erfinder",
+          "en": "Name an inventor",
+          "es": "Nombra un inventor",
+          "it": "Nomina un inventore",
+          "ja": "発明家を一人挙げて",
+          "ko": "발명가 한 명 말하기",
+          "nl": "Noem een uitvinder",
+          "pl": "Nazwij wynalazcę",
+          "pt": "Nomeie um inventor",
+          "ru": "Назови изобретателя",
+          "tr": "Bir mucit adı söyle"
+        }
+      }
+    ]
+  },
+  "05ba593e": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une constellation",
+          "de": "Nenne ein Sternbild",
+          "en": "Name a constellation",
+          "es": "Nombra una constelación",
+          "it": "Nomina una costellazione",
+          "ja": "星座を一つ挙げて",
+          "ko": "별자리 하나 말하기",
+          "nl": "Noem een sterrenbeeld",
+          "pl": "Nazwij konstelację",
+          "pt": "Nomeie uma constelação",
+          "ru": "Назови созвездие",
+          "tr": "Bir takımyıldız adı söyle"
+        }
+      }
+    ]
+  },
+  "8b85f161": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un dieux de la mythologie grec",
+          "de": "Nenne einen Gott der griechischen Mythologie",
+          "en": "Name a Greek god",
+          "es": "Nombra un dios de la mitología griega",
+          "it": "Nomina un dio della mitologia greca",
+          "ja": "ギリシャ神話の神を一柱挙げて",
+          "ko": "그리스 신화의 신 한 명 말하기",
+          "nl": "Noem een god uit de Griekse mythologie",
+          "pl": "Nazwij boga z mitologii greckiej",
+          "pt": "Nomeie um deus da mitologia grega",
+          "ru": "Назови бога греческой мифологии",
+          "tr": "Yunan mitolojisinden bir tanrı söyle"
+        }
+      }
+    ]
+  },
+  "048751e5": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une religions du monde",
+          "de": "Nenne eine Weltreligion",
+          "en": "Name a world religion",
+          "es": "Nombra una religión del mundo",
+          "it": "Nomina una religione del mondo",
+          "ja": "世界の宗教を一つ挙げて",
+          "ko": "세계 종교 하나 말하기",
+          "nl": "Noem een wereldreligie",
+          "pl": "Nazwij religię świata",
+          "pt": "Nomeie uma religião do mundo",
+          "ru": "Назови мировую религию",
+          "tr": "Dünya dinlerinden birini söyle"
+        }
+      }
+    ]
+  },
+  "eff40c36": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un artiste",
+          "de": "Nenne einen Künstler",
+          "en": "Name an artist",
+          "es": "Nombra un artista",
+          "it": "Nomina un artista",
+          "ja": "アーティストを一人挙げて",
+          "ko": "예술가 한 명 말하기",
+          "nl": "Noem een artiest",
+          "pl": "Nazwij artystę",
+          "pt": "Nomeie um artista",
+          "ru": "Назови артиста",
+          "tr": "Bir sanatçı adı söyle"
+        }
+      }
+    ]
+  },
+  "be47b789": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un personnage de littérature",
+          "de": "Nenne eine Literaturfigur",
+          "en": "Name a literary character",
+          "es": "Nombra un personaje de la literatura",
+          "it": "Nomina un personaggio della letteratura",
+          "ja": "文学の登場人物を一人挙げて",
+          "ko": "문학 작품의 인물 한 명 말하기",
+          "nl": "Noem een literair personage",
+          "pl": "Nazwij postać literacką",
+          "pt": "Nomeie um personagem da literatura",
+          "ru": "Назови литературного персонажа",
+          "tr": "Edebiyattan bir karakter söyle"
+        }
+      }
+    ]
+  },
+  "203e15e1": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un personnage historique",
+          "de": "Nenne eine historische Persönlichkeit",
+          "en": "Name a historical figure",
+          "es": "Nombra un personaje histórico",
+          "it": "Nomina un personaggio storico",
+          "ja": "歴史上の人物を一人挙げて",
+          "ko": "역사적 인물 한 명 말하기",
+          "nl": "Noem een historische figuur",
+          "pl": "Nazwij postać historyczną",
+          "pt": "Nomeie um personagem histórico",
+          "ru": "Назови историческую личность",
+          "tr": "Tarihi bir figür söyle"
+        }
+      }
+    ]
+  },
+  "c0afc656": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexicale de \"Halloween\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Halloween\"",
+          "en": "Name a word related to \"Halloween\"",
+          "es": "Nombra una palabra del campo léxico de \"Halloween\"",
+          "it": "Nomina una parola del campo lessicale di \"Halloween\"",
+          "ja": "「ハロウィーン」に関連する語を一つ挙げて",
+          "ko": "“할로윈”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “Halloween\"",
+          "pl": "Podaj słowo z pola leksykalnego \"Halloween\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"Halloween\"",
+          "ru": "Назови слово из лексического поля \"Хэллоуин\"",
+          "tr": "“Cadılar Bayramı\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "ca157931": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexicale de \"Noël\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Weihnachten\"",
+          "en": "Name a word related to \"Christmas\"",
+          "es": "Nombra una palabra del campo léxico de \"Navidad\"",
+          "it": "Nomina una parola del campo lessicale di \"Natale\"",
+          "ja": "「クリスマス」に関連する語を一つ挙げて",
+          "ko": "“크리스마스”와 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “Kerst\"",
+          "pl": "Podaj słowo z pola leksykalnego \"Boże Narodzenie\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"Natal\"",
+          "ru": "Назови слово из лексического поля \"Рождество\"",
+          "tr": "“Noel\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "424cb387": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexical de \"été\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Sommer\"",
+          "en": "Name a word related to \"summer\"",
+          "es": "Nombra una palabra del campo léxico de \"verano\"",
+          "it": "Nomina una parola del campo lessicale di \"estate\"",
+          "ja": "「夏」に関連する語を一つ挙げて",
+          "ko": "“여름”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “zomer\"",
+          "pl": "Podaj słowo z pola leksykalnego \"lato\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"verão\"",
+          "ru": "Назови слово из лексического поля \"лето\"",
+          "tr": "“Yaz\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "5e0d4762": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexical de \"hiver\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Winter\"",
+          "en": "Name a word related to \"winter\"",
+          "es": "Nombra una palabra del campo léxico de \"invierno\"",
+          "it": "Nomina una parola del campo lessicale di \"inverno\"",
+          "ja": "「冬」に関連する語を一つ挙げて",
+          "ko": "“겨울”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “winter\"",
+          "pl": "Podaj słowo z pola leksykalnego \"zima\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"inverno\"",
+          "ru": "Назови слово из лексического поля \"зима\"",
+          "tr": "“Kış\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "644e9237": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexical de \"plage\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Strand\"",
+          "en": "Name a word related to \"beach\"",
+          "es": "Nombra una palabra del campo léxico de \"playa\"",
+          "it": "Nomina una parola del campo lessicale di \"spiaggia\"",
+          "ja": "「ビーチ」に関連する語を一つ挙げて",
+          "ko": "“해변”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “strand\"",
+          "pl": "Podaj słowo z pola leksykalnego \"plaża\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"praia\"",
+          "ru": "Назови слово из лексического поля \"пляж\"",
+          "tr": "“Plaj\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "6271cc18": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexical de \"montagne\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Berg\"",
+          "en": "Name a word related to \"mountain\"",
+          "es": "Nombra una palabra del campo léxico de \"montaña\"",
+          "it": "Nomina una parola del campo lessicale di \"montagna\"",
+          "ja": "「山」に関連する語を一つ挙げて",
+          "ko": "“산”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “berg\"",
+          "pl": "Podaj słowo z pola leksykalnego \"góry\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"montanha\"",
+          "ru": "Назови слово из лексического поля \"гора\"",
+          "tr": "“Dağ\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "3772a180": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexical de \"amour\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Liebe\"",
+          "en": "Name a word related to \"love\"",
+          "es": "Nombra una palabra del campo léxico de \"amor\"",
+          "it": "Nomina una parola del campo lessicale di \"amore\"",
+          "ja": "「愛」に関連する語を一つ挙げて",
+          "ko": "“사랑”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “liefde\"",
+          "pl": "Podaj słowo z pola leksykalnego \"miłość\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"amor\"",
+          "ru": "Назови слово из лексического поля \"любовь\"",
+          "tr": "“Aşk\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "354a1c6e": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexical de \"pirates\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Piraten\"",
+          "en": "Name a word related to \"pirates\"",
+          "es": "Nombra una palabra del campo léxico de \"piratas\"",
+          "it": "Nomina una parola del campo lessicale di \"pirati\"",
+          "ja": "「海賊」に関連する語を一つ挙げて",
+          "ko": "“해적”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “piraten\"",
+          "pl": "Podaj słowo z pola leksykalnego \"piraci\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"piratas\"",
+          "ru": "Назови слово из лексического поля \"пираты\"",
+          "tr": "“Korsan\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "06459328": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexical de \"espace\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Weltraum\"",
+          "en": "Name a word related to \"space\"",
+          "es": "Nombra una palabra del campo léxico de \"espacio\"",
+          "it": "Nomina una parola del campo lessicale di \"spazio\"",
+          "ja": "「宇宙」に関連する語を一つ挙げて",
+          "ko": "“우주”와 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “ruimte\"",
+          "pl": "Podaj słowo z pola leksykalnego \"kosmos\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"espaço\"",
+          "ru": "Назови слово из лексического поля \"космос\"",
+          "tr": "“Uzay\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "26cb6ea8": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexical de \"musique\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"Musik\"",
+          "en": "Name a word related to \"music\"",
+          "es": "Nombra una palabra del campo léxico de \"música\"",
+          "it": "Nomina una parola del campo lessicale di \"musica\"",
+          "ja": "「音楽」に関連する語を一つ挙げて",
+          "ko": "“음악”과 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “muziek\"",
+          "pl": "Podaj słowo z pola leksykalnego \"muzyka\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"música\"",
+          "ru": "Назови слово из лексического поля \"музыка\"",
+          "tr": "“Müzik\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "aff17744": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un mot du champ lexical de \"COVID\"",
+          "de": "Nenne ein Wort im Zusammenhang mit \"COVID\"",
+          "en": "Name a word related to \"COVID\"",
+          "es": "Nombra una palabra del campo léxico de \"COVID\"",
+          "it": "Nomina una parola del campo lessicale di \"COVID\"",
+          "ja": "「COVID」に関連する語を一つ挙げて",
+          "ko": "“코로나”와 관련된 단어 하나 말하기",
+          "nl": "Noem een woord uit het lexicon van “COVID\"",
+          "pl": "Podaj słowo z pola leksykalnego \"COVID\"",
+          "pt": "Nomeie uma palavra do campo lexical de \"COVID\"",
+          "ru": "Назови слово из лексического поля \"COVID\"",
+          "tr": "“COVID\" ile ilgili bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "853a1563": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une ville de France",
+          "de": "Nenne eine Stadt in Frankreich",
+          "en": "Name a city in France",
+          "es": "Nombra una ciudad de Francia",
+          "it": "Nomina una città della Francia",
+          "ja": "フランスの都市を一つ挙げて",
+          "ko": "프랑스 도시 하나 말하기",
+          "nl": "Noem een Franse stad",
+          "pl": "Nazwij miasto we Francji",
+          "pt": "Nomeie uma cidade da França",
+          "ru": "Назови город Франции",
+          "tr": "Fransa'dan bir şehir söyle"
+        }
+      }
+    ]
+  },
+  "bec84a20": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une ville d'Italie",
+          "de": "Nenne eine Stadt in Italien",
+          "en": "Name a city in Italy",
+          "es": "Nombra una ciudad de Italia",
+          "it": "Nomina una città dell’Italia",
+          "ja": "イタリアの都市を一つ挙げて",
+          "ko": "이탈리아 도시 하나 말하기",
+          "nl": "Noem een Italiaanse stad",
+          "pl": "Nazwij miasto we Włoszech",
+          "pt": "Nomeie uma cidade da Itália",
+          "ru": "Назови город Италии",
+          "tr": "İtalya'dan bir şehir söyle"
+        }
+      }
+    ]
+  },
+  "2659e229": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une ville de Espagne",
+          "de": "Nenne eine Stadt in Spanien",
+          "en": "Name a city in Spain",
+          "es": "Nombra una ciudad de España",
+          "it": "Nomina una città della Spagna",
+          "ja": "スペインの都市を一つ挙げて",
+          "ko": "스페인 도시 하나 말하기",
+          "nl": "Noem een Spaanse stad",
+          "pl": "Nazwij miasto w Hiszpanii",
+          "pt": "Nomeie uma cidade da Espanha",
+          "ru": "Назови город Испании",
+          "tr": "İspanya'dan bir şehir söyle"
+        }
+      }
+    ]
+  },
+  "b083e97f": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une ville des USA",
+          "de": "Nenne eine Stadt in den USA",
+          "en": "Name a city in the USA",
+          "es": "Nombra una ciudad de EE. UU.",
+          "it": "Nomina una città degli USA",
+          "ja": "アメリカの都市を一つ挙げて",
+          "ko": "미국 도시 하나 말하기",
+          "nl": "Noem een Amerikaanse stad",
+          "pl": "Nazwij miasto w USA",
+          "pt": "Nomeie uma cidade dos EUA",
+          "ru": "Назови город США",
+          "tr": "ABD'den bir şehir söyle"
+        }
+      }
+    ]
+  },
+  "17e31a97": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une ville des Russie",
+          "de": "Nenne eine Stadt in Russland",
+          "en": "Name a city in Russia",
+          "es": "Nombra una ciudad de Rusia",
+          "it": "Nomina una città della Russia",
+          "ja": "ロシアの都市を一つ挙げて",
+          "ko": "러시아 도시 하나 말하기",
+          "nl": "Noem een Russische stad",
+          "pl": "Nazwij miasto w Rosji",
+          "pt": "Nomeie uma cidade da Rússia",
+          "ru": "Назови город России",
+          "tr": "Rusya'dan bir şehir söyle"
+        }
+      }
+    ]
+  },
+  "5fa7206a": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un verbe du premier groupe",
+          "de": "Nenne ein Verb der ersten Gruppe",
+          "en": "Name a first‑conjugation French verb",
+          "es": "Cita un verbo del primer grupo",
+          "it": "Cita un verbo del primo gruppo",
+          "ja": "第1群の動詞を一つ挙げて",
+          "ko": "1군 규칙 동사 하나 말하기",
+          "nl": "Noem een werkwoord uit de eerste groep",
+          "pl": "Podaj czasownik z I grupy",
+          "pt": "Cite um verbo do primeiro grupo",
+          "ru": "Назови глагол первого спряжения",
+          "tr": "Birinci gruptan bir fiil söyle"
+        }
+      }
+    ]
+  },
+  "cffc240e": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un verbe du second groupe",
+          "de": "Nenne ein Verb der zweiten Gruppe",
+          "en": "Name a second‑conjugation French verb",
+          "es": "Cita un verbo del segundo grupo",
+          "it": "Cita un verbo del secondo gruppo",
+          "ja": "第2群の動詞を一つ挙げて",
+          "ko": "2군 규칙 동사 하나 말하기",
+          "nl": "Noem een werkwoord uit de tweede groep",
+          "pl": "Podaj czasownik z II grupy",
+          "pt": "Cite um verbo do segundo grupo",
+          "ru": "Назови глагол второго спряжения",
+          "tr": "İkinci gruptan bir fiil söyle"
+        }
+      }
+    ]
+  },
+  "f8588cc5": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un verbe du troisième groupe",
+          "de": "Nenne ein Verb der dritten Gruppe",
+          "en": "Name a third‑conjugation French verb",
+          "es": "Cita un verbo del tercer grupo",
+          "it": "Cita un verbo del terzo gruppo",
+          "ja": "第3群の動詞を一つ挙げて",
+          "ko": "3군 불규칙 동사 하나 말하기",
+          "nl": "Noem een werkwoord uit de derde groep",
+          "pl": "Podaj czasownik z III grupy",
+          "pt": "Cite um verbo do terceiro grupo",
+          "ru": "Назови глагол третьего спряжения",
+          "tr": "Üçüncü gruptan bir fiil söyle"
+        }
+      }
+    ]
+  },
+  "0f191f74": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme la capitale d'un pays",
+          "de": "Nenne die Hauptstadt eines Landes",
+          "en": "Name a country’s capital",
+          "es": "Nombra la capital de un país",
+          "it": "Nomina la capitale di un paese",
+          "ja": "国の首都を一つ挙げて",
+          "ko": "어느 나라 수도 하나 말하기",
+          "nl": "Noem een hoofdstad van een land",
+          "pl": "Nazwij stolicę jakiegoś kraju",
+          "pt": "Nomeie a capital de um país",
+          "ru": "Назови столицу какой-нибудь страны",
+          "tr": "Bir ülkenin başkentini söyle"
+        }
+      }
+    ]
+  },
+  "0bf75eb7": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un site / application social qui n’existe plus",
+          "de": "Nenne eine soziale Website oder App, die nicht mehr existiert",
+          "en": "Name a social website or app that no longer exists",
+          "es": "Nombra un sitio o aplicación social que ya no exista",
+          "it": "Nomina un sito / social app che non esiste più",
+          "ja": "既に存在しないソーシャルサイト／アプリを一つ挙げて",
+          "ko": "이제는 사라진 소셜 사이트/앱 하나 말하기",
+          "nl": "Noem een sociaal netwerk of app die niet meer bestaat",
+          "pl": "Nazwij portal lub aplikację społecznościową, która już nie istnieje",
+          "pt": "Nomeie um site ou aplicativo social que já não existe",
+          "ru": "Назови социальную сеть или приложение, которое больше не существует",
+          "tr": "Artık var olmayan bir sosyal ağ / uygulama söyle"
+        }
+      }
+    ]
+  },
+  "5fecc105": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une figure de style",
+          "de": "Nenne ein Stilmittel",
+          "en": "Name a figure of speech",
+          "es": "Nombra una figura retórica",
+          "it": "Nomina una figura retorica",
+          "ja": "修辞技法を一つ挙げて",
+          "ko": "수사법 하나 말하기",
+          "nl": "Noem een stijlfiguur",
+          "pl": "Nazwij środek stylistyczny",
+          "pt": "Nomeie uma figura de estilo",
+          "ru": "Назови художественный приём",
+          "tr": "Bir söz sanatı örneği söyle"
+        }
+      }
+    ]
+  },
+  "4d1072b8": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une forme géométrique",
+          "de": "Nenne eine geometrische Form",
+          "en": "Name a geometric shape",
+          "es": "Cita una forma geométrica",
+          "it": "Cita una forma geometrica",
+          "ja": "幾何学的な形を一つ挙げて",
+          "ko": "기하학적 형태 하나 말하기",
+          "nl": "Noem een geometrische vorm",
+          "pl": "Podaj figurę geometryczną",
+          "pt": "Cite uma forma geométrica",
+          "ru": "Назови геометрическую фигуру",
+          "tr": "Bir geometrik şekil söyle"
+        }
+      }
+    ]
+  },
+  "7a257107": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un film de science fiction",
+          "de": "Nenne einen Science‑Fiction‑Film",
+          "en": "Name a science‑fiction film",
+          "es": "Cita una película de ciencia ficción",
+          "it": "Cita un film di fantascienza",
+          "ja": "SF映画を一つ挙げて",
+          "ko": "SF 영화 하나 말하기",
+          "nl": "Noem een sciencefictionfilm",
+          "pl": "Podaj film science-fiction",
+          "pt": "Cite um filme de ficção científica",
+          "ru": "Назови научно-фантастический фильм",
+          "tr": "Bir bilim kurgu filmi söyle"
+        }
+      }
+    ]
+  },
+  "63da0662": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un film fantastique",
+          "de": "Nenne einen Fantasy‑Film",
+          "en": "Name a fantasy film",
+          "es": "Cita una película fantástica",
+          "it": "Cita un film fantasy",
+          "ja": "ファンタジー映画を一つ挙げて",
+          "ko": "판타지 영화 하나 말하기",
+          "nl": "Noem een fantasyfilm",
+          "pl": "Podaj film fantasy",
+          "pt": "Cite um filme de fantasia",
+          "ru": "Назови фэнтезийный фильм",
+          "tr": "Bir fantastik film söyle"
+        }
+      }
+    ]
+  },
+  "e9051612": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un film de comédie romantique",
+          "de": "Nenne eine romantische Komödie",
+          "en": "Name a romantic‑comedy film",
+          "es": "Cita una película de comedia romántica",
+          "it": "Cita un film di commedia romantica",
+          "ja": "ロマンティックコメディ映画を一つ挙げて",
+          "ko": "로맨틱 코미디 영화 하나 말하기",
+          "nl": "Noem een romantische komedie",
+          "pl": "Podaj film komedii romantycznej",
+          "pt": "Cite um filme de comédia romântica",
+          "ru": "Назови романтическую комедию",
+          "tr": "Bir romantik komedi filmi söyle"
+        }
+      }
+    ]
+  },
+  "b5fa490b": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un film biographiques (biopics)",
+          "de": "Nenne einen biografischen Film",
+          "en": "Name a biographical film (biopic)",
+          "es": "Cita una película biográfica (biopic)",
+          "it": "Cita un film biografico",
+          "ja": "伝記映画を一つ挙げて",
+          "ko": "전기 영화(바이오픽) 하나 말하기",
+          "nl": "Noem een biografische film",
+          "pl": "Podaj film biograficzny",
+          "pt": "Cite um filme biográfico",
+          "ru": "Назови биографический фильм",
+          "tr": "Bir biyografik film söyle"
+        }
+      }
+    ]
+  },
+  "f05a7e7e": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un mot commençant par \"psy-\"",
+          "de": "Nenne ein Wort, das mit \"psy‑\" beginnt",
+          "en": "Name a word beginning with \"psy‑\"",
+          "es": "Cita una palabra que empiece por \"psy‑\"",
+          "it": "Cita una parola che inizia con \"psy-\"",
+          "ja": "「psy-」で始まる単語を一つ挙げて",
+          "ko": "“psy-”로 시작하는 단어 하나 말하기",
+          "nl": "Noem een woord dat begint met “psy-\"",
+          "pl": "Podaj słowo zaczynające się od \"psy-\"",
+          "pt": "Cite uma palavra que começa com \"psy-\"",
+          "ru": "Назови слово, начинающееся на \"пси-\"",
+          "tr": "“psy-\" ile başlayan bir kelime söyle"
+        }
+      }
+    ]
+  },
+  "49c311ab": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une crypto-monnaie",
+          "de": "Nenne eine Kryptowährung",
+          "en": "Name a cryptocurrency",
+          "es": "Nombra una criptomoneda",
+          "it": "Nomina una criptovaluta",
+          "ja": "暗号通貨を一つ挙げて",
+          "ko": "암호화폐 하나 말하기",
+          "nl": "Noem een cryptomunt",
+          "pl": "Nazwij kryptowalutę",
+          "pt": "Nomeie uma criptomoeda",
+          "ru": "Назови криптовалюту",
+          "tr": "Bir kripto para adı söyle"
+        }
+      }
+    ]
+  },
+  "35717fcb": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un super-héros de l’univers Marvel",
+          "de": "Nenne einen Superhelden aus dem Marvel‑Universum",
+          "en": "Name a Marvel superhero",
+          "es": "Nombra un superhéroe del universo Marvel",
+          "it": "Nomina un supereroe dell’universo Marvel",
+          "ja": "マーベルのスーパーヒーローを一人挙げて",
+          "ko": "마블 세계관 슈퍼히어로 한 명 말하기",
+          "nl": "Noem een superheld uit het Marvel-universum",
+          "pl": "Nazwij superbohatera z uniwersum Marvela",
+          "pt": "Nomeie um super-herói do universo Marvel",
+          "ru": "Назови супергероя вселенной Marvel",
+          "tr": "Marvel evreninden bir süper kahraman söyle"
+        }
+      }
+    ]
+  },
+  "0d66eb5f": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose qu'on nous apprends pas à l'école",
+          "de": "Nenne etwas, das man in der Schule nicht lernt",
+          "en": "Something we are not taught at school",
+          "es": "Algo que no nos enseñan en la escuela",
+          "it": "Qualcosa che non ci insegnano a scuola",
+          "ja": "学校で教わらないことを一つ挙げて",
+          "ko": "학교에서 안 가르쳐주는 것 하나",
+          "nl": "Iets wat je niet op school leert",
+          "pl": "Coś, czego nie uczą w szkole",
+          "pt": "Algo que não nos ensinam na escola",
+          "ru": "Что-то, чему не учат в школе",
+          "tr": "Okulda öğretilmeyen bir şey söyle"
+        }
+      }
+    ]
+  },
+  "035acf18": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un partie politique",
+          "de": "Nenne eine politische Partei",
+          "en": "Name a political party",
+          "es": "Nombra un partido político",
+          "it": "Nomina un partito politico",
+          "ja": "政党を一つ挙げて",
+          "ko": "정당 하나 말하기",
+          "nl": "Noem een politieke partij",
+          "pl": "Nazwij partię polityczną",
+          "pt": "Nomeie um partido político",
+          "ru": "Назови политическую партию",
+          "tr": "Bir siyasi parti adı söyle"
+        }
+      }
+    ]
+  },
+  "be8e140c": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un sens du corps humain",
+          "de": "Nenne einen menschlichen Sinn",
+          "en": "Name one of the human senses",
+          "es": "Cita un sentido del cuerpo humano",
+          "it": "Cita un senso del corpo umano",
+          "ja": "五感の一つを挙げて",
+          "ko": "오감 중 하나 말하기",
+          "nl": "Noem een menselijk zintuig",
+          "pl": "Podaj zmysł człowieka",
+          "pt": "Cite um sentido do corpo humano",
+          "ru": "Назови орган чувств",
+          "tr": "İnsan duyularından birini söyle"
+        }
+      }
+    ]
+  },
+  "331d474d": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un style vestimentaire",
+          "de": "Nenne einen Kleidungsstil",
+          "en": "Name a clothing style",
+          "es": "Cita un estilo de vestimenta",
+          "it": "Cita uno stile di abbigliamento",
+          "ja": "ファッションスタイルを一つ挙げて",
+          "ko": "패션 스타일 하나 말하기",
+          "nl": "Noem een kledingstijl",
+          "pl": "Podaj styl ubioru",
+          "pt": "Cite um estilo de vestuário",
+          "ru": "Назови стиль одежды",
+          "tr": "Bir giyim tarzı söyle"
+        }
+      }
+    ]
+  },
+  "e4a02d79": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une drogue",
+          "de": "Nenne eine Droge",
+          "en": "Name a drug",
+          "es": "Cita una droga",
+          "it": "Cita una droga",
+          "ja": "薬物を一つ挙げて",
+          "ko": "마약류 하나 말하기",
+          "nl": "Noem een drug",
+          "pl": "Podaj narkotyk",
+          "pt": "Cite uma droga",
+          "ru": "Назови наркотик",
+          "tr": "Bir uyuşturucu madde söyle"
+        }
+      }
+    ]
+  },
+  "962820b4": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Un style de musique",
+          "de": "Nenne einen Musikstil",
+          "en": "Name a music genre",
+          "es": "Un estilo de música",
+          "it": "Uno stile musicale",
+          "ja": "音楽ジャンルを一つ挙げて",
+          "ko": "음악 장르 하나 말하기",
+          "nl": "Noem een muziekstijl",
+          "pl": "Podaj gatunek muzyczny",
+          "pt": "Um estilo de música",
+          "ru": "Музыкальный стиль",
+          "tr": "Bir müzik tarzı söyle"
+        }
+      }
+    ]
+  },
+  "69c16184": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un podcast",
+          "de": "Nenne einen Podcast",
+          "en": "Name a podcast",
+          "es": "Nombra un pódcast",
+          "it": "Nomina un podcast",
+          "ja": "ポッドキャストを一つ挙げて",
+          "ko": "팟캐스트 하나 말하기",
+          "nl": "Noem een podcast",
+          "pl": "Nazwij podcast",
+          "pt": "Nomeie um podcast",
+          "ru": "Назови подкаст",
+          "tr": "Bir podcast adı söyle"
+        }
+      }
+    ]
+  },
+  "1e816269": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Une musique Queen",
+          "de": "Nenne ein Lied von Queen",
+          "en": "Name a Queen song",
+          "es": "Una canción de Queen",
+          "it": "Una canzone dei Queen",
+          "ja": "クイーンの曲を一つ挙げて",
+          "ko": "퀸(Queen) 노래 하나 말하기",
+          "nl": "Noem een nummer van Queen",
+          "pl": "Podaj utwór Queen",
+          "pt": "Uma música do Queen",
+          "ru": "Песня группы Queen",
+          "tr": "Queen grubundan bir şarkı söyle"
+        }
+      }
+    ]
+  },
+  "f944ba63": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une fête religieuse",
+          "de": "Nenne ein religiöses Fest",
+          "en": "Name a religious holiday",
+          "es": "Nombra una fiesta religiosa",
+          "it": "Nomina una festa religiosa",
+          "ja": "宗教的な祭日を一つ挙げて",
+          "ko": "종교적 축일 하나 말하기",
+          "nl": "Noem een religieus feest",
+          "pl": "Nazwij święto religijne",
+          "pt": "Nomeie uma festa religiosa",
+          "ru": "Назови религиозный праздник",
+          "tr": "Dini bir bayram söyle"
+        }
+      }
+    ]
+  },
+  "a7d86e20": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Quelque chose d'indémodable",
+          "de": "Nenne etwas Zeitloses",
+          "en": "Something timeless",
+          "es": "Algo que nunca pasa de moda",
+          "it": "Qualcosa di intramontabile",
+          "ja": "流行遅れにならないものを一つ挙げて",
+          "ko": "절대 유행 안 타는 것 하나",
+          "nl": "Iets tijdloos",
+          "pl": "Coś ponadczasowego",
+          "pt": "Algo que nunca sai de moda",
+          "ru": "Что-то, что никогда не выходит из моды",
+          "tr": "Modası geçmeyen bir şey söyle"
+        }
+      }
+    ]
+  },
+  "c10949c8": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une phrase avec 5 mots uniquement",
+          "de": "Nenne einen Satz mit genau fünf Wörtern",
+          "en": "Write a sentence of exactly 5 words",
+          "es": "Cita una frase de solo 5 palabras",
+          "it": "Cita una frase di sole 5 parole",
+          "ja": "5語だけのフレーズを挙げて",
+          "ko": "5단어 문장 하나 말하기",
+          "nl": "Noem een zin van precies 5 woorden",
+          "pl": "Podaj zdanie z dokładnie 5 słów",
+          "pt": "Cite uma frase com exatamente 5 palavras",
+          "ru": "Приведи фразу из пяти слов",
+          "tr": "Yalnızca 5 kelimelik bir cümle söyle"
+        }
+      }
+    ]
+  },
+  "830e130c": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme le titre d'un poésie",
+          "de": "Nenne den Titel eines Gedichts",
+          "en": "Name the title of a poem",
+          "es": "Nombra el título de un poema",
+          "it": "Nomina il titolo di una poesia",
+          "ja": "詩のタイトルを一つ挙げて",
+          "ko": "시 제목 하나 말하기",
+          "nl": "Noem de titel van een gedicht",
+          "pl": "Podaj tytuł wiersza",
+          "pt": "Nomeie o título de um poema",
+          "ru": "Назови название стихотворения",
+          "tr": "Bir şiir başlığı söyle"
+        }
+      }
+    ]
+  },
+  "8d9f7916": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une superstitions populaire",
+          "de": "Nenne einen verbreiteten Aberglauben",
+          "en": "Name a common superstition",
+          "es": "Nombra una superstición popular",
+          "it": "Nomina una superstizione popolare",
+          "ja": "一般的な迷信を一つ挙げて",
+          "ko": "대중적인 미신 하나 말하기",
+          "nl": "Noem een populair bijgeloof",
+          "pl": "Nazwij popularny przesąd",
+          "pt": "Nomeie uma superstição popular",
+          "ru": "Назови популярное суеверие",
+          "tr": "Popüler bir batıl inanç söyle"
+        }
+      }
+    ]
+  },
+  "d0e2842f": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite un systèmes politiques / formes de gouvernements du monde (démocratie…)",
+          "de": "Nenne eine Regierungsform der Welt",
+          "en": "Name a political system or form of government",
+          "es": "Cita un sistema político / forma de gobierno del mundo (democracia…)",
+          "it": "Cita un sistema politico / forma di governo del mondo",
+          "ja": "政治体制／統治形態を一つ挙げて",
+          "ko": "정치 체제/정부 형태 하나 말하기",
+          "nl": "Noem een politiek systeem of regeringsvorm",
+          "pl": "Podaj system polityczny lub formę rządów",
+          "pt": "Cite um sistema político ou forma de governo",
+          "ru": "Назови политическую систему или форму правления",
+          "tr": "Dünya üzerindeki bir yönetim sistemi söyle"
+        }
+      }
+    ]
+  },
+  "54e83bae": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une fête traditionnelle",
+          "de": "Nenne ein traditionelles Fest",
+          "en": "Name a traditional festival",
+          "es": "Nombra una fiesta tradicional",
+          "it": "Nomina una festa tradizionale",
+          "ja": "伝統的な祭りを一つ挙げて",
+          "ko": "전통 축제 하나 말하기",
+          "nl": "Noem een traditioneel feest",
+          "pl": "Nazwij święto tradycyjne",
+          "pt": "Nomeie uma festa tradicional",
+          "ru": "Назови традиционный праздник",
+          "tr": "Geleneksel bir bayram söyle"
+        }
+      }
+    ]
+  },
+  "6d6841eb": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Cite une période de l'histoire (Préhistoire...)",
+          "de": "Nenne eine Geschichtsepoche",
+          "en": "Name a period of history",
+          "es": "Cita un período de la historia (Prehistoria…)",
+          "it": "Cita un periodo storico",
+          "ja": "歴史の時代区分を一つ挙げて",
+          "ko": "역사 시대 구분 하나 말하기",
+          "nl": "Noem een historische periode",
+          "pl": "Podaj okres historyczny",
+          "pt": "Cite um período da história",
+          "ru": "Назови исторический период",
+          "tr": "Tarihten bir dönem söyle"
+        }
+      }
+    ]
+  },
+  "5229b4a1": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un plat de la gastronomie Française",
+          "de": "Nenne ein Gericht der französischen Küche",
+          "en": "Name a French dish",
+          "es": "Nombra un plato de la gastronomía francesa",
+          "it": "Nomina un piatto della gastronomia francese",
+          "ja": "フランス料理を一つ挙げて",
+          "ko": "프랑스 요리 하나 말하기",
+          "nl": "Noem een gerecht uit de Franse keuken",
+          "pl": "Nazwij danie kuchni francuskiej",
+          "pt": "Nomeie um prato da gastronomia francesa",
+          "ru": "Назови блюдо французской кухни",
+          "tr": "Fransız mutfağından bir yemek söyle"
+        }
+      }
+    ]
+  },
+  "678c1498": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un plat de la gastronomie Américaine",
+          "de": "Nenne ein Gericht der amerikanischen Küche",
+          "en": "Name an American dish",
+          "es": "Nombra un plato de la gastronomía estadounidense",
+          "it": "Nomina un piatto della gastronomia americana",
+          "ja": "アメリカ料理を一つ挙げて",
+          "ko": "미국 요리 하나 말하기",
+          "nl": "Noem een gerecht uit de Amerikaanse keuken",
+          "pl": "Nazwij danie kuchni amerykańskiej",
+          "pt": "Nomeie um prato da gastronomia americana",
+          "ru": "Назови блюдо американской кухни",
+          "tr": "Amerikan mutfağından bir yemek söyle"
+        }
+      }
+    ]
+  },
+  "98e36449": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un plat de la gastronomie Italienne",
+          "de": "Nenne ein Gericht der italienischen Küche",
+          "en": "Name an Italian dish",
+          "es": "Nombra un plato de la gastronomía italiana",
+          "it": "Nomina un piatto della gastronomia italiana",
+          "ja": "イタリア料理を一つ挙げて",
+          "ko": "이탈리아 요리 하나 말하기",
+          "nl": "Noem een gerecht uit de Italiaanse keuken",
+          "pl": "Nazwij danie kuchni włoskiej",
+          "pt": "Nomeie um prato da gastronomia italiana",
+          "ru": "Назови блюдо итальянской кухни",
+          "tr": "İtalyan mutfağından bir yemek söyle"
+        }
+      }
+    ]
+  },
+  "cf42b8dc": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme un plat de la gastronomie Asiatique",
+          "de": "Nenne ein Gericht der asiatischen Küche",
+          "en": "Name an Asian dish",
+          "es": "Nombra un plato de la gastronomía asiática",
+          "it": "Nomina un piatto della gastronomia asiatica",
+          "ja": "アジア料理を一つ挙げて",
+          "ko": "아시아 요리 하나 말하기",
+          "nl": "Noem een gerecht uit de Aziatische keuken",
+          "pl": "Nazwij danie kuchni azjatyckiej",
+          "pt": "Nomeie um prato da gastronomia asiática",
+          "ru": "Назови блюдо азиатской кухни",
+          "tr": "Asya mutfağından bir yemek söyle"
+        }
+      }
+    ]
+  },
+  "3a32665b": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Nomme une valeur humaine importante",
+          "de": "Nenne einen wichtigen menschlichen Wert",
+          "en": "Name an important human value",
+          "es": "Nombra un valor humano importante",
+          "it": "Nomina un valore umano importante",
+          "ja": "重要な人間的価値を一つ挙げて",
+          "ko": "중요한 인간적 가치 하나 말하기",
+          "nl": "Noem een belangrijke menselijke waarde",
+          "pl": "Nazwij ważną wartość ludzką",
+          "pt": "Nomeie um valor humano importante",
+          "ru": "Назови важную человеческую ценность",
+          "tr": "Önemli bir insani değer söyle"
+        }
+      }
+    ]
+  },
+  "d02e38c2": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Un événement historique important dont on ne voudrait pas être témoin",
+          "de": "Nenne ein bedeutendes historisches Ereignis, bei dem man nicht Zeuge sein möchte",
+          "en": "An important historical event one would not want to witness",
+          "es": "Un acontecimiento histórico importante del que no querríamos ser testigos",
+          "it": "Un evento storico importante di cui non vorremmo essere testimoni",
+          "ja": "目撃したくない重大な歴史的出来事を一つ挙げて",
+          "ko": "목격하고 싶지 않은 역사적 사건 하나",
+          "nl": "Een historische gebeurtenis waarbij je niet aanwezig had willen zijn",
+          "pl": "Wydarzenie historyczne, którego nie chciałbyś być świadkiem",
+          "pt": "Um evento histórico importante de que não gostaríamos de ser testemunhas",
+          "ru": "Историческое событие, свидетелем которого не хотелось бы стать",
+          "tr": "Şahit olmak istemeyeceğin önemli bir tarihî olay söyle"
+        }
+      }
+    ]
+  },
+  "ada2d8d2": {
+    "category": "glitch",
+    "options": [
+      {
+        "text": {
+          "fr": "Un trait de personnalité admirable",
+          "de": "Nenne eine bewundernswerte Charaktereigenschaft",
+          "en": "An admirable personality trait",
+          "es": "Un rasgo de personalidad admirable",
+          "it": "Un tratto di personalità ammirevole",
+          "ja": "賞賛すべき性格特性を一つ挙げて",
+          "ko": "칭찬할 만한 성격 특성 하나 말하기",
+          "nl": "Een bewonderenswaardige karaktereigenschap",
+          "pl": "Godna podziwu cecha osobowości",
+          "pt": "Um traço de personalidade admirável",
+          "ru": "Восхитительная черта характера",
+          "tr": "Hayranlık uyandıran bir kişilik özelliği söyle"
+        }
+      }
+    ]
+  }
+}

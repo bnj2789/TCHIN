@@ -1,0 +1,65 @@
+name: tchin
+description: "Think fast, tap faster – don't lose inspiration !"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+3
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  lottie: ^2.7.0 
+  audioplayers: ^5.2.1
+  reorderable_grid_view: ^2.2.8
+  shared_preferences: ^2.2.2
+  url_launcher: ^6.2.5
+
+  purchases_flutter: ^9.0.0   # RevenueCat
+  flutter_localizations:     # AppLocalizations generation
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.4
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/countdown.json
+    - assets/blablabla/
+    - assets/illustrations/
+    - assets/sound/
+    - assets/icons/
+    - assets/bdd/
+
+  fonts:
+    - family: FontBNJ
+      fonts:
+        - asset: assets/fonts/font-bnj-bold.otf
+          weight: 700
+    - family: FeastOfFlesh
+      fonts:
+        - asset: assets/fonts/fofbb_reg.ttf
+        - asset: assets/fonts/fofbb_ital.ttf
+
+flutter_launcher_icons:
+  image_path: assets/icons/icon.png
+  android: true
+  ios: true
+  remove_alpha_ios: true
+
+
+flutter_native_splash:
+  color: "#000000"            # fallback background if gradient fails
+  image: assets/icons/splash.png
+  android: true
+  ios: true
