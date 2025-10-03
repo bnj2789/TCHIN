@@ -28,8 +28,7 @@
   "catAdd": "Add",
   "catAddSub": "Add a new category",
   "catMyCards": "My Cards",
-  "catMyCardsSub": "Your personal decks"
-  ,
+
   "prepay1Title": "6.9 Seconds to not panic",
   "prepay1Sub": "Who will be the last inspired one ?!",
   "prepay2Title": "1000+ questions \n9 categories",
@@ -80,6 +79,7 @@
   "appYadebaSub": "1600 Adult Debates & Discussion ideas",
   "appRoyalTruth": "Royal Truth or Dare",
   "appRoyalTruthSub": "The first Truth or Dare battle royal game",
+  "appLieTimeSub": "1 Secret Word, 1 IMPOSTOR, Spot the liar ! (3-12 players)",
   "app69Secs": "6.9 Seconds",
   "app69SecsSub": "Same game. Different vibe.",
   "popupEmptyTitle": "Add your questions to play with your own cards!",

@@ -5,7 +5,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter/services.dart';
 
 /// ---------------------------------------------------------------------------
-///  ADD‑QUESTION SHEET  – glassmorphic card pops from bottom
+///  ADD‑QUESTION SHEET  – glassmorphic card pops from bottom
 /// ---------------------------------------------------------------------------
 class AddQuestionPage extends StatefulWidget {
   const AddQuestionPage({super.key});
@@ -16,7 +16,6 @@ class AddQuestionPage extends StatefulWidget {
 
 class _AddQuestionPageState extends State<AddQuestionPage> {
   final List<String> _questions = [];
-
   final _controller = TextEditingController();
 
   @override
@@ -42,6 +41,87 @@ class _AddQuestionPageState extends State<AddQuestionPage> {
     super.dispose();
   }
 
+  // Ajout inline (champ + bouton "+")
+  void _handleInlineAdd() {
+    final text = _controller.text.trim();
+    if (text.isEmpty) return;
+    setState(() {
+      _questions.add(text);
+      _controller.clear();
+    });
+    _saveQuestions();
+    HapticFeedback.selectionClick();
+  }
+
+  Widget _buildInlineComposerBar() {
+    final t = AppLocalizations.of(context)!;
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(12, 0, 12, 12),
+      child: Row(
+        children: [
+          Expanded(
+            child: SizedBox(
+              height: 60,
+              child: TextField(
+                controller: _controller,
+                autofocus: true,
+                style: const TextStyle(color: Colors.white, fontSize: 18),
+                minLines: 1,
+                maxLines: 1,
+                keyboardType: TextInputType.text,
+                textInputAction: TextInputAction.done,
+                inputFormatters: [
+                  FilteringTextInputFormatter.deny(RegExp(r'\n')),
+                ],
+                maxLength: 69,
+                buildCounter: (_, {required currentLength, required isFocused, required maxLength}) => null,
+                decoration: InputDecoration(
+                  hintText: t.addQuestionHint, // "Enter your question"
+                  hintStyle: const TextStyle(color: Color.fromARGB(185, 255, 255, 255)),
+                  contentPadding: const EdgeInsets.symmetric(horizontal: 26, vertical: 20),
+                  filled: true,
+                  fillColor: Colors.black,
+                  enabledBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(999),
+                    borderSide: BorderSide(color: Colors.white.withOpacity(0.25), width: 1),
+                  ),
+                  focusedBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.all(Radius.circular(999)),
+                    borderSide: const BorderSide(color: Color.fromARGB(210, 255, 255, 255), width: 1.5),
+                  ),
+                ),
+                onSubmitted: (_) => _handleInlineAdd(),
+              ),
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.only(left: 10),
+            child: SizedBox(
+              width: 60,
+              height: 60,
+              child: OutlinedButton(
+                style: OutlinedButton.styleFrom(
+                  foregroundColor: Colors.white,
+                  backgroundColor: Colors.black,
+                  side: const BorderSide(color: Colors.white),
+                  shape: const CircleBorder(),
+                  minimumSize: const Size(60, 60),
+                  fixedSize: const Size(60, 60),
+                  padding: EdgeInsets.zero,
+                ),
+                onPressed: _handleInlineAdd,
+                child: const Text(
+                  '+',
+                  style: TextStyle(fontSize: 26, fontWeight: FontWeight.w700),
+                ),
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
   // ---------------------------------------------------------------------------
   //                                UI
   // ---------------------------------------------------------------------------
@@ -51,6 +131,8 @@ class _AddQuestionPageState extends State<AddQuestionPage> {
 
     return Scaffold(
       backgroundColor: Colors.transparent,
+      // Garde la hauteur de la modale fixe quand le clavier apparaît
+      resizeToAvoidBottomInset: false,
       body: Stack(
         children: [
           // --- TAP OUTSIDE TO CLOSE ---
@@ -61,11 +143,11 @@ class _AddQuestionPageState extends State<AddQuestionPage> {
             ),
           ),
 
-          // --- DRAGGABLE GLASS CARD (95 % height) ---
+          // --- DRAGGABLE GLASS CARD (95 % height) ---
           Align(
             alignment: Alignment.bottomCenter,
             child: GestureDetector(
-              // Si l'utilisateur tire vers le bas de 12 px ou +
+              // Si l'utilisateur tire vers le bas de 12 px ou +
               onVerticalDragUpdate: (details) {
                 if (details.delta.dy > 12) {
                   Navigator.of(context).pop();
@@ -84,6 +166,16 @@ class _AddQuestionPageState extends State<AddQuestionPage> {
   }
 
   Widget _buildGlassCard(ThemeData theme) {
+    final t = AppLocalizations.of(context)!;
+    final viewInsets = MediaQuery.of(context).viewInsets.bottom; // hauteur clavier
+    final safeBottom = MediaQuery.of(context).padding.bottom;
+
+    // La barre d'ajout est en overlay et remonte au-dessus du clavier
+    final double composerBottomPad = (viewInsets > 0 ? viewInsets : safeBottom) + 12;
+
+    // On NE repousse pas la liste de la hauteur du champ ; seulement du clavier
+    final double listBottomPadding = (viewInsets > 0 ? viewInsets + 12 : 12);
+
     return ClipRRect(
       borderRadius: BorderRadius.circular(28),
       child: BackdropFilter(
@@ -94,99 +186,93 @@ class _AddQuestionPageState extends State<AddQuestionPage> {
             borderRadius: BorderRadius.circular(28),
             color: Colors.black.withOpacity(.5),
           ),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
+          child: Stack(
             children: [
-              // drag bar
-              const SizedBox(height: 8),
-              Container(
-                width: 40,
-                height: 4,
-                decoration: BoxDecoration(
-                  color: Colors.white.withOpacity(.4),
-                  borderRadius: BorderRadius.circular(2),
-                ),
-              ),
-              const SizedBox(height: 12),
-              Align(
-                alignment: Alignment.centerLeft,
-                child: Padding(
-                  padding: const EdgeInsets.only(left: 12),
-                  child: _buildCloseButton(),
-                ),
-              ),
-              const SizedBox(height: 12),
+              // --- Contenu principal (drag bar, header, liste) : la liste peut passer "sous" les overlays
+              Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  // drag bar
+                  const SizedBox(height: 8),
+                  Container(
+                    width: 40,
+                    height: 4,
+                    decoration: BoxDecoration(
+                      color: Colors.white.withOpacity(.4),
+                      borderRadius: BorderRadius.circular(2),
+                    ),
+                  ),
+                  const SizedBox(height: 12),
 
-              // list of questions (scrollable)
-              Flexible(
-                child: ListView.separated(
-                  padding: const EdgeInsets.fromLTRB(20, 4, 20, 20),
-                  itemCount: _questions.length,
-                  separatorBuilder: (_, __) => const SizedBox(height: 12),
-                  itemBuilder: (context, index) {
-                    final text = _questions[index];
-                    return _QuestionTile(
-                      text: text,
-                      onDelete: () {
-                        setState(() => _questions.removeAt(index));
-                        _saveQuestions();
+                  // Header: Close + Titre ("Add question") sur la même ligne
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 12),
+                    child: SizedBox(
+                      height: 48,
+                      child: Row(
+                        children: [
+                          _buildCloseButton(),
+                          Expanded(
+                            child: Center(
+                              child: Text(
+                                t.addQuestionButton, // ex. "Add question"
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                                style: const TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 20,
+                                  fontWeight: FontWeight.w700,
+                                ),
+                              ),
+                            ),
+                          ),
+                          // Espace factice pour centrer visuellement (taille du bouton Close)
+                          const SizedBox(width: 48),
+                        ],
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+
+                  // LISTE de questions — passe "derrière" la barre d'ajout (overlay)
+                  Expanded(
+                    child: ListView.separated(
+                      padding: EdgeInsets.fromLTRB(20, 4, 20, listBottomPadding),
+                      itemCount: _questions.length,
+                      separatorBuilder: (_, __) => const SizedBox(height: 12),
+                      keyboardDismissBehavior: ScrollViewKeyboardDismissBehavior.onDrag,
+                      itemBuilder: (context, index) {
+                        final text = _questions[index];
+                        return _QuestionTile(
+                          text: text,
+                          onDelete: () {
+                            setState(() => _questions.removeAt(index));
+                            _saveQuestions();
+                          },
+                          onEdit: (newValue) {
+                            setState(() => _questions[index] = newValue);
+                            _saveQuestions();
+                          },
+                        );
                       },
-                      onEdit: (newValue) {
-                        setState(() => _questions[index] = newValue);
-                        _saveQuestions();
-                      },
-                    );
-                  },
+                    ),
+                  ),
+                ],
+              ),
+
+              // --- Barre d'ajout en overlay : remonte au-dessus du clavier
+              Positioned(
+                left: 0,
+                right: 0,
+                bottom: 0,
+                child: AnimatedPadding(
+                  duration: const Duration(milliseconds: 200),
+                  curve: Curves.easeOutCubic,
+                  padding: EdgeInsets.only(bottom: composerBottomPad),
+                  child: _buildInlineComposerBar(),
                 ),
               ),
-              const SizedBox(height: 16),
-              _buildAddButton(),
-              const SizedBox(height: 68),
             ],
-          ),
-        ),
-      ),
-    );
-  }
-
-  Widget _buildAddButton() {
-    final t = AppLocalizations.of(context)!;
-    final screenWidth = MediaQuery.of(context).size.width;
-    final bool isTablet = MediaQuery.of(context).size.shortestSide >= 600;
-    final double buttonWidth = screenWidth * (isTablet ? 0.5 : 0.7);
-    return GestureDetector(
-      onTap: () async {
-        _controller.clear();
-        final newQuestion = await showDialog<String>(
-          context: context,
-          builder: (_) => _AddQuestionDialog(controller: _controller, isEditing: false),
-        );
-        if (newQuestion != null && newQuestion.trim().isNotEmpty) {
-          setState(() => _questions.add(newQuestion.trim()));
-          _saveQuestions();
-        }
-      },
-      child: SizedBox(
-        width: buttonWidth,
-        child: Container(
-          padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-          decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(100),
-            color: Colors.transparent,
-            border: Border.all(color: Colors.white, width: 1),
-          ),
-          alignment: Alignment.center,
-          child: FittedBox(
-            fit: BoxFit.scaleDown,
-            child: Text(
-              t.addQuestionButton,
-              maxLines: 1,
-              style: const TextStyle(
-                fontSize: 36, // starting size; scales down to fit
-                fontWeight: FontWeight.w500,
-                color: Colors.white,
-              ),
-            ),
           ),
         ),
       ),
@@ -233,7 +319,7 @@ class _QuestionTile extends StatelessWidget {
       child: BackdropFilter(
         filter: ImageFilter.blur(sigmaX: 15, sigmaY: 15),
         child: Container(
-          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 9),
           decoration: BoxDecoration(
             color: Colors.white.withOpacity(.10),
             borderRadius: BorderRadius.circular(16),
@@ -244,6 +330,7 @@ class _QuestionTile extends StatelessWidget {
           ),
           child: GestureDetector(
             onTap: () async {
+              // On conserve la popup pour EDITER
               final updated = await showDialog<String>(
                 context: context,
                 builder: (_) => _AddQuestionDialog(
@@ -282,7 +369,7 @@ class _QuestionTile extends StatelessWidget {
 }
 
 /// ---------------------------------------------------------------------------
-///  ADD QUESTION DIALOG
+///  ADD QUESTION DIALOG (pour l'édition uniquement)
 /// ---------------------------------------------------------------------------
 class _AddQuestionDialog extends StatelessWidget {
   const _AddQuestionDialog({required this.controller, required this.isEditing});

@@ -76,7 +76,7 @@ class _PaywallPageState extends State<PaywallPage> with TickerProviderStateMixin
   //  UI State
   // ---------------------------------------------------------------------------
   bool   _isLoading    = false;
-  String _selectedPlan = "monthly"; // 'weekly' | 'monthly' | 'lifetime'
+  String _selectedPlan = "weekly"; // 'weekly' | 'monthly' | 'lifetime'
 
   // Indique si ce paywall est affiché dans une bottom‑sheet
   bool? _presentedAsSheet;
@@ -550,7 +550,7 @@ class _PaywallPageState extends State<PaywallPage> with TickerProviderStateMixin
     final t = AppLocalizations.of(context)!;   // localisation
     return Column(
       children: [
-        _planRow("monthly",  t.payPlanMonthly,  _monthlyPrice, w, h),
+        _planRow("weekly",  t.payPlanWeekly,  _weeklyPrice, w, h),
         const SizedBox(height: 10),
         _planRow("lifetime", t.payPlanLifetime, _lifetimePrice, w, h),
       ],
@@ -607,21 +607,15 @@ class _PaywallPageState extends State<PaywallPage> with TickerProviderStateMixin
     final isMonthly  = _selectedPlan == 'monthly';
     final isLifetime = _selectedPlan == 'lifetime';
 
-    String? priceText;
     String secondLine;
 
     if (isMonthly) {
-      priceText = _monthlyPrice; // nullable
       secondLine = t.payCTA; // "Try FREE & Subscribe"
     } else if (isLifetime) {
-      priceText = _lifetimePrice; // nullable
       secondLine = t.payUnlockLifetime;
     } else { // weekly
-      priceText = _weeklyPrice; // nullable
       secondLine = t.paySubscribeNow;
     }
-
-    final bool priceLoading = priceText == null;
 
     final content = _isLoading
         ? const SizedBox(
@@ -632,40 +626,14 @@ class _PaywallPageState extends State<PaywallPage> with TickerProviderStateMixin
               strokeWidth: 2.5,
             ),
           )
-        : Column(
-            mainAxisSize: MainAxisSize.min,
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              priceLoading
-                  ? const SizedBox(
-                      height: 20,
-                      width: 20,
-                      child: CircularProgressIndicator(
-                        color: Colors.white,
-                        strokeWidth: 2.5,
-                      ),
-                    )
-                  : Text(
-                      priceText!,
-                      style: const TextStyle(
-                        color: Colors.white,
-                        fontSize: 20,
-                        fontWeight: FontWeight.w600,
-                      ),
-                    ),
-              if (secondLine.isNotEmpty) ...[
-                const SizedBox(height: 4),
-                Text(
-                  secondLine,
-                  style: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 20,
-                    fontWeight: FontWeight.w600,
-                  ),
-                  textAlign: TextAlign.center,
-                ),
-              ],
-            ],
+        : Text(
+            secondLine,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontWeight: FontWeight.w600,
+            ),
+            textAlign: TextAlign.center,
           );
 
     return Padding(

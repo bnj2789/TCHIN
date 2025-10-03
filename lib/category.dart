@@ -153,6 +153,28 @@ class _CategorySelectionScreenState extends State<CategorySelectionScreen>
           image: 'assets/illustrations/glitch.png',
           gradient: catGradients['glitch']!,
         ),
+        _CategoryData(
+          id: 'add',
+          title: t.catAdd,
+          subtitle: t.catAddSub,
+          image: 'assets/illustrations/add.png',
+          gradient: const RadialGradient(
+            colors: [Color(0xFF00E676), Color(0xFF00B0FF)],
+            center: Alignment.center,
+            radius: 1.15,
+          ),
+        ),
+        _CategoryData(
+          id: 'mycard',
+          title: t.catMyCards,
+          subtitle: t.catMyCards,
+          image: 'assets/illustrations/mycards.png',
+          gradient: const RadialGradient(
+            colors: [Color.fromARGB(255, 0, 81, 231), Color.fromARGB(255, 0, 0, 0)],
+            center: Alignment.center,
+            radius: 1.15,
+          ),
+        ),
       ];
       _categoriesBuilt = true;
     }
@@ -222,7 +244,7 @@ class _CategorySelectionScreenState extends State<CategorySelectionScreen>
       extendBodyBehindAppBar: true,
       body: Stack(
         children: [
-          Container(color: const Color(0xFF0E0E0E)),
+          Container(color: const Color.fromARGB(255, 0, 0, 0)),
           // Fixed grain overlay
 
           CustomScrollView(

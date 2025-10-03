@@ -7,7 +7,47 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';   // <-- NEW
 import 'package:audioplayers/audioplayers.dart';
 import 'package:lottie/lottie.dart';
+
 import '../paywall.dart';
+
+// --- Single SFX player for Life icons (prevents overlapping plays) ---------
+AudioPlayer? _lifeSfxPlayer;
+String? _lifeSfxCurrentAsset;
+bool _lifeSfxIsPlaying = false;
+int _lifeSfxNonce = 0;
+
+Future<void> _playLifeSfx(String assetSourcePath) async {
+  _lifeSfxPlayer ??= AudioPlayer();
+  final int nonce = ++_lifeSfxNonce;
+
+  // If something is already playing
+  if (_lifeSfxIsPlaying) {
+    if (_lifeSfxCurrentAsset == assetSourcePath) {
+      // Same sound still playing → ignore
+      return;
+    } else {
+      // Different sound requested → stop previous before playing new
+      try { await _lifeSfxPlayer!.stop(); } catch (_) {}
+    }
+  }
+
+  _lifeSfxCurrentAsset = assetSourcePath;
+  _lifeSfxIsPlaying = true;
+
+  try {
+    await _lifeSfxPlayer!.play(AssetSource(assetSourcePath));
+  } catch (_) {
+    _lifeSfxIsPlaying = false;
+    return;
+  }
+
+  // Clear flags when playback completes (only if still the latest request)
+  _lifeSfxPlayer!.onPlayerComplete.first.then((_) {
+    if (nonce != _lifeSfxNonce) return; // an even newer play started
+    _lifeSfxIsPlaying = false;
+    _lifeSfxCurrentAsset = null;
+  });
+}
 
 /// ---------------------------------------------------------------------------
 ///  Centralised game settings  +  ready‑made UI (panel & card)
@@ -415,12 +455,7 @@ class SettingsPanel extends StatelessWidget {
                           // If selection changed during the delay, skip playback
                           if (Settings.get().lifeIconIdx != i) return;
 
-                          final player = AudioPlayer();
-                          // play without awaiting completion; dispose when finished
-                          player.play(AssetSource(assetSourcePath));
-                          player.onPlayerComplete.first.then((_) {
-                            player.dispose();
-                          });
+                          await _playLifeSfx(assetSourcePath);
                         } catch (_) {
                           // swallow any audio error silently; selection UI still updates
                         }
@@ -502,26 +537,15 @@ class SettingsPanel extends StatelessWidget {
                 'https://play.google.com/store/apps/details?id=com.impactmsg.swipecolorgame',
               ),
             ),
-            _simpleRow(
+             _simpleRow(
               ctx: context,
-              assetIcon: 'assets/icons/lejeuqui.png',
-              text: t.appLeJeuQui,
-              subtitle: t.appLeJeuQuiSub,
+              assetIcon: 'assets/icons/lietime.png',
+              text: 'LieTime : IMPOSTOR Game',
+              subtitle: t.appLieTimeSub,
               onTap: () => _launchURL(
                 context,
-                'https://apps.apple.com/us/app/le-jeu-qui/id6448712204',
-                'https://play.google.com/store/apps/details?id=com.lejeuqui',
-              ),
-            ),
-            _simpleRow(
-              ctx: context,
-              assetIcon: 'assets/icons/dilemmium.png',
-              text: t.appDilemmium,
-              subtitle: t.appDilemmiumSub,
-              onTap: () => _launchURL(
-                context,
-                'https://apps.apple.com/us/app/dilemmium-adult-choices/id6740153076',
-                'https://apps.apple.com/us/app/dilemmium-adult-choices/id6740153076',
+                'https://apps.apple.com/us/app/lietime-impostor-game/id6752035991',
+                'https://play.google.com/store/apps/details?id=com.impactmsg.impostorGame',
               ),
             ),
             _simpleRow(
@@ -535,6 +559,7 @@ class SettingsPanel extends StatelessWidget {
                 'https://play.google.com/store/apps/details?id=com.impactmsg.yadeba',
               ),
             ),
+            
             _simpleRow(
               ctx: context,
               assetIcon: 'assets/icons/royaltruth.png',
@@ -555,6 +580,30 @@ class SettingsPanel extends StatelessWidget {
                 context,
                 'https://apps.apple.com/fr/app/6-9-secondes-jeu-de-soir%C3%A9e/id6748928134',
                 'https://play.google.com/store/apps/details?id=com.impactmsg.secs69',
+              ),
+            ),
+            _simpleRow(
+              ctx: context,
+              assetIcon: 'assets/icons/dilemmium.png',
+              text: t.appDilemmium,
+              subtitle: t.appDilemmiumSub,
+              onTap: () => _launchURL(
+                context,
+                'https://apps.apple.com/us/app/dilemmium-adult-choices/id6740153076',
+                'https://apps.apple.com/us/app/dilemmium-adult-choices/id6740153076',
+              ),
+            ),
+
+
+            _simpleRow(
+              ctx: context,
+              assetIcon: 'assets/icons/lejeuqui.png',
+              text: t.appLeJeuQui,
+              subtitle: t.appLeJeuQuiSub,
+              onTap: () => _launchURL(
+                context,
+                'https://apps.apple.com/us/app/le-jeu-qui/id6448712204',
+                'https://play.google.com/store/apps/details?id=com.lejeuqui',
               ),
             ),
           ],
